@@ -34,3 +34,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard (negation_fn_applied_twice)
 - - - - [x] Exercise: 3 stars, standard, optional (andb_eq_orb)
 - - - - [x] Exercise: 3 stars, standard (binary)
+- - [ ] Proof by Induction
+- - - [ ] Proof by Induction
+- - - - [ ] Exercise: 2 stars, standard, recommended (basic_induction)
+- - - - [ ] Exercise: 2 stars, standard (double_plus)
+- - - - [ ] Exercise: 2 stars, standard, optional (evenb_S)
+- - - - [ ] Exercise: 1 star, standard (destruct_induction)
