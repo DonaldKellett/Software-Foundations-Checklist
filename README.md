@@ -13,7 +13,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 ## The Checklist
 
 - [ ] Volume 1: Logical Foundations
-- - [ ] Functional Programming in Coq
+- - [x] Functional Programming in Coq
 - - - [x] Data and Functions
 - - - - [x] Booleans
 - - - - - [x] Exercise: 1 star, standard (nandb)
@@ -29,8 +29,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard (zero_nbeq_plus_1)
 - - - - [x] Fixpoints and Structural Recursion (Optional)
 - - - - - [x] Exercise: 2 stars, standard, optional (decreasing)
-- - - [ ] More Exercises
-- - - - [ ] Exercise: 1 star, standard (indentity_fn_applied_twice)
-- - - - [ ] Exercise: 1 star, standard (negation_fn_applied_twice)
-- - - - [ ] Exercise: 3 stars, standard, optional (andb_eq_orb)
-- - - - [ ] Exercise: 3 stars, standard (binary)
+- - - [x] More Exercises
+- - - - [x] Exercise: 1 star, standard (indentity_fn_applied_twice)
+- - - - [x] Exercise: 1 star, standard (negation_fn_applied_twice)
+- - - - [x] Exercise: 3 stars, standard, optional (andb_eq_orb)
+- - - - [x] Exercise: 3 stars, standard (binary)
