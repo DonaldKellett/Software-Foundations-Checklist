@@ -21,6 +21,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Numbers
 - - - - - [x] Exercise: 1 star, standard (factorial)
 - - - - - [x] Exercise: 1 star, standard (ltb)
-- - - [ ] Proof by Rewriting
-- - - - [ ] Exercise: 1 star, standard (plus_id_exercise)
-- - - - [ ] Exercise: 2 stars, standard (mult_S_1)
+- - - [x] Proof by Rewriting
+- - - - [x] Exercise: 1 star, standard (plus_id_exercise)
+- - - - [x] Exercise: 2 stars, standard (mult_S_1)
