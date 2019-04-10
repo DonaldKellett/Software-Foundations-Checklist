@@ -15,6 +15,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - [ ] Volume 1: Logical Foundations
 - - [ ] Functional Programming in Coq
 - - - [ ] Data and Functions
-- - - - [ ] Booleans
+- - - - [x] Booleans
 - - - - - [x] Exercise: 1 star, standard (nandb)
-- - - - - [ ] Exercise: 1 star, standard (andb3)
+- - - - - [x] Exercise: 1 star, standard (andb3)
