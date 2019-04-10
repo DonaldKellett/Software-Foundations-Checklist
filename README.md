@@ -14,10 +14,13 @@ As such, this checklist is more meant as a way for me to track my progress throu
 
 - [ ] Volume 1: Logical Foundations
 - - [ ] Functional Programming in Coq
-- - - [ ] Data and Functions
+- - - [x] Data and Functions
 - - - - [x] Booleans
 - - - - - [x] Exercise: 1 star, standard (nandb)
 - - - - - [x] Exercise: 1 star, standard (andb3)
 - - - - [x] Numbers
 - - - - - [x] Exercise: 1 star, standard (factorial)
 - - - - - [x] Exercise: 1 star, standard (ltb)
+- - - [ ] Proof by Rewriting
+- - - - [ ] Exercise: 1 star, standard (plus_id_exercise)
+- - - - [ ] Exercise: 2 stars, standard (mult_S_1)
