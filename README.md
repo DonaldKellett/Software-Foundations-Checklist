@@ -24,6 +24,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Proof by Rewriting
 - - - - [x] Exercise: 1 star, standard (plus_id_exercise)
 - - - - [x] Exercise: 2 stars, standard (mult_S_1)
-- - - [ ] Proof by Case Analysis
-- - - - [ ] Exercise: 2 stars, standard (andb_true_elim2)
-- - - - [ ] Exercise: 1 star, standard (zero_nbeq_plus_1)
+- - - [x] Proof by Case Analysis
+- - - - [x] Exercise: 2 stars, standard (andb_true_elim2)
+- - - - [x] Exercise: 1 star, standard (zero_nbeq_plus_1)
