@@ -18,6 +18,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Booleans
 - - - - - [x] Exercise: 1 star, standard (nandb)
 - - - - - [x] Exercise: 1 star, standard (andb3)
-- - - - [ ] Numbers
-- - - - - [ ] Exercise: 1 star, standard (factorial)
-- - - - - [ ] Exercise: 1 star, standard (ltb)
+- - - - [x] Numbers
+- - - - - [x] Exercise: 1 star, standard (factorial)
+- - - - - [x] Exercise: 1 star, standard (ltb)
