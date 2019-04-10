@@ -27,3 +27,10 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Proof by Case Analysis
 - - - - [x] Exercise: 2 stars, standard (andb_true_elim2)
 - - - - [x] Exercise: 1 star, standard (zero_nbeq_plus_1)
+- - - - [x] Fixpoints and Structural Recursion (Optional)
+- - - - - [x] Exercise: 2 stars, standard, optional (decreasing)
+- - - [ ] More Exercises
+- - - - [ ] Exercise: 1 star, standard (indentity_fn_applied_twice)
+- - - - [ ] Exercise: 1 star, standard (negation_fn_applied_twice)
+- - - - [ ] Exercise: 3 stars, standard, optional (andb_eq_orb)
+- - - - [ ] Exercise: 3 stars, standard (binary)
