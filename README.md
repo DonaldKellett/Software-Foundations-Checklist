@@ -47,6 +47,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, standard, recommended (mult_comm)
 - - - - [x] Exercise: 3 stars, standard, optional (more_exercises)
 - - - - [x] Exercise: 2 stars, standard, optional (eqb_refl)
-- - - - [ ] Exercise: 2 stars, standard, optional (plus_swap')
+- - - - [x] Exercise: 2 stars, standard, optional (plus_swap')
 - - - - [ ] Exercise: 3 stars, standard, recommended (binary_commute)
 - - - - [ ] Exercise: 5 stars, advanced (binary_inverse)
