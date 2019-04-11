@@ -40,3 +40,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard (double_plus)
 - - - - [x] Exercise: 2 stars, standard, optional (evenb_S)
 - - - - [x] Exercise: 1 star, standard (destruct_induction)
+- - - [ ] Formal vs. Informal Proof
+- - - - [ ] Exercise: 2 stars, advanced, recommended (plus_comm_informal)
+- - - - [ ] Exercise: 2 stars, standard, optional (eqb_refl_informal)
