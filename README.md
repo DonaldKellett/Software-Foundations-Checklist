@@ -40,6 +40,13 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard (double_plus)
 - - - - [x] Exercise: 2 stars, standard, optional (evenb_S)
 - - - - [x] Exercise: 1 star, standard (destruct_induction)
-- - - [ ] Formal vs. Informal Proof
+- - - [x] Formal vs. Informal Proof
 - - - - [x] Exercise: 2 stars, advanced, recommended (plus_comm_informal)
-- - - - [ ] Exercise: 2 stars, standard, optional (eqb_refl_informal)
+- - - - [x] Exercise: 2 stars, standard, optional (eqb_refl_informal)
+- - - [ ] More Exercises
+- - - - [ ] Exercise: 3 stars, standard, recommended (mult_comm)
+- - - - [ ] Exercise: 3 stars, standard, optional (more_exercises)
+- - - - [ ] Exercise: 2 stars, standard, optional (eqb_refl)
+- - - - [ ] Exercise: 2 stars, standard, optional (plus_swap')
+- - - - [ ] Exercise: 3 stars, standard, recommended (binary_commute)
+- - - - [ ] Exercise: 5 stars, advanced (binary_inverse)
