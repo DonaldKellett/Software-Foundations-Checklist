@@ -77,5 +77,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Partial Maps
 - - - - [x] Exercise: 1 star, standard (eqb_id_refl)
 - - - - [x] Exercise: 1 star, standard (update_eq)
-- - - - [ ] Exercise: 1 star, standard (update_neq)
+- - - - [x] Exercise: 1 star, standard (update_neq)
 - - - - [ ] Exercise: 2 stars, standard (baz_num_elts)
