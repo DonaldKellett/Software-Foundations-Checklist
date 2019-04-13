@@ -74,3 +74,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Options
 - - - - [x] Exercise: 2 stars, standard (hd_error)
 - - - - [x] Exercise: 1 star, standard, optional (option_elim_hd)
+- - - [ ] Partial Maps
+- - - - [ ] Exercise: 1 star, standard (eqb_id_refl)
+- - - - [ ] Exercise: 1 star, standard (update_eq)
+- - - - [ ] Exercise: 1 star, standard (update_neq)
+- - - - [ ] Exercise: 2 stars, standard (baz_num_elts)
