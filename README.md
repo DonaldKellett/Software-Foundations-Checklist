@@ -50,3 +50,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, optional (plus_swap')
 - - - - [x] Exercise: 3 stars, standard, recommended (binary_commute)
 - - - - [ ] Exercise: 5 stars, advanced (binary_inverse)
+- - [ ] Working with Structured Data
+- - - [ ] Pairs of Numbers
+- - - - [ ] Exercise: 1 star, standard (snd_fst_is_swap)
+- - - - [ ] Exercise: 1 star, standard, optional (fst_swap_is_snd)
