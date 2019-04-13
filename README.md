@@ -59,6 +59,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, recommended (list_funs)
 - - - - - [x] Exercise: 3 stars, advanced (alternate)
 - - - - [ ] Bags via Lists
-- - - - - [ ] Exercise: 3 stars, standard, recommended (bag_functions)
+- - - - - [x] Exercise: 3 stars, standard, recommended (bag_functions)
 - - - - - [ ] Exercise: 3 stars, standard, optional (bag_more_functions)
 - - - - - [ ] Exercise: 2 stars, standard, recommended (bag_theorem)
