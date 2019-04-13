@@ -69,5 +69,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] List Exercises, Part 2
 - - - - - [x] Exercise: 1 star, standard (count_member_nonzero)
 - - - - - [x] Exercise: 3 stars, advanced (remove_does_not_increase_count)
-- - - - - [ ] Exercise: 3 stars, standard, optional (bag_count_sum)
+- - - - - [x] Exercise: 3 stars, standard, optional (bag_count_sum)
 - - - - - [ ] Exercise: 4 stars, advanced (rev_injective)
