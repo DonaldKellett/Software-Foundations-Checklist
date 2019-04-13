@@ -54,7 +54,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Pairs of Numbers
 - - - - [x] Exercise: 1 star, standard (snd_fst_is_swap)
 - - - - [x] Exercise: 1 star, standard, optional (fst_swap_is_snd)
-- - - [ ] Lists of Numbers
+- - - [x] Lists of Numbers
 - - - - [x] Exercises
 - - - - - [x] Exercise: 2 stars, standard, recommended (list_funs)
 - - - - - [x] Exercise: 3 stars, advanced (alternate)
