@@ -63,9 +63,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard, optional (bag_more_functions)
 - - - - - [x] Exercise: 2 stars, standard, recommended (bag_theorem)
 - - - [ ] Reasoning About Lists
-- - - - [ ] List Exercises, Part 1
+- - - - [x] List Exercises, Part 1
 - - - - - [x] Exercise: 3 stars, standard (list_exercises)
-- - - - - [ ] Exercise: 2 stars, standard (eqblist)
+- - - - - [x] Exercise: 2 stars, standard (eqblist)
 - - - - [ ] List Exercises, Part 2
 - - - - - [ ] Exercise: 1 star, standard (count_member_nonzero)
 - - - - - [ ] Exercise: 3 stars, advanced (remove_does_not_increase_count)
