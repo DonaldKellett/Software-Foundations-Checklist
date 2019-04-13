@@ -50,7 +50,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, optional (plus_swap')
 - - - - [x] Exercise: 3 stars, standard, recommended (binary_commute)
 - - - - [ ] Exercise: 5 stars, advanced (binary_inverse)
-- - [ ] Working with Structured Data
+- - [x] Working with Structured Data
 - - - [x] Pairs of Numbers
 - - - - [x] Exercise: 1 star, standard (snd_fst_is_swap)
 - - - - [x] Exercise: 1 star, standard, optional (fst_swap_is_snd)
@@ -74,8 +74,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Options
 - - - - [x] Exercise: 2 stars, standard (hd_error)
 - - - - [x] Exercise: 1 star, standard, optional (option_elim_hd)
-- - - [ ] Partial Maps
+- - - [x] Partial Maps
 - - - - [x] Exercise: 1 star, standard (eqb_id_refl)
 - - - - [x] Exercise: 1 star, standard (update_eq)
 - - - - [x] Exercise: 1 star, standard (update_neq)
-- - - - [ ] Exercise: 2 stars, standard (baz_num_elts)
+- - - - [x] Exercise: 2 stars, standard (baz_num_elts)
