@@ -72,5 +72,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard, optional (bag_count_sum)
 - - - - - [x] Exercise: 4 stars, advanced (rev_injective)
 - - - [ ] Options
-- - - - [ ] Exercise: 2 stars, standard (hd_error)
+- - - - [x] Exercise: 2 stars, standard (hd_error)
 - - - - [ ] Exercise: 1 star, standard, optional (option_elim_hd)
