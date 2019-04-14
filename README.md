@@ -103,7 +103,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Fold
 - - - - - [x] Exercise: 1 star, advanced (fold_types_different)
 - - - [ ] Additional Exercises
-- - - - [ ] Exercise: 2 stars, standard (fold_length)
+- - - - [x] Exercise: 2 stars, standard (fold_length)
 - - - - [ ] Exercise: 3 stars, standard (fold_map)
 - - - - [ ] Exercise: 2 stars, advanced (currying)
 - - - - [ ] Exercise: 2 stars, advanced (nth_error_informal)
