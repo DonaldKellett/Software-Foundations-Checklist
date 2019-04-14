@@ -86,6 +86,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercises
 - - - - - - [x] Exercise: 2 stars, standard, optional (poly_exercises)
 - - - - - - [x] Exercise: 2 stars, standard, optional (more_poly_exercises)
-- - - - [ ] Polymorphic Pairs
+- - - - [x] Polymorphic Pairs
 - - - - - [x] Exercise: 1 star, standard, optional (combine_checks)
-- - - - - [ ] Exercise: 2 stars, standard, recommended (split)
+- - - - - [x] Exercise: 2 stars, standard, recommended (split)
