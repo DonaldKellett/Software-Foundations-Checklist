@@ -89,3 +89,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Polymorphic Pairs
 - - - - - [x] Exercise: 1 star, standard, optional (combine_checks)
 - - - - - [x] Exercise: 2 stars, standard, recommended (split)
+- - - - [ ] Polymorphic Options
+- - - - - [ ] Exercise: 1 star, standard, optional (hd_error_poly)
