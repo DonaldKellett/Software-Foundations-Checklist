@@ -109,5 +109,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, advanced (nth_error_informal)
 - - - - [x] Exercise: 1 star, advanced (church_succ)
 - - - - [x] Exercise: 1 star, advanced (church_plus)
-- - - - [ ] Exercise: 2 stars, advanced (church_mult)
+- - - - [x] Exercise: 2 stars, advanced (church_mult)
 - - - - [ ] Exercise: 2 stars, advanced (church_exp)
