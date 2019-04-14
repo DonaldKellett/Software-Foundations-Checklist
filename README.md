@@ -97,6 +97,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard (partition)
 - - - - [ ] Map
 - - - - - [ ] Exercises
-- - - - - - [ ] Exercise: 3 stars, standard (map_rev)
+- - - - - - [x] Exercise: 3 stars, standard (map_rev)
 - - - - - - [ ] Exercise: 2 stars, standard, recommended (flat_map)
 - - - - - - [ ] Exercise: 2 stars, standard, optional (implicit_args)
