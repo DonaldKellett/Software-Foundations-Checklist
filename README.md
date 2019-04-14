@@ -92,6 +92,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Polymorphic Options
 - - - - - [x] Exercise: 1 star, standard, optional (hd_error_poly)
 - - - [ ] Functions as Data
-- - - - [ ] Anonymous Functions
+- - - - [x] Anonymous Functions
 - - - - - [x] Exercise: 2 stars, standard (filter_even_gt7)
-- - - - - [ ] Exercise: 3 stars, standard (partition)
+- - - - - [x] Exercise: 3 stars, standard (partition)
