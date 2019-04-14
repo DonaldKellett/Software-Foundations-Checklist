@@ -84,5 +84,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Polymorphic Lists
 - - - - - [x] Exercise: 2 stars, standard (mumble_grumble)
 - - - - - [ ] Exercises
-- - - - - - [ ] Exercise: 2 stars, standard, optional (poly_exercises)
+- - - - - - [x] Exercise: 2 stars, standard, optional (poly_exercises)
 - - - - - - [ ] Exercise: 2 stars, standard, optional (more_poly_exercises)
