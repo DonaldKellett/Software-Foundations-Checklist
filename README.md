@@ -100,5 +100,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - - [x] Exercise: 3 stars, standard (map_rev)
 - - - - - - [x] Exercise: 2 stars, standard, recommended (flat_map)
 - - - - - - [x] Exercise: 2 stars, standard, optional (implicit_args)
-- - - - [ ] Fold
-- - - - - [ ] Exercise: 1 star, advanced (fold_types_different)
+- - - - [x] Fold
+- - - - - [x] Exercise: 1 star, advanced (fold_types_different)
