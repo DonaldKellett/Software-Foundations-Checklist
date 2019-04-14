@@ -79,7 +79,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard (update_eq)
 - - - - [x] Exercise: 1 star, standard (update_neq)
 - - - - [x] Exercise: 2 stars, standard (baz_num_elts)
-- - [ ] Polymorphism and Higher-Order Functions
+- - [x] Polymorphism and Higher-Order Functions
 - - - [x] Polymorphism
 - - - - [x] Polymorphic Lists
 - - - - - [x] Exercise: 2 stars, standard (mumble_grumble)
@@ -102,7 +102,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - - [x] Exercise: 2 stars, standard, optional (implicit_args)
 - - - - [x] Fold
 - - - - - [x] Exercise: 1 star, advanced (fold_types_different)
-- - - [ ] Additional Exercises
+- - - [x] Additional Exercises
 - - - - [x] Exercise: 2 stars, standard (fold_length)
 - - - - [x] Exercise: 3 stars, standard (fold_map)
 - - - - [x] Exercise: 2 stars, advanced (currying)
@@ -110,4 +110,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, advanced (church_succ)
 - - - - [x] Exercise: 1 star, advanced (church_plus)
 - - - - [x] Exercise: 2 stars, advanced (church_mult)
-- - - - [ ] Exercise: 2 stars, advanced (church_exp)
+- - - - [x] Exercise: 2 stars, advanced (church_exp)
+- - [ ] More Basic Tactics
