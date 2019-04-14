@@ -80,7 +80,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard (update_neq)
 - - - - [x] Exercise: 2 stars, standard (baz_num_elts)
 - - [ ] Polymorphism and Higher-Order Functions
-- - - [ ] Polymorphism
+- - - [x] Polymorphism
 - - - - [x] Polymorphic Lists
 - - - - - [x] Exercise: 2 stars, standard (mumble_grumble)
 - - - - - [x] Exercises
@@ -89,5 +89,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Polymorphic Pairs
 - - - - - [x] Exercise: 1 star, standard, optional (combine_checks)
 - - - - - [x] Exercise: 2 stars, standard, recommended (split)
-- - - - [ ] Polymorphic Options
-- - - - - [ ] Exercise: 1 star, standard, optional (hd_error_poly)
+- - - - [x] Polymorphic Options
+- - - - - [x] Exercise: 1 star, standard, optional (hd_error_poly)
