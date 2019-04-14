@@ -93,5 +93,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard, optional (hd_error_poly)
 - - - [ ] Functions as Data
 - - - - [ ] Anonymous Functions
-- - - - - [ ] Exercise: 2 stars, standard (filter_even_gt7)
+- - - - - [x] Exercise: 2 stars, standard (filter_even_gt7)
 - - - - - [ ] Exercise: 3 stars, standard (partition)
