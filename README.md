@@ -79,3 +79,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard (update_eq)
 - - - - [x] Exercise: 1 star, standard (update_neq)
 - - - - [x] Exercise: 2 stars, standard (baz_num_elts)
+- - [ ] Polymorphism and Higher-Order Functions
+- - - [ ] Polymorphism
+- - - - [ ] Polymorphic Lists
+- - - - - [ ] Exercise: 2 stars, standard (mumble_grumble)
