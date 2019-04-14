@@ -82,4 +82,4 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Polymorphism and Higher-Order Functions
 - - - [ ] Polymorphism
 - - - - [ ] Polymorphic Lists
-- - - - - [ ] Exercise: 2 stars, standard (mumble_grumble)
+- - - - - [x] Exercise: 2 stars, standard (mumble_grumble)
