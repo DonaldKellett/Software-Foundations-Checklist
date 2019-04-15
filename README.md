@@ -121,3 +121,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] The `injection` and `discriminate` Tactics
 - - - - [x] Exercise: 1 star, standard (injection_ex3)
 - - - - [x] Exercise: 1 star, standard (discriminate_ex3)
+- - - [ ] Using Tactics on Hypotheses
+- - - - [ ] Exercise: 3 stars, standard, recommended (plus_n_n_injective)
