@@ -118,3 +118,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard, optional (apply_rewrite)
 - - - [x] The `apply with` tactic
 - - - - [x] Exercise: 3 stars, standard, optional (apply_with_exercise)
+- - - [ ] The `injection` and `discriminate` Tactics
+- - - - [ ] Exercise: 1 star, standard (injection_ex3)
+- - - - [ ] Exercise: 1 star, standard (discriminate_ex3)
