@@ -114,5 +114,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] More Basic Tactics
 - - - [ ] The `apply` tactic
 - - - - [x] Exercise: 2 stars, standard, optional (silly_ex)
-- - - - [ ] Exercise: 3 stars, standard (apply_exercise1)
+- - - - [x] Exercise: 3 stars, standard (apply_exercise1)
 - - - - [ ] Exercise: 1 star, standard, optional (apply_rewrite)
