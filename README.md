@@ -112,3 +112,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, advanced (church_mult)
 - - - - [x] Exercise: 2 stars, advanced (church_exp)
 - - [ ] More Basic Tactics
+- - - [ ] The `apply` tactic
+- - - - [ ] Exercise: 2 stars, standard, optional (silly_ex)
+- - - - [ ] Exercise: 3 stars, standard (apply_exercise1)
+- - - - [ ] Exercise: 1 star, standard, optional (apply_rewrite)
