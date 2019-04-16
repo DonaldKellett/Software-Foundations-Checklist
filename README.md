@@ -123,7 +123,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard (discriminate_ex3)
 - - - [x] Using Tactics on Hypotheses
 - - - - [x] Exercise: 3 stars, standard, recommended (plus_n_n_injective)
-- - - [ ] Varying the Induction Hypothesis
+- - - [x] Varying the Induction Hypothesis
 - - - - [x] Exercise: 2 stars, standard (eqb_true)
 - - - - [x] Exercise: 2 stars, advanced (eqb_true_informal)
-- - - - [ ] Exercise: 3 stars, standard, recommended (gen_dep_practice)
+- - - - [x] Exercise: 3 stars, standard, recommended (gen_dep_practice)
