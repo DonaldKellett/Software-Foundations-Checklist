@@ -132,7 +132,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard (destruct_eqn_practice)
 - - - [ ] Additional Exercises
 - - - - [x] Exercise: 3 stars, standard (eqb_sym)
-- - - - [ ] Exercise: 3 stars, advanced, optional (eqb_sym_informal)
+- - - - [x] Exercise: 3 stars, advanced, optional (eqb_sym_informal)
 - - - - [ ] Exercise: 3 stars, standard, optional (eqb_trans)
 - - - - [ ] Exercise: 3 stars, advanced (split_combine)
 - - - - [ ] Exercise: 3 stars, advanced (filter_exercise)
