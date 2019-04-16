@@ -128,5 +128,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, advanced (eqb_true_informal)
 - - - - [x] Exercise: 3 stars, standard, recommended (gen_dep_practice)
 - - - [ ] Using `destruct` on Compound Expressions
-- - - - [ ] Exercise: 3 stars, standard, optional (combine_split)
+- - - - [x] Exercise: 3 stars, standard, optional (combine_split)
 - - - - [ ] Exercise: 2 stars, standard (destruct_eqn_practice)
