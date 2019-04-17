@@ -138,3 +138,20 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, advanced (filter_exercise)
 - - - - [x] Exercise: 4 stars, advanced, recommended (forall_exists_challenge)
 - - [ ] Logic in Coq
+- - - [ ] Logical Connectives
+- - - - [ ] Conjunction
+- - - - - [ ] Exercise: 2 stars, standard (and_exercise)
+- - - - - [ ] Exercise: 1 star, standard, optional (proj2)
+- - - - - [ ] Exercise: 2 stars, standard (and_assoc)
+- - - - [ ] Falsehood and Negation
+- - - - - [ ] Exercise: 2 stars, standard, optional (not_implies_our_not)
+- - - - - [ ] Exercise: 2 stars, advanced (double_neg_inf)
+- - - - - [ ] Exercise: 2 stars, standard, recommended (contrapositive)
+- - - - - [ ] Exercise: 1 star, standard (not_both_true_and_false)
+- - - - - [ ] Exercise: 1 star, advanced (informal_not_PNP)
+- - - - [ ] Logical Equivalence
+- - - - - [ ] Exercise: 3 stars, standard (or_distributes_over_and)
+- - - - [ ] Existential Quantification
+- - - - - [ ] Exercise: 1 star, standard, recommended (dist_not_exists)
+- - - - - [ ] Exercise: 2 stars, standard (dist_exists_or)
+- - - [ ] Programming with Propositions
