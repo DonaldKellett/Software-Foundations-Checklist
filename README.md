@@ -140,7 +140,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Logic in Coq
 - - - [ ] Logical Connectives
 - - - - [ ] Conjunction
-- - - - - [ ] Exercise: 2 stars, standard (and_exercise)
+- - - - - [x] Exercise: 2 stars, standard (and_exercise)
 - - - - - [ ] Exercise: 1 star, standard, optional (proj2)
 - - - - - [ ] Exercise: 2 stars, standard (and_assoc)
 - - - - [ ] Falsehood and Negation
