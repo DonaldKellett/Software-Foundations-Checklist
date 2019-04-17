@@ -141,7 +141,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Logical Connectives
 - - - - [ ] Conjunction
 - - - - - [x] Exercise: 2 stars, standard (and_exercise)
-- - - - - [ ] Exercise: 1 star, standard, optional (proj2)
+- - - - - [x] Exercise: 1 star, standard, optional (proj2)
 - - - - - [ ] Exercise: 2 stars, standard (and_assoc)
 - - - - [ ] Falsehood and Negation
 - - - - - [ ] Exercise: 2 stars, standard, optional (not_implies_our_not)
