@@ -134,6 +134,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, standard (eqb_sym)
 - - - - [x] Exercise: 3 stars, advanced, optional (eqb_sym_informal)
 - - - - [x] Exercise: 3 stars, standard, optional (eqb_trans)
-- - - - [ ] Exercise: 3 stars, advanced (split_combine)
+- - - - [x] Exercise: 3 stars, advanced (split_combine)
 - - - - [ ] Exercise: 3 stars, advanced (filter_exercise)
 - - - - [ ] Exercise: 4 stars, advanced, recommended (forall_exists_challenge)
