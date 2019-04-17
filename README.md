@@ -111,7 +111,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, advanced (church_plus)
 - - - - [x] Exercise: 2 stars, advanced (church_mult)
 - - - - [x] Exercise: 2 stars, advanced (church_exp)
-- - [ ] More Basic Tactics
+- - [x] More Basic Tactics
 - - - [x] The `apply` tactic
 - - - - [x] Exercise: 2 stars, standard, optional (silly_ex)
 - - - - [x] Exercise: 3 stars, standard (apply_exercise1)
@@ -137,3 +137,4 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, advanced (split_combine)
 - - - - [x] Exercise: 3 stars, advanced (filter_exercise)
 - - - - [x] Exercise: 4 stars, advanced, recommended (forall_exists_challenge)
+- - [ ] Logic in Coq
