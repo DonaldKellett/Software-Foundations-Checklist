@@ -152,9 +152,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, recommended (contrapositive)
 - - - - - [x] Exercise: 1 star, standard (not_both_true_and_false)
 - - - - - [x] Exercise: 1 star, advanced (informal_not_PNP)
-- - - - [ ] Logical Equivalence
+- - - - [x] Logical Equivalence
 - - - - - [x] Exercise: 1 star, standard, optional (iff_properties)
-- - - - - [ ] Exercise: 3 stars, standard (or_distributes_over_and)
+- - - - - [x] Exercise: 3 stars, standard (or_distributes_over_and)
 - - - - [ ] Existential Quantification
 - - - - - [ ] Exercise: 1 star, standard, recommended (dist_not_exists)
 - - - - - [ ] Exercise: 2 stars, standard (dist_exists_or)
