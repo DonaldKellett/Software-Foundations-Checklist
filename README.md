@@ -130,10 +130,10 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Using `destruct` on Compound Expressions
 - - - - [x] Exercise: 3 stars, standard, optional (combine_split)
 - - - - [x] Exercise: 2 stars, standard (destruct_eqn_practice)
-- - - [ ] Additional Exercises
+- - - [x] Additional Exercises
 - - - - [x] Exercise: 3 stars, standard (eqb_sym)
 - - - - [x] Exercise: 3 stars, advanced, optional (eqb_sym_informal)
 - - - - [x] Exercise: 3 stars, standard, optional (eqb_trans)
 - - - - [x] Exercise: 3 stars, advanced (split_combine)
 - - - - [x] Exercise: 3 stars, advanced (filter_exercise)
-- - - - [ ] Exercise: 4 stars, advanced, recommended (forall_exists_challenge)
+- - - - [x] Exercise: 4 stars, advanced, recommended (forall_exists_challenge)
