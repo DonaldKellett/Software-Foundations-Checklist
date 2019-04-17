@@ -143,9 +143,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard (and_exercise)
 - - - - - [x] Exercise: 1 star, standard, optional (proj2)
 - - - - - [x] Exercise: 2 stars, standard (and_assoc)
-- - - - [ ] Disjunction
+- - - - [x] Disjunction
 - - - - - [x] Exercise: 1 star, standard (mult_eq_0)
-- - - - - [ ] Exercise: 1 star, standard (or_commut)
+- - - - - [x] Exercise: 1 star, standard (or_commut)
 - - - - [ ] Falsehood and Negation
 - - - - - [ ] Exercise: 2 stars, standard, optional (not_implies_our_not)
 - - - - - [ ] Exercise: 2 stars, advanced (double_neg_inf)
