@@ -138,7 +138,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, advanced (filter_exercise)
 - - - - [x] Exercise: 4 stars, advanced, recommended (forall_exists_challenge)
 - - [ ] Logic in Coq
-- - - [ ] Logical Connectives
+- - - [x] Logical Connectives
 - - - - [x] Conjunction
 - - - - - [x] Exercise: 2 stars, standard (and_exercise)
 - - - - - [x] Exercise: 1 star, standard, optional (proj2)
