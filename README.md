@@ -147,7 +147,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard (mult_eq_0)
 - - - - - [x] Exercise: 1 star, standard (or_commut)
 - - - - [ ] Falsehood and Negation
-- - - - - [ ] Exercise: 2 stars, standard, optional (not_implies_our_not)
+- - - - - [x] Exercise: 2 stars, standard, optional (not_implies_our_not)
 - - - - - [ ] Exercise: 2 stars, advanced (double_neg_inf)
 - - - - - [ ] Exercise: 2 stars, standard, recommended (contrapositive)
 - - - - - [ ] Exercise: 1 star, standard (not_both_true_and_false)
