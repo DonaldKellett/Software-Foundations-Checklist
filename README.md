@@ -155,7 +155,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Logical Equivalence
 - - - - - [x] Exercise: 1 star, standard, optional (iff_properties)
 - - - - - [x] Exercise: 3 stars, standard (or_distributes_over_and)
-- - - - [ ] Existential Quantification
+- - - - [x] Existential Quantification
 - - - - - [x] Exercise: 1 star, standard, recommended (dist_not_exists)
-- - - - - [ ] Exercise: 2 stars, standard (dist_exists_or)
+- - - - - [x] Exercise: 2 stars, standard (dist_exists_or)
 - - - [ ] Programming with Propositions
