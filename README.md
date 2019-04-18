@@ -161,6 +161,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Programming with Propositions
 - - - - [x] Exercise: 2 stars, standard (In_map_iff)
 - - - - [x] Exercise: 2 stars, standard (In_app_iff)
-- - - - [ ] Exercise: 3 stars, standard, recommended (All)
+- - - - [x] Exercise: 3 stars, standard, recommended (All)
 - - - - [ ] Exercise: 3 stars, standard (combine_odd_even)
 - - - [ ] Applying Theorems to Arguments
