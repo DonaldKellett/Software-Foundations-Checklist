@@ -169,7 +169,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Propositions and Booleans
 - - - - - [x] Exercise: 3 stars, standard (evenb_double_conv)
 - - - - - [x] Exercise: 2 stars, standard (logical_connectives)
-- - - - - [ ] Exercise: 1 star, standard (eqb_neq)
+- - - - - [x] Exercise: 1 star, standard (eqb_neq)
 - - - - - [ ] Exercise: 3 stars, standard (eqb_list)
 - - - - - [ ] Exercise: 2 stars, standard, recommended (All_forallb)
 - - - - [ ] Classical vs. Constructive Logic
