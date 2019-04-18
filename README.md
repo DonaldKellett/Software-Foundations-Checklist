@@ -159,3 +159,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard, recommended (dist_not_exists)
 - - - - - [x] Exercise: 2 stars, standard (dist_exists_or)
 - - - [ ] Programming with Propositions
+- - - - [ ] Exercise: 2 stars, standard (In_map_iff)
+- - - - [ ] Exercise: 2 stars, standard (In_app_iff)
+- - - - [ ] Exercise: 3 stars, standard, recommended (All)
+- - - - [ ] Exercise: 3 stars, standard (combine_odd_even)
+- - - [ ] Applying Theorems to Arguments
