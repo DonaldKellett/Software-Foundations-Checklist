@@ -163,4 +163,16 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard (In_app_iff)
 - - - - [x] Exercise: 3 stars, standard, recommended (All)
 - - - - [x] Exercise: 3 stars, standard (combine_odd_even)
-- - - [ ] Applying Theorems to Arguments
+- - - [ ] Coq vs. Set Theory
+- - - - [ ] Functional Extensionality
+- - - - - [ ] Exercise: 4 stars, standard (tr_rev_correct)
+- - - - [ ] Propositions and Booleans
+- - - - - [ ] Exercise: 3 stars, standard (evenb_double_conv)
+- - - - - [ ] Exercise: 2 stars, standard (logical_connectives)
+- - - - - [ ] Exercise: 1 star, standard (eqb_neq)
+- - - - - [ ] Exercise: 3 stars, standard (eqb_list)
+- - - - - [ ] Exercise: 2 stars, standard, recommended (All_forallb)
+- - - - [ ] Classical vs. Constructive Logic
+- - - - - [ ] Exercise: 3 stars, standard (excluded_middle_irrefutable)
+- - - - - [ ] Exercise: 3 stars, advanced (not_exists_dist)
+- - - - - [ ] Exercise: 5 stars, standard, optional (classical_axioms)
