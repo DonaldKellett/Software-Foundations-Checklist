@@ -166,12 +166,12 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Coq vs. Set Theory
 - - - - [x] Functional Extensionality
 - - - - - [x] Exercise: 4 stars, standard (tr_rev_correct)
-- - - - [ ] Propositions and Booleans
+- - - - [x] Propositions and Booleans
 - - - - - [x] Exercise: 3 stars, standard (evenb_double_conv)
 - - - - - [x] Exercise: 2 stars, standard (logical_connectives)
 - - - - - [x] Exercise: 1 star, standard (eqb_neq)
 - - - - - [x] Exercise: 3 stars, standard (eqb_list)
-- - - - - [ ] Exercise: 2 stars, standard, recommended (All_forallb)
+- - - - - [x] Exercise: 2 stars, standard, recommended (All_forallb)
 - - - - [ ] Classical vs. Constructive Logic
 - - - - - [ ] Exercise: 3 stars, standard (excluded_middle_irrefutable)
 - - - - - [ ] Exercise: 3 stars, advanced (not_exists_dist)
