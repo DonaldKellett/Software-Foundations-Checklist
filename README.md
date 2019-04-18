@@ -176,3 +176,4 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [ ] Exercise: 3 stars, standard (excluded_middle_irrefutable)
 - - - - - [ ] Exercise: 3 stars, advanced (not_exists_dist)
 - - - - - [ ] Exercise: 5 stars, standard, optional (classical_axioms)
+- - [ ] Inductively Defined Propositions
