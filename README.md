@@ -164,8 +164,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, standard, recommended (All)
 - - - - [x] Exercise: 3 stars, standard (combine_odd_even)
 - - - [ ] Coq vs. Set Theory
-- - - - [ ] Functional Extensionality
-- - - - - [ ] Exercise: 4 stars, standard (tr_rev_correct)
+- - - - [x] Functional Extensionality
+- - - - - [x] Exercise: 4 stars, standard (tr_rev_correct)
 - - - - [ ] Propositions and Booleans
 - - - - - [ ] Exercise: 3 stars, standard (evenb_double_conv)
 - - - - - [ ] Exercise: 2 stars, standard (logical_connectives)
