@@ -174,6 +174,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, recommended (All_forallb)
 - - - - [ ] Classical vs. Constructive Logic
 - - - - - [x] Exercise: 3 stars, standard (excluded_middle_irrefutable)
-- - - - - [ ] Exercise: 3 stars, advanced (not_exists_dist)
+- - - - - [x] Exercise: 3 stars, advanced (not_exists_dist)
 - - - - - [ ] Exercise: 5 stars, standard, optional (classical_axioms)
 - - [ ] Inductively Defined Propositions
