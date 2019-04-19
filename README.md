@@ -137,7 +137,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, advanced (split_combine)
 - - - - [x] Exercise: 3 stars, advanced (filter_exercise)
 - - - - [x] Exercise: 4 stars, advanced, recommended (forall_exists_challenge)
-- - [ ] Logic in Coq
+- - [x] Logic in Coq
 - - - [x] Logical Connectives
 - - - - [x] Conjunction
 - - - - - [x] Exercise: 2 stars, standard (and_exercise)
@@ -163,7 +163,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard (In_app_iff)
 - - - - [x] Exercise: 3 stars, standard, recommended (All)
 - - - - [x] Exercise: 3 stars, standard (combine_odd_even)
-- - - [ ] Coq vs. Set Theory
+- - - [x] Coq vs. Set Theory
 - - - - [x] Functional Extensionality
 - - - - - [x] Exercise: 4 stars, standard (tr_rev_correct)
 - - - - [x] Propositions and Booleans
@@ -172,8 +172,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard (eqb_neq)
 - - - - - [x] Exercise: 3 stars, standard (eqb_list)
 - - - - - [x] Exercise: 2 stars, standard, recommended (All_forallb)
-- - - - [ ] Classical vs. Constructive Logic
+- - - - [x] Classical vs. Constructive Logic
 - - - - - [x] Exercise: 3 stars, standard (excluded_middle_irrefutable)
 - - - - - [x] Exercise: 3 stars, advanced (not_exists_dist)
-- - - - - [ ] Exercise: 5 stars, standard, optional (classical_axioms)
+- - - - - [x] Exercise: 5 stars, standard, optional (classical_axioms)
 - - [ ] Inductively Defined Propositions
