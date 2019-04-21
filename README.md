@@ -185,7 +185,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard (inversion_practice)
 - - - - - [x] Exercise: 1 star, standard (even5_nonsense)
 - - - - [ ] Induction on Evidence
-- - - - - [ ] Exercise: 2 stars, standard (ev_sum)
+- - - - - [x] Exercise: 2 stars, standard (ev_sum)
 - - - - - [ ] Exercise: 4 stars, advanced, optional (even'_ev)
 - - - - - [ ] Exercise: 3 stars, advanced, recommended (ev_ev__ev)
 - - - - - [ ] Exercise: 3 stars, standard, optional (ev_plus_plus)
