@@ -187,6 +187,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Induction on Evidence
 - - - - - [x] Exercise: 2 stars, standard (ev_sum)
 - - - - - [x] Exercise: 4 stars, advanced, optional (even'_ev)
-- - - - - [ ] Exercise: 3 stars, advanced, recommended (ev_ev__ev)
+- - - - - [x] Exercise: 3 stars, advanced, recommended (ev_ev__ev)
 - - - - - [ ] Exercise: 3 stars, standard, optional (ev_plus_plus)
 - - - [ ] Inductive Relations
