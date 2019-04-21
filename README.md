@@ -181,9 +181,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Inductive Definition of Evenness
 - - - - - [x] Exercise: 1 star, standard (ev_double)
 - - - [ ] Using Evidence in Proofs
-- - - - [ ] Inversion on Evidence
+- - - - [x] Inversion on Evidence
 - - - - - [x] Exercise: 1 star, standard (inversion_practice)
-- - - - - [ ] Exercise: 1 star, standard (even5_nonsense)
+- - - - - [x] Exercise: 1 star, standard (even5_nonsense)
 - - - - [ ] Induction on Evidence
 - - - - - [ ] Exercise: 2 stars, standard (ev_sum)
 - - - - - [ ] Exercise: 4 stars, advanced, optional (even'_ev)
