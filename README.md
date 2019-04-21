@@ -177,3 +177,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, advanced (not_exists_dist)
 - - - - - [x] Exercise: 5 stars, standard, optional (classical_axioms)
 - - [ ] Inductively Defined Propositions
+- - - [ ] Inductively Defined Propositions
+- - - - [ ] Inductive Definition of Evenness
+- - - - - [ ] Exercise: 1 star, standard (ev_double)
+- - - [ ] Using Evidence in Proofs
