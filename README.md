@@ -200,7 +200,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, optional (R_provability2)
 - - - [ ] Case Study: Regular Expressions
 - - - - [x] Exercise: 3 stars, standard (exp_match_ex1)
-- - - - [ ] Exercise: 4 stars, standard, optional (reg_exp_of_list_spec)
+- - - - [x] Exercise: 4 stars, standard, optional (reg_exp_of_list_spec)
 - - - - [ ] Exercise: 4 stars, standard (re_not_empty)
 - - - - [ ] The `remember` Tactic
 - - - - - [ ] Exercise: 4 stars, standard, optional (exp_match_ex2)
