@@ -203,6 +203,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars, standard, optional (reg_exp_of_list_spec)
 - - - - [x] Exercise: 4 stars, standard (re_not_empty)
 - - - - [ ] The `remember` Tactic
-- - - - - [ ] Exercise: 4 stars, standard, optional (exp_match_ex2)
+- - - - - [x] Exercise: 4 stars, standard, optional (exp_match_ex2)
 - - - - - [ ] Exercise: 5 stars, advanced (pumping)
 - - - [ ] Case Study: Improving Reflection
