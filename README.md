@@ -195,7 +195,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, standard, optional (le_exercises)
 - - - - [x] Exercise: 2 stars, standard, optional (leb_iff)
 - - - - [x] Exercise: 3 stars, standard, recommended (R_provability)
-- - - - [ ] Exercise: 3 stars, standard, optional (R_fact)
+- - - - [x] Exercise: 3 stars, standard, optional (R_fact)
 - - - - [ ] Exercise: 2 stars, advanced (subsequence)
 - - - - [ ] Exercise: 2 stars, standard, optional (R_provability2)
 - - - [ ] Case Study: Regular Expressions
