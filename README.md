@@ -190,3 +190,12 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, advanced, recommended (ev_ev__ev)
 - - - - - [x] Exercise: 3 stars, standard, optional (ev_plus_plus)
 - - - [ ] Inductive Relations
+- - - - [ ] Exercise: 2 stars, standard, optional (total_relation)
+- - - - [ ] Exercise: 2 stars, standard, optional (empty_relation)
+- - - - [ ] Exercise: 3 stars, standard, optional (le_exercises)
+- - - - [ ] Exercise: 2 stars, standard, optional (leb_iff)
+- - - - [ ] Exercise: 3 stars, standard, recommended (R_provability)
+- - - - [ ] Exercise: 3 stars, standard, optional (R_fact)
+- - - - [ ] Exercise: 2 stars, advanced (subsequence)
+- - - - [ ] Exercise: 2 stars, standard, optional (R_provability2)
+- - - [ ] Case Study: Regular Expressions
