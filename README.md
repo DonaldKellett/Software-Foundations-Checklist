@@ -192,7 +192,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Inductive Relations
 - - - - [x] Exercise: 2 stars, standard, optional (total_relation)
 - - - - [x] Exercise: 2 stars, standard, optional (empty_relation)
-- - - - [ ] Exercise: 3 stars, standard, optional (le_exercises)
+- - - - [x] Exercise: 3 stars, standard, optional (le_exercises)
 - - - - [ ] Exercise: 2 stars, standard, optional (leb_iff)
 - - - - [ ] Exercise: 3 stars, standard, recommended (R_provability)
 - - - - [ ] Exercise: 3 stars, standard, optional (R_fact)
