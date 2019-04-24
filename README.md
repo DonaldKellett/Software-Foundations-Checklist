@@ -205,7 +205,24 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] The `remember` Tactic
 - - - - - [x] Exercise: 4 stars, standard, optional (exp_match_ex2)
 - - - - - [x] Exercise: 5 stars, advanced (pumping)
-- - - [ ] Case Study: Improving Reflection
+- - - [x] Case Study: Improving Reflection
 - - - - [x] Exercise: 2 stars, standard, recommended (reflect_iff)
-- - - - [ ] Exercise: 3 stars, standard, recommended (eqbP_practice)
+- - - - [x] Exercise: 3 stars, standard, recommended (eqbP_practice)
 - - - [ ] Additional Exercises
+- - - - [ ] Exercise: 3 stars, standard, recommended (nostutter_defn)
+- - - - [ ] Exercise: 4 stars, advanced (filter_challenge)
+- - - - [ ] Exercise: 5 stars, advanced, optional (filter_challenge_2)
+- - - - [ ] Exercise: 4 stars, standard, optional (palindromes)
+- - - - [ ] Exercise: 5 stars, standard, optional (palindrome_converse)
+- - - - [ ] Exercise: 4 stars, advanced, optional (NoDup)
+- - - - [ ] Exercise: 4 stars, advanced, optional (pigeonhole_principle)
+- - - - [ ] Extended Exercise: A Verified Regular-Expression Matcher
+- - - - - [ ] Exercise: 3 stars, standard, optional (app_ne)
+- - - - - [ ] Exercise: 3 stars, standard, optional (star_ne)
+- - - - - [ ] Exercise: 2 stars, standard, optional (match_eps)
+- - - - - [ ] Exercise: 3 stars, standard, optional (match_eps_refl)
+- - - - - [ ] Exercise: 3 stars, standard, optional (derive)
+- - - - - [ ] Exercise: 4 stars, standard, optional (derive_corr)
+- - - - - [ ] Exercise: 2 stars, standard, optional (regex_match)
+- - - - - [ ] Exercise: 3 stars, standard, optional (regex_refl)
+- - [ ] Total and Partial Maps
