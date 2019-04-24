@@ -206,3 +206,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 4 stars, standard, optional (exp_match_ex2)
 - - - - - [x] Exercise: 5 stars, advanced (pumping)
 - - - [ ] Case Study: Improving Reflection
+- - - - [ ] Exercise: 2 stars, standard, recommended (reflect_iff)
+- - - - [ ] Exercise: 3 stars, standard, recommended (eqbP_practice)
+- - - [ ] Additional Exercises
