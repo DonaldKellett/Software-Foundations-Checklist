@@ -211,7 +211,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Additional Exercises
 - - - - [x] Exercise: 3 stars, standard, recommended (nostutter_defn)
 - - - - [x] Exercise: 4 stars, advanced (filter_challenge)
-- - - - [ ] Exercise: 5 stars, advanced, optional (filter_challenge_2)
+- - - - [x] Exercise: 5 stars, advanced, optional (filter_challenge_2)
 - - - - [ ] Exercise: 4 stars, standard, optional (palindromes)
 - - - - [ ] Exercise: 5 stars, standard, optional (palindrome_converse)
 - - - - [ ] Exercise: 4 stars, advanced, optional (NoDup)
