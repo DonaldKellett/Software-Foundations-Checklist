@@ -220,7 +220,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard, optional (app_ne)
 - - - - - [x] Exercise: 3 stars, standard, optional (star_ne)
 - - - - - [x] Exercise: 2 stars, standard, optional (match_eps)
-- - - - - [ ] Exercise: 3 stars, standard, optional (match_eps_refl)
+- - - - - [x] Exercise: 3 stars, standard, optional (match_eps_refl)
 - - - - - [ ] Exercise: 3 stars, standard, optional (derive)
 - - - - - [ ] Exercise: 4 stars, standard, optional (derive_corr)
 - - - - - [ ] Exercise: 2 stars, standard, optional (regex_match)
