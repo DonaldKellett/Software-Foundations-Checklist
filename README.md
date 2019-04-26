@@ -217,7 +217,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Exercise: 4 stars, advanced, optional (NoDup)
 - - - - [ ] Exercise: 4 stars, advanced, optional (pigeonhole_principle)
 - - - - [ ] Extended Exercise: A Verified Regular-Expression Matcher
-- - - - - [ ] Exercise: 3 stars, standard, optional (app_ne)
+- - - - - [x] Exercise: 3 stars, standard, optional (app_ne)
 - - - - - [ ] Exercise: 3 stars, standard, optional (star_ne)
 - - - - - [ ] Exercise: 2 stars, standard, optional (match_eps)
 - - - - - [ ] Exercise: 3 stars, standard, optional (match_eps_refl)
