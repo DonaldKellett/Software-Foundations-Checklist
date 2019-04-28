@@ -232,6 +232,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, optional (t_update_neq)
 - - - - [x] Exercise: 2 stars, standard, optional (t_update_shadow)
 - - - - [x] Exercise: 2 stars, standard, optional (eqb_stringP)
-- - - - [ ] Exercise: 2 stars, standard (t_update_same)
+- - - - [x] Exercise: 2 stars, standard (t_update_same)
 - - - - [ ] Exercise: 3 stars, standard, recommended (t_update_permute)
 - - - [ ] Partial Maps
