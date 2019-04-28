@@ -230,7 +230,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard, optional (t_apply_empty)
 - - - - [x] Exercise: 2 stars, standard, optional (t_update_eq)
 - - - - [x] Exercise: 2 stars, standard, optional (t_update_neq)
-- - - - [ ] Exercise: 2 stars, standard, optional (t_update_shadow)
+- - - - [x] Exercise: 2 stars, standard, optional (t_update_shadow)
 - - - - [ ] Exercise: 2 stars, standard, optional (eqb_stringP)
 - - - - [ ] Exercise: 2 stars, standard (t_update_same)
 - - - - [ ] Exercise: 3 stars, standard, recommended (t_update_permute)
