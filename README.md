@@ -228,7 +228,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Total and Partial Maps
 - - - [ ] Total Maps
 - - - - [x] Exercise: 1 star, standard, optional (t_apply_empty)
-- - - - [ ] Exercise: 2 stars, standard, optional (t_update_eq)
+- - - - [x] Exercise: 2 stars, standard, optional (t_update_eq)
 - - - - [ ] Exercise: 2 stars, standard, optional (t_update_neq)
 - - - - [ ] Exercise: 2 stars, standard, optional (t_update_shadow)
 - - - - [ ] Exercise: 2 stars, standard, optional (eqb_stringP)
