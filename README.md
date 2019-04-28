@@ -226,12 +226,12 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [ ] Exercise: 2 stars, standard, optional (regex_match)
 - - - - - [ ] Exercise: 3 stars, standard, optional (regex_refl)
 - - [ ] Total and Partial Maps
-- - - [ ] Total Maps
+- - - [x] Total Maps
 - - - - [x] Exercise: 1 star, standard, optional (t_apply_empty)
 - - - - [x] Exercise: 2 stars, standard, optional (t_update_eq)
 - - - - [x] Exercise: 2 stars, standard, optional (t_update_neq)
 - - - - [x] Exercise: 2 stars, standard, optional (t_update_shadow)
 - - - - [x] Exercise: 2 stars, standard, optional (eqb_stringP)
 - - - - [x] Exercise: 2 stars, standard (t_update_same)
-- - - - [ ] Exercise: 3 stars, standard, recommended (t_update_permute)
+- - - - [x] Exercise: 3 stars, standard, recommended (t_update_permute)
 - - - [ ] Partial Maps
