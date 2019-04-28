@@ -225,7 +225,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [ ] Exercise: 4 stars, standard, optional (derive_corr)
 - - - - - [ ] Exercise: 2 stars, standard, optional (regex_match)
 - - - - - [ ] Exercise: 3 stars, standard, optional (regex_refl)
-- - [ ] Total and Partial Maps
+- - [x] Total and Partial Maps
 - - - [x] Total Maps
 - - - - [x] Exercise: 1 star, standard, optional (t_apply_empty)
 - - - - [x] Exercise: 2 stars, standard, optional (t_update_eq)
@@ -234,4 +234,4 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, optional (eqb_stringP)
 - - - - [x] Exercise: 2 stars, standard (t_update_same)
 - - - - [x] Exercise: 3 stars, standard, recommended (t_update_permute)
-- - - [ ] Partial Maps
+- - [ ] The Curry-Howard Correspondence
