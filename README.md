@@ -263,9 +263,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard, optional (plus_explicit_prop)
 - - [ ] Properties of Relations
 - - - [ ] Basic Properties
-- - - - [ ] Partial Functions
+- - - - [x] Partial Functions
 - - - - - [x] Exercise: 2 stars, standard, optional (total_relation_not_partial)
-- - - - - [ ] Exercise: 2 stars, standard, optional (empty_relation_partial)
+- - - - - [x] Exercise: 2 stars, standard, optional (empty_relation_partial)
 - - - - [ ] Transitive Relations
 - - - - - [ ] Exercise: 2 stars, standard, optional (le_trans_hard_way)
 - - - - - [ ] Exercise: 2 stars, standard, optional (lt_trans'')
