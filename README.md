@@ -234,7 +234,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, optional (eqb_stringP)
 - - - - [x] Exercise: 2 stars, standard (t_update_same)
 - - - - [x] Exercise: 3 stars, standard, recommended (t_update_permute)
-- - [ ] The Curry-Howard Correspondence
+- - [x] The Curry-Howard Correspondence
 - - - [x] Proof Scripts
 - - - - [x] Exercise: 2 stars, standard (eight_is_even)
 - - - [x] Logical Connectives as Inductive Types
@@ -244,7 +244,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, optional (or_commut'')
 - - - - [x] Existential Quantification
 - - - - - [x] Exercise: 2 stars, standard, optional (ex_ev_Sn)
-- - - [ ] Equality
+- - - [x] Equality
 - - - - [x] Exercise: 2 stars, standard (equality__leibniz_equality)
-- - - - [ ] Exercise: 5 stars, standard, optional (leibniz_equality__equality)
+- - - - [x] Exercise: 5 stars, standard, optional (leibniz_equality__equality)
 - - [ ] Induction Principles
