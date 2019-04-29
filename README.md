@@ -237,11 +237,11 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] The Curry-Howard Correspondence
 - - - [x] Proof Scripts
 - - - - [x] Exercise: 2 stars, standard (eight_is_even)
-- - - [ ] Logical Connectives as Inductive Types
+- - - [x] Logical Connectives as Inductive Types
 - - - - [x] Conjunction
 - - - - - [x] Exercise: 2 stars, standard, optional (conj_fact)
 - - - - [x] Disjunction
 - - - - - [x] Exercise: 2 stars, standard, optional (or_commut'')
-- - - - [ ] Existential Quantification
-- - - - - [ ] Exercise: 2 stars, standard, optional (ex_ev_Sn)
+- - - - [x] Existential Quantification
+- - - - - [x] Exercise: 2 stars, standard, optional (ex_ev_Sn)
 - - - [ ] Equality
