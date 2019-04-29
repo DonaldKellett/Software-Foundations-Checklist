@@ -238,8 +238,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Proof Scripts
 - - - - [x] Exercise: 2 stars, standard (eight_is_even)
 - - - [ ] Logical Connectives as Inductive Types
-- - - - [ ] Conjunction
-- - - - - [ ] Exercise: 2 stars, standard, optional (conj_fact)
+- - - - [x] Conjunction
+- - - - - [x] Exercise: 2 stars, standard, optional (conj_fact)
 - - - - [ ] Disjunction
 - - - - - [ ] Exercise: 2 stars, standard, optional (or_commut'')
 - - - - [ ] Existential Quantification
