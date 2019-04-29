@@ -259,4 +259,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard, optional (mytype)
 - - - - [x] Exercise: 1 star, standard, optional (foo)
 - - - - [x] Exercise: 1 star, standard, optional (foo')
-- - - [ ] Induction Hypotheses
+- - - [ ] More on the `induction` Tactic
+- - - - [ ] Exercise: 1 star, standard, optional (plus_explicit_prop)
+- - - [ ] Induction Principles in `Prop`
