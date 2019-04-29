@@ -256,7 +256,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard, optional (ex_set)
 - - - [ ] Polymorphism
 - - - - [x] Exercise: 1 star, standard, optional (tree)
-- - - - [ ] Exercise: 1 star, standard, optional (mytype)
+- - - - [x] Exercise: 1 star, standard, optional (mytype)
 - - - - [ ] Exercise: 1 star, standard, optional (foo)
 - - - - [ ] Exercise: 1 star, standard, optional (foo')
 - - - [ ] Induction Hypotheses
