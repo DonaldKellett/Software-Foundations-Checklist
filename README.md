@@ -262,7 +262,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] More on the `induction` Tactic
 - - - - [x] Exercise: 1 star, standard, optional (plus_explicit_prop)
 - - [ ] Properties of Relations
-- - - [ ] Basic Properties
+- - - [x] Basic Properties
 - - - - [x] Partial Functions
 - - - - - [x] Exercise: 2 stars, standard, optional (total_relation_not_partial)
 - - - - - [x] Exercise: 2 stars, standard, optional (empty_relation_partial)
@@ -272,8 +272,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard, optional (le_S_n)
 - - - - - [x] Exercise: 2 stars, standard, optional (le_Sn_n_inf)
 - - - - - [x] Exercise: 1 star, standard, optional (le_Sn_n)
-- - - - [ ] Symmetric and Antisymmetric Relations
+- - - - [x] Symmetric and Antisymmetric Relations
 - - - - - [x] Exercise: 2 stars, standard, optional (le_not_symmetric)
 - - - - - [x] Exercise: 2 stars, standard, optional (le_antisymmetric)
-- - - - - [ ] Exercise: 2 stars, standard, optional (le_step)
+- - - - - [x] Exercise: 2 stars, standard, optional (le_step)
 - - - [ ] Reflexive, Transitive Closure
