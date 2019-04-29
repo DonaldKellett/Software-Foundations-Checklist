@@ -269,7 +269,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Transitive Relations
 - - - - - [x] Exercise: 2 stars, standard, optional (le_trans_hard_way)
 - - - - - [x] Exercise: 2 stars, standard, optional (lt_trans'')
-- - - - - [ ] Exercise: 1 star, standard, optional (le_S_n)
+- - - - - [x] Exercise: 1 star, standard, optional (le_S_n)
 - - - - - [ ] Exercise: 2 stars, standard, optional (le_Sn_n_inf)
 - - - - - [ ] Exercise: 1 star, standard, optional (le_Sn_n)
 - - - - [ ] Symmetric and Antisymmetric Relations
