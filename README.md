@@ -245,6 +245,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Existential Quantification
 - - - - - [x] Exercise: 2 stars, standard, optional (ex_ev_Sn)
 - - - [ ] Equality
-- - - - [ ] Exercise: 2 stars, standard (equality__leibniz_equality)
+- - - - [x] Exercise: 2 stars, standard (equality__leibniz_equality)
 - - - - [ ] Exercise: 5 stars, standard, optional (leibniz_equality__equality)
 - - [ ] Induction Principles
