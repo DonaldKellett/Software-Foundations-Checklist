@@ -251,7 +251,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Basics
 - - - - [x] Exercise: 2 stars, standard, optional (plus_one_r')
 - - - - [x] Exercise: 1 star, standard, optional (rgb)
-- - - - [ ] Exercise: 1 star, standard, optional (natlist1)
+- - - - [x] Exercise: 1 star, standard, optional (natlist1)
 - - - - [ ] Exercise: 1 star, standard, optional (byntree_ind)
 - - - - [ ] Exercise: 1 star, standard, optional (ex_set)
 - - - [ ] Polymorphism
