@@ -248,3 +248,10 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard (equality__leibniz_equality)
 - - - - [x] Exercise: 5 stars, standard, optional (leibniz_equality__equality)
 - - [ ] Induction Principles
+- - - [ ] Basics
+- - - - [ ] Exercise: 2 stars, standard, optional (plus_one_r')
+- - - - [ ] Exercise: 1 star, standard, optional (rgb)
+- - - - [ ] Exercise: 1 star, standard, optional (natlist1)
+- - - - [ ] Exercise: 1 star, standard, optional (byntree_ind)
+- - - - [ ] Exercise: 1 star, standard, optional (ex_set)
+- - - [ ] Polymorphism
