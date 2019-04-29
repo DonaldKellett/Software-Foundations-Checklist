@@ -277,6 +277,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, optional (le_antisymmetric)
 - - - - - [x] Exercise: 2 stars, standard, optional (le_step)
 - - - [ ] Reflexive, Transitive Closure
-- - - - [ ] Exercise: 2 stars, standard, optional (rsc_trans)
+- - - - [x] Exercise: 2 stars, standard, optional (rsc_trans)
 - - - - [ ] Exercise: 3 stars, standard, optional (rtc_rsc_coincide)
 - - [ ] Simple Imperative Programs
