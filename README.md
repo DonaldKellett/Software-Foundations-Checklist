@@ -247,7 +247,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Equality
 - - - - [x] Exercise: 2 stars, standard (equality__leibniz_equality)
 - - - - [x] Exercise: 5 stars, standard, optional (leibniz_equality__equality)
-- - [ ] Induction Principles
+- - [x] Induction Principles
 - - - [x] Basics
 - - - - [x] Exercise: 2 stars, standard, optional (plus_one_r')
 - - - - [x] Exercise: 1 star, standard, optional (rgb)
@@ -261,4 +261,4 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard, optional (foo')
 - - - [x] More on the `induction` Tactic
 - - - - [x] Exercise: 1 star, standard, optional (plus_explicit_prop)
-- - - [ ] Induction Principles in `Prop`
+- - [ ] Properties of Relations
