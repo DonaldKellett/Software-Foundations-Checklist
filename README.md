@@ -240,8 +240,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Logical Connectives as Inductive Types
 - - - - [x] Conjunction
 - - - - - [x] Exercise: 2 stars, standard, optional (conj_fact)
-- - - - [ ] Disjunction
-- - - - - [ ] Exercise: 2 stars, standard, optional (or_commut'')
+- - - - [x] Disjunction
+- - - - - [x] Exercise: 2 stars, standard, optional (or_commut'')
 - - - - [ ] Existential Quantification
 - - - - - [ ] Exercise: 2 stars, standard, optional (ex_ev_Sn)
 - - - [ ] Equality
