@@ -254,9 +254,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard, optional (natlist1)
 - - - - [x] Exercise: 1 star, standard, optional (byntree_ind)
 - - - - [x] Exercise: 1 star, standard, optional (ex_set)
-- - - [ ] Polymorphism
+- - - [x] Polymorphism
 - - - - [x] Exercise: 1 star, standard, optional (tree)
 - - - - [x] Exercise: 1 star, standard, optional (mytype)
 - - - - [x] Exercise: 1 star, standard, optional (foo)
-- - - - [ ] Exercise: 1 star, standard, optional (foo')
+- - - - [x] Exercise: 1 star, standard, optional (foo')
 - - - [ ] Induction Hypotheses
