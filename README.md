@@ -262,3 +262,18 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] More on the `induction` Tactic
 - - - - [x] Exercise: 1 star, standard, optional (plus_explicit_prop)
 - - [ ] Properties of Relations
+- - - [ ] Basic Properties
+- - - - [ ] Partial Functions
+- - - - - [ ] Exercise: 2 stars, standard, optional (total_relation_not_partial)
+- - - - - [ ] Exercise: 2 stars, standard, optional (empty_relation_partial)
+- - - - [ ] Transitive Relations
+- - - - - [ ] Exercise: 2 stars, standard, optional (le_trans_hard_way)
+- - - - - [ ] Exercise: 2 stars, standard, optional (lt_trans'')
+- - - - - [ ] Exercise: 1 star, standard, optional (le_S_n)
+- - - - - [ ] Exercise: 2 stars, standard, optional (le_Sn_n_inf)
+- - - - - [ ] Exercise: 1 star, standard, optional (le_Sn_n)
+- - - - [ ] Symmetric and Antisymmetric Relations
+- - - - - [ ] Exercise: 2 stars, standard, optional (le_not_symmetric)
+- - - - - [ ] Exercise: 2 stars, standard, optional (le_antisymmetric)
+- - - - - [ ] Exercise: 2 stars, standard, optional (le_step)
+- - - [ ] Reflexive, Transitive Closure
