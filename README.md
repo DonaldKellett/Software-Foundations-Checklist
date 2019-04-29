@@ -280,3 +280,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, optional (rsc_trans)
 - - - - [x] Exercise: 3 stars, standard, optional (rtc_rsc_coincide)
 - - [ ] Simple Imperative Programs
+- - - [ ] Coq Automation
+- - - - [ ] Tacticals
+- - - - - [ ] The `repeat` Tactical
+- - - - - - [ ] Exercise: 3 stars, standard (optimize_0plus_b_sound)
+- - - - - - [ ] Exercise: 4 stars, standard, optional (optimize)
+- - - [ ] Evaluation as a Relation
