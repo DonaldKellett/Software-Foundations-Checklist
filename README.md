@@ -273,7 +273,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, optional (le_Sn_n_inf)
 - - - - - [x] Exercise: 1 star, standard, optional (le_Sn_n)
 - - - - [ ] Symmetric and Antisymmetric Relations
-- - - - - [ ] Exercise: 2 stars, standard, optional (le_not_symmetric)
+- - - - - [x] Exercise: 2 stars, standard, optional (le_not_symmetric)
 - - - - - [ ] Exercise: 2 stars, standard, optional (le_antisymmetric)
 - - - - - [ ] Exercise: 2 stars, standard, optional (le_step)
 - - - [ ] Reflexive, Transitive Closure
