@@ -286,3 +286,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - - [x] Exercise: 3 stars, standard (optimize_0plus_b_sound)
 - - - - - - [x] Exercise: 4 stars, standard, optional (optimize)
 - - - [ ] Evaluation as a Relation
+- - - - [ ] Inference Rule Notation
+- - - - - [ ] Exercise: 1 star, standard, optional (beval_rules)
+- - - - [ ] Equivalence of the Definitions
+- - - - - [ ] Exercise: 3 stars, standard (bevalR)
+- - - [ ] Expressions With Variables
