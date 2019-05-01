@@ -295,9 +295,16 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Operational Semantics
 - - - - - - [x] Exercise: 2 stars, standard (ceval_example2)
 - - - - - - [x] Exercise: 3 stars, standard, optional (pup_to_n)
-- - - [ ] Reasoning About Imp Programs
+- - - [x] Reasoning About Imp Programs
 - - - - [x] Exercise: 3 stars, standard, recommended (XtimesYinZ_spec)
 - - - - [x] Exercise: 3 stars, standard, recommended (loop_never_stops)
 - - - - [x] Exercise: 3 stars, standard (no_whiles_eqv)
-- - - - [ ] Exercise: 4 stars, standard (no_whiles_terminating)
+- - - - [x] Exercise: 4 stars, standard (no_whiles_terminating)
 - - - [ ] Additional Exercises
+- - - - [ ] Exercise: 3 stars, standard (stack_compiler)
+- - - - [ ] Exercise: 4 stars, advanced (stack_compiler_correct)
+- - - - [ ] Exercise: 3 stars, standard, optional (short_circuit)
+- - - - [ ] Exercise: 4 stars, advanced (break_imp)
+- - - - [ ] Exercise: 3 stars, advanced, optional (while_break_true)
+- - - - [ ] Exercise: 4 stars, advanced, optional (ceval_deterministic)
+- - - - [ ] Exercise: 4 stars, standard, optional (add_for_loop)
