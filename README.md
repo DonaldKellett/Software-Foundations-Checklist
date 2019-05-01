@@ -290,9 +290,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard, optional (beval_rules)
 - - - - [x] Equivalence of the Definitions
 - - - - - [x] Exercise: 3 stars, standard (bevalR)
-- - - [ ] Evaluating Commands
-- - - - [ ] Evaluations as a Relation
-- - - - - [ ] Operational Semantics
+- - - [x] Evaluating Commands
+- - - - [x] Evaluations as a Relation
+- - - - - [x] Operational Semantics
 - - - - - - [x] Exercise: 2 stars, standard (ceval_example2)
-- - - - - - [ ] Exercise: 3 stars, standard, optional (pup_to_n)
+- - - - - - [x] Exercise: 3 stars, standard, optional (pup_to_n)
 - - - [ ] Reasoning About Imp Programs
