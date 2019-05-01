@@ -303,7 +303,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Additional Exercises
 - - - - [x] Exercise: 3 stars, standard (stack_compiler)
 - - - - [x] Exercise: 4 stars, advanced (stack_compiler_correct)
-- - - - [ ] Exercise: 3 stars, standard, optional (short_circuit)
+- - - - [x] Exercise: 3 stars, standard, optional (short_circuit)
 - - - - [ ] Exercise: 4 stars, advanced (break_imp)
 - - - - [ ] Exercise: 3 stars, advanced, optional (while_break_true)
 - - - - [ ] Exercise: 4 stars, advanced, optional (ceval_deterministic)
