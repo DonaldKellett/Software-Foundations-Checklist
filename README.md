@@ -297,7 +297,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - - [x] Exercise: 3 stars, standard, optional (pup_to_n)
 - - - [ ] Reasoning About Imp Programs
 - - - - [x] Exercise: 3 stars, standard, recommended (XtimesYinZ_spec)
-- - - - [ ] Exercise: 3 stars, standard, recommended (loop_never_stops)
+- - - - [x] Exercise: 3 stars, standard, recommended (loop_never_stops)
 - - - - [ ] Exercise: 3 stars, standard (no_whiles_eqv)
 - - - - [ ] Exercise: 4 stars, standard (no_whiles_terminating)
 - - - [ ] Additional Exercises
