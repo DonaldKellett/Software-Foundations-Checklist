@@ -293,6 +293,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Evaluating Commands
 - - - - [ ] Evaluations as a Relation
 - - - - - [ ] Operational Semantics
-- - - - - - [ ] Exercise: 2 stars, standard (ceval_example2)
+- - - - - - [x] Exercise: 2 stars, standard (ceval_example2)
 - - - - - - [ ] Exercise: 3 stars, standard, optional (pup_to_n)
 - - - [ ] Reasoning About Imp Programs
