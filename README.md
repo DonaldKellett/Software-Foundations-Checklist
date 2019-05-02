@@ -279,7 +279,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Reflexive, Transitive Closure
 - - - - [x] Exercise: 2 stars, standard, optional (rsc_trans)
 - - - - [x] Exercise: 3 stars, standard, optional (rtc_rsc_coincide)
-- - [ ] Simple Imperative Programs
+- - [x] Simple Imperative Programs
 - - - [x] Coq Automation
 - - - - [x] Tacticals
 - - - - - [x] The `repeat` Tactical
@@ -300,12 +300,12 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, standard, recommended (loop_never_stops)
 - - - - [x] Exercise: 3 stars, standard (no_whiles_eqv)
 - - - - [x] Exercise: 4 stars, standard (no_whiles_terminating)
-- - - [ ] Additional Exercises
+- - - [x] Additional Exercises
 - - - - [x] Exercise: 3 stars, standard (stack_compiler)
 - - - - [x] Exercise: 4 stars, advanced (stack_compiler_correct)
 - - - - [x] Exercise: 3 stars, standard, optional (short_circuit)
 - - - - [x] Exercise: 4 stars, advanced (break_imp)
 - - - - [x] Exercise: 3 stars, advanced, optional (while_break_true)
 - - - - [x] Exercise: 4 stars, advanced, optional (ceval_deterministic)
-- - - - [ ] Exercise: 4 stars, standard, optional (add_for_loop)
+- - - - [x] Exercise: 4 stars, standard, optional (add_for_loop)
 - - [ ] Lexing and Parsing in Coq
