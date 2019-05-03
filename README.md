@@ -315,4 +315,4 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Relational vs. Step-Indexed Evaluation
 - - - - [x] Exercise: 4 stars, standard (ceval_step__ceval_inf)
 - - - - [x] Exercise: 3 stars, standard, recommended (ceval__ceval_step)
-- - [ ] Extracting ML from Coq
+- - [ ] More Automation
