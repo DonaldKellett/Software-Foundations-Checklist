@@ -308,11 +308,11 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, advanced, optional (while_break_true)
 - - - - [x] Exercise: 4 stars, advanced, optional (ceval_deterministic)
 - - - - [x] Exercise: 4 stars, standard, optional (add_for_loop)
-- - [ ] An Evaluation Function for Imp
+- - [x] An Evaluation Function for Imp
 - - - [x] A Step-Indexed Evaluator
 - - - - [x] Exercise: 2 stars, standard, recommended (pup_to_n)
 - - - - [x] Exercise: 2 stars, standard, optional (peven)
-- - - [ ] Relational vs. Step-Indexed Evaluation
+- - - [x] Relational vs. Step-Indexed Evaluation
 - - - - [x] Exercise: 4 stars, standard (ceval_step__ceval_inf)
-- - - - [ ] Exercise: 3 stars, standard, recommended (ceval__ceval_step)
+- - - - [x] Exercise: 3 stars, standard, recommended (ceval__ceval_step)
 - - [ ] Extracting ML from Coq
