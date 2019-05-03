@@ -309,7 +309,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars, advanced, optional (ceval_deterministic)
 - - - - [x] Exercise: 4 stars, standard, optional (add_for_loop)
 - - [ ] An Evaluation Function for Imp
-- - - [ ] A Step-Indexed Evaluator
+- - - [x] A Step-Indexed Evaluator
 - - - - [x] Exercise: 2 stars, standard, recommended (pup_to_n)
-- - - - [ ] Exercise: 2 stars, standard, optional (peven)
+- - - - [x] Exercise: 2 stars, standard, optional (peven)
 - - - [ ] Relational vs. Step-Indexed Evaluation
