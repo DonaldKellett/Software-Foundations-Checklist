@@ -308,4 +308,4 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, advanced, optional (while_break_true)
 - - - - [x] Exercise: 4 stars, advanced, optional (ceval_deterministic)
 - - - - [x] Exercise: 4 stars, standard, optional (add_for_loop)
-- - [ ] Lexing and Parsing in Coq
+- - [ ] An Evaluation Function for Imp
