@@ -313,6 +313,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, recommended (pup_to_n)
 - - - - [x] Exercise: 2 stars, standard, optional (peven)
 - - - [ ] Relational vs. Step-Indexed Evaluation
-- - - - [ ] Exercise: 4 stars, standard (ceval_step__ceval_inf)
+- - - - [x] Exercise: 4 stars, standard (ceval_step__ceval_inf)
 - - - - [ ] Exercise: 3 stars, standard, recommended (ceval__ceval_step)
 - - [ ] Extracting ML from Coq
