@@ -321,7 +321,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Simple Examples
 - - - - - [x] Exercise: 2 stars, standard (skip_right)
 - - - - - [x] Exercise: 2 stars, standard, recommended (TEST_false)
-- - - - - [ ] Exercise: 3 stars, standard (swap_if_branches)
+- - - - - [x] Exercise: 3 stars, standard (swap_if_branches)
 - - - - - [ ] Exercise: 2 stars, advanced, optional (WHILE_false_informal)
 - - - - - [ ] Exercise: 2 stars, standard, optional (WHILE_true_nonterm_informal)
 - - - - - [ ] Exercise: 2 stars, standard, recommended (WHILE_true)
