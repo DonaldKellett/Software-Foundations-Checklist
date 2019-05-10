@@ -331,6 +331,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Properties of Behavioral Equivalence
 - - - - [ ] Behavioral Congruence Is a Congruence
 - - - - - [x] Exercise: 3 stars, standard, optional (CSeq_congruence)
-- - - - - [ ] Exercise: 3 stars, standard (CIf_congruence)
+- - - - - [x] Exercise: 3 stars, standard (CIf_congruence)
 - - - - - [ ] Exercise: 3 stars, advanced, optional (not_congr)
 - - - [ ] Program Transformations
