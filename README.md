@@ -316,3 +316,16 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars, standard (ceval_step__ceval_inf)
 - - - - [x] Exercise: 3 stars, standard, recommended (ceval__ceval_step)
 - [ ] Volume 2: Programming Language Foundations
+- - [ ] Program Equivalence
+- - - [ ] Behavioral Equivalence
+- - - - [ ] Simple Examples
+- - - - - [ ] Exercise: 2 stars, standard (skip_right)
+- - - - - [ ] Exercise: 2 stars, standard, recommended (TEST_false)
+- - - - - [ ] Exercise: 3 stars, standard (swap_if_branches)
+- - - - - [ ] Exercise: 2 stars, advanced, optional (WHILE_false_informal)
+- - - - - [ ] Exercise: 2 stars, standard, optional (WHILE_true_nonterm_informal)
+- - - - - [ ] Exercise: 2 stars, standard, recommended (WHILE_true)
+- - - - - [ ] Exercise: 2 stars, standard, optional (seq_assoc)
+- - - - - [ ] Exercise: 2 stars, standard, recommended (assign_aequiv)
+- - - - - [ ] Exercise: 2 stars, standard (equiv_classes)
+- - - [ ] Properties of Behavioral Equivalence
