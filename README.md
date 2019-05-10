@@ -328,9 +328,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, optional (seq_assoc)
 - - - - - [x] Exercise: 2 stars, standard, recommended (assign_aequiv)
 - - - - - [x] Exercise: 2 stars, standard (equiv_classes)
-- - - [ ] Properties of Behavioral Equivalence
-- - - - [ ] Behavioral Congruence Is a Congruence
+- - - [x] Properties of Behavioral Equivalence
+- - - - [x] Behavioral Congruence Is a Congruence
 - - - - - [x] Exercise: 3 stars, standard, optional (CSeq_congruence)
 - - - - - [x] Exercise: 3 stars, standard (CIf_congruence)
-- - - - - [ ] Exercise: 3 stars, advanced, optional (not_congr)
+- - - - - [x] Exercise: 3 stars, advanced, optional (not_congr)
 - - - [ ] Program Transformations
