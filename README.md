@@ -326,6 +326,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, optional (WHILE_true_nonterm_informal)
 - - - - - [x] Exercise: 2 stars, standard, recommended (WHILE_true)
 - - - - - [x] Exercise: 2 stars, standard, optional (seq_assoc)
-- - - - - [ ] Exercise: 2 stars, standard, recommended (assign_aequiv)
+- - - - - [x] Exercise: 2 stars, standard, recommended (assign_aequiv)
 - - - - - [ ] Exercise: 2 stars, standard (equiv_classes)
 - - - [ ] Properties of Behavioral Equivalence
