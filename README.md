@@ -341,5 +341,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - - [x] Exercise: 4 stars, advanced, optional (optimize_0plus)
 - - - [ ] Proving Inequivalence
 - - - - [ ] Exercise: 4 stars, standard, optional (better_subst_equiv)
-- - - - [ ] Exercise: 3 stars, standard (inequiv_exercise)
+- - - - [x] Exercise: 3 stars, standard (inequiv_exercise)
 - - - [ ] Extended Exercise: Nondeterministic Imp
