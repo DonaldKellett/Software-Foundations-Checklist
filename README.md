@@ -336,7 +336,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Program Transformations
 - - - - [ ] Soundness of Constant Folding
 - - - - - [x] Exercise: 3 stars, standard, optional (fold_bexp_Eq_informal)
-- - - - - [ ] Exercise: 3 stars, standard (fold_constants_com_sound)
+- - - - - [x] Exercise: 3 stars, standard (fold_constants_com_sound)
 - - - - - [ ] Soundness of (0 + n) Elimination, Redux
 - - - - - - [ ] Exercise: 4 stars, advanced, optional (optimize_0plus)
 - - - [ ] Proving Inequivalence
