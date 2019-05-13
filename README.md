@@ -345,7 +345,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Extended Exercise: Nondeterministic Imp
 - - - - [x] Exercise: 2 stars, standard (himp_ceval)
 - - - - [x] Exercise: 3 stars, standard (havoc_swap)
-- - - - [ ] Exercise: 4 stars, standard, optional (havoc_copy)
+- - - - [x] Exercise: 4 stars, standard, optional (havoc_copy)
 - - - - [ ] Exercise: 4 stars, advanced (p1_p2_term)
 - - - - [ ] Exercise: 4 stars, advanced (p1_p2_equiv)
 - - - - [ ] Exercise: 4 stars, advanced (p3_p4_inequiv)
