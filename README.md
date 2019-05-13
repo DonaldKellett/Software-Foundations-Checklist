@@ -339,7 +339,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard (fold_constants_com_sound)
 - - - - - [x] Soundness of (0 + n) Elimination, Redux
 - - - - - - [x] Exercise: 4 stars, advanced, optional (optimize_0plus)
-- - - [ ] Proving Inequivalence
-- - - - [ ] Exercise: 4 stars, standard, optional (better_subst_equiv)
+- - - [x] Proving Inequivalence
+- - - - [x] Exercise: 4 stars, standard, optional (better_subst_equiv)
 - - - - [x] Exercise: 3 stars, standard (inequiv_exercise)
 - - - [ ] Extended Exercise: Nondeterministic Imp
