@@ -316,7 +316,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars, standard (ceval_step__ceval_inf)
 - - - - [x] Exercise: 3 stars, standard, recommended (ceval__ceval_step)
 - [ ] Volume 2: Programming Language Foundations
-- - [ ] Program Equivalence
+- - [x] Program Equivalence
 - - - [x] Behavioral Equivalence
 - - - - [x] Simple Examples
 - - - - - [x] Exercise: 2 stars, standard (skip_right)
@@ -350,8 +350,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars, advanced (p1_p2_equiv)
 - - - - [x] Exercise: 4 stars, advanced (p3_p4_inequiv)
 - - - - [x] Exercise: 5 stars, advanced, optional (p5_p6_equiv)
-- - - [ ] Additional Exercises
+- - - [x] Additional Exercises
 - - - - [x] Exercise: 4 stars, standard, optional (for_while_equiv)
-- - - - [ ] Exercise: 3 stars, standard, optional (swap_noninterfering_assignments)
+- - - - [x] Exercise: 3 stars, standard, optional (swap_noninterfering_assignments)
 - - - - [x] Exercise: 4 stars, advanced, optional (capprox)
 - - [ ] Hoare Logic, Part I
