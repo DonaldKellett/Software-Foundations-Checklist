@@ -353,5 +353,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Additional Exercises
 - - - - [x] Exercise: 4 stars, standard, optional (for_while_equiv)
 - - - - [ ] Exercise: 3 stars, standard, optional (swap_noninterfering_assignments)
-- - - - [ ] Exercise: 4 stars, advanced, optional (capprox)
+- - - - [x] Exercise: 4 stars, advanced, optional (capprox)
 - - [ ] Hoare Logic, Part I
