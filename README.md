@@ -348,6 +348,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars, standard, optional (havoc_copy)
 - - - - [x] Exercise: 4 stars, advanced (p1_p2_term)
 - - - - [x] Exercise: 4 stars, advanced (p1_p2_equiv)
-- - - - [ ] Exercise: 4 stars, advanced (p3_p4_inequiv)
+- - - - [x] Exercise: 4 stars, advanced (p3_p4_inequiv)
 - - - - [ ] Exercise: 5 stars, advanced, optional (p5_p6_equiv)
 - - - [ ] Additional Exercises
