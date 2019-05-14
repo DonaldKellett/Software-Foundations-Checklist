@@ -342,12 +342,16 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Proving Inequivalence
 - - - - [x] Exercise: 4 stars, standard, optional (better_subst_equiv)
 - - - - [x] Exercise: 3 stars, standard (inequiv_exercise)
-- - - [ ] Extended Exercise: Nondeterministic Imp
+- - - [x] Extended Exercise: Nondeterministic Imp
 - - - - [x] Exercise: 2 stars, standard (himp_ceval)
 - - - - [x] Exercise: 3 stars, standard (havoc_swap)
 - - - - [x] Exercise: 4 stars, standard, optional (havoc_copy)
 - - - - [x] Exercise: 4 stars, advanced (p1_p2_term)
 - - - - [x] Exercise: 4 stars, advanced (p1_p2_equiv)
 - - - - [x] Exercise: 4 stars, advanced (p3_p4_inequiv)
-- - - - [ ] Exercise: 5 stars, advanced, optional (p5_p6_equiv)
+- - - - [x] Exercise: 5 stars, advanced, optional (p5_p6_equiv)
 - - - [ ] Additional Exercises
+- - - - [ ] Exercise: 4 stars, standard, optional (for_while_equiv)
+- - - - [ ] Exercise: 3 stars, standard, optional (swap_noninterfering_assignments)
+- - - - [ ] Exercise: 4 stars, advanced, optional (capprox)
+- - [ ] Hoare Logic, Part I
