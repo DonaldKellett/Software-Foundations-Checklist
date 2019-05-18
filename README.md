@@ -363,7 +363,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Proof Rules
 - - - - [ ] Assignment
 - - - - - [x] Exercise: 2 stars, standard (hoare_asgn_examples)
-- - - - - [ ] Exercise: 2 stars, standard, recommended (hoare_asgn_wrong)
+- - - - - [x] Exercise: 2 stars, standard, recommended (hoare_asgn_wrong)
 - - - - - [ ] Exercise: 3 stars, advanced (hoare_asgn_fwd)
 - - - - - [ ] Exercise: 2 stars, advanced, optional (hoare_asgn_fwd_exists)
 - - - - [ ] Digression: The `eapply` Tactic
