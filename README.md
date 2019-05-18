@@ -368,10 +368,10 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, advanced, optional (hoare_asgn_fwd_exists)
 - - - - [x] Digression: The `eapply` Tactic
 - - - - - [x] Exercise: 2 stars, standard (hoare_asgn_examples_2)
-- - - - [ ] Sequencing
+- - - - [x] Sequencing
 - - - - - [x] Exercise: 2 stars, standard, recommended (hoare_asgn_example4)
 - - - - - [x] Exercise: 3 stars, standard (swap_exercise)
-- - - - - [ ] Exercise: 3 stars, standard (hoarestate1)
+- - - - - [x] Exercise: 3 stars, standard (hoarestate1)
 - - - - [ ] Conditionals
 - - - - - [ ] Example
 - - - - - - [ ] Exercise: 2 stars, standard (if_minus_plus)
