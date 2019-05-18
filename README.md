@@ -358,3 +358,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Assertions
 - - - - [x] Exercise: 1 star, standard, optional (assertions)
 - - - [ ] Hoare Triples
+- - - - [ ] Exercise: 1 star, standard, optional (triples)
+- - - - [ ] Exercise: 1 star, standard, optional (valid_triples)
+- - - [ ] Proof Rules
