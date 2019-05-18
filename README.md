@@ -361,3 +361,23 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard, optional (triples)
 - - - - [x] Exercise: 1 star, standard, optional (valid_triples)
 - - - [ ] Proof Rules
+- - - - [ ] Assignment
+- - - - - [ ] Exercise: 2 stars, standard (hoare_asgn_examples)
+- - - - - [ ] Exercise: 2 stars, standard, recommended (hoare_asgn_wrong)
+- - - - - [ ] Exercise: 3 stars, advanced (hoare_asgn_fwd)
+- - - - - [ ] Exercise: 2 stars, advanced, optional (hoare_asgn_fwd_exists)
+- - - - [ ] Digression: The `eapply` Tactic
+- - - - - [ ] Exercise: 2 stars, standard (hoare_asgn_examples_2)
+- - - - [ ] Sequencing
+- - - - - [ ] Exercise: 2 stars, standard, recommended (hoare_asgn_example4)
+- - - - - [ ] Exercise: 3 stars, standard (swap_exercise)
+- - - - - [ ] Exercise: 3 stars, standard (hoarestate1)
+- - - - [ ] Conditionals
+- - - - - [ ] Example
+- - - - - - [ ] Exercise: 2 stars, standard (if_minus_plus)
+- - - - - [ ] Exercise: One-sided conditionals
+- - - - - - [ ] Exercise: 4 stars, standard (if1_hoare)
+- - - - [ ] Loops
+- - - - - [ ] Exercise: REPEAT
+- - - - - - [ ] Exercise: 4 stars, advanced (hoare_repeat)
+- - - [ ] Summary
