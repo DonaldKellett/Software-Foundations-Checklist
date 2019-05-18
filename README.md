@@ -355,6 +355,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, standard, optional (swap_noninterfering_assignments)
 - - - - [x] Exercise: 4 stars, advanced, optional (capprox)
 - - [ ] Hoare Logic, Part I
-- - - [ ] Assertions
-- - - - [ ] Exercise: 1 star, standard, optional (assertions)
+- - - [x] Assertions
+- - - - [x] Exercise: 1 star, standard, optional (assertions)
 - - - [ ] Hoare Triples
