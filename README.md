@@ -369,7 +369,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Digression: The `eapply` Tactic
 - - - - - [x] Exercise: 2 stars, standard (hoare_asgn_examples_2)
 - - - - [ ] Sequencing
-- - - - - [ ] Exercise: 2 stars, standard, recommended (hoare_asgn_example4)
+- - - - - [x] Exercise: 2 stars, standard, recommended (hoare_asgn_example4)
 - - - - - [ ] Exercise: 3 stars, standard (swap_exercise)
 - - - - - [ ] Exercise: 3 stars, standard (hoarestate1)
 - - - - [ ] Conditionals
