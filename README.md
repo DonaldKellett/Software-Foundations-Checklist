@@ -380,4 +380,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Loops
 - - - - - [x] Exercise: REPEAT
 - - - - - - [x] Exercise: 4 stars, advanced (hoare_repeat)
-- - - [ ] Summary
+- - - [ ] Additional Exercises
+- - - - [ ] Exercise: 3 stars, standard (hoare_havoc)
+- - - - [ ] Exercise: 4 stars, standard, optional (assert_vs_assume)
+- - [ ] Hoare Logic, Part II
