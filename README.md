@@ -360,7 +360,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Hoare Triples
 - - - - [x] Exercise: 1 star, standard, optional (triples)
 - - - - [x] Exercise: 1 star, standard, optional (valid_triples)
-- - - [ ] Proof Rules
+- - - [x] Proof Rules
 - - - - [x] Assignment
 - - - - - [x] Exercise: 2 stars, standard (hoare_asgn_examples)
 - - - - - [x] Exercise: 2 stars, standard, recommended (hoare_asgn_wrong)
@@ -377,7 +377,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - - [x] Exercise: 2 stars, standard (if_minus_plus)
 - - - - - [x] Exercise: One-sided conditionals
 - - - - - - [x] Exercise: 4 stars, standard (if1_hoare)
-- - - - [ ] Loops
-- - - - - [ ] Exercise: REPEAT
-- - - - - - [ ] Exercise: 4 stars, advanced (hoare_repeat)
+- - - - [x] Loops
+- - - - - [x] Exercise: REPEAT
+- - - - - - [x] Exercise: 4 stars, advanced (hoare_repeat)
 - - - [ ] Summary
