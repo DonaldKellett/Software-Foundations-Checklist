@@ -372,11 +372,11 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, recommended (hoare_asgn_example4)
 - - - - - [x] Exercise: 3 stars, standard (swap_exercise)
 - - - - - [x] Exercise: 3 stars, standard (hoarestate1)
-- - - - [ ] Conditionals
+- - - - [x] Conditionals
 - - - - - [x] Example
 - - - - - - [x] Exercise: 2 stars, standard (if_minus_plus)
-- - - - - [ ] Exercise: One-sided conditionals
-- - - - - - [ ] Exercise: 4 stars, standard (if1_hoare)
+- - - - - [x] Exercise: One-sided conditionals
+- - - - - - [x] Exercise: 4 stars, standard (if1_hoare)
 - - - - [ ] Loops
 - - - - - [ ] Exercise: REPEAT
 - - - - - - [ ] Exercise: 4 stars, advanced (hoare_repeat)
