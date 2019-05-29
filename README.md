@@ -384,3 +384,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, standard (hoare_havoc)
 - - - - [x] Exercise: 4 stars, standard, optional (assert_vs_assume)
 - - [ ] Hoare Logic, Part II
+- - - [ ] Decorated Programs
+- - - - [ ] Example: Simple Conditionals
+- - - - - [ ] Exercise: 2 stars, standard (if_minus_plus_reloaded)
+- - - [ ] Finding Loop Invariants
