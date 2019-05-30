@@ -388,3 +388,17 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Example: Simple Conditionals
 - - - - - [x] Exercise: 2 stars, standard (if_minus_plus_reloaded)
 - - - [ ] Finding Loop Invariants
+- - - - [ ] Exercise: Slow Assignment
+- - - - - [ ] Exercise: 2 stars, standard (slow_assignment)
+- - - - [ ] Exercise: Slow Addition
+- - - - - [ ] Exercise: 3 stars, standard, optional (add_slowly_decoration)
+- - - - [ ] Example: Parity
+- - - - - [ ] Exercise: 3 stars, standard, optional (parity_formal)
+- - - - [ ] Exercise: Factorial
+- - - - - [ ] Exercise: 3 stars, standard (factorial)
+- - - - [ ] Exercise: Min
+- - - - - [ ] Exercise: 3 stars, standard (Min_Hoare)
+- - - - - [ ] Exercise: 3 stars, standard (two_loops)
+- - - - [ ] Exercise: Power Series
+- - - - - [ ] Exercise: 4 stars, standard, optional (dpow2_down)
+- - - [ ] Weakest Preconditions (Optional)
