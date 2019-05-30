@@ -394,8 +394,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard, optional (add_slowly_decoration)
 - - - - [x] Example: Parity
 - - - - - [x] Exercise: 3 stars, standard, optional (parity_formal)
-- - - - [ ] Exercise: Factorial
-- - - - - [ ] Exercise: 3 stars, standard (factorial)
+- - - - [x] Exercise: Factorial
+- - - - - [x] Exercise: 3 stars, standard (factorial)
 - - - - [ ] Exercise: Min
 - - - - - [ ] Exercise: 3 stars, standard (Min_Hoare)
 - - - - - [ ] Exercise: 3 stars, standard (two_loops)
