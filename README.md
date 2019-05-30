@@ -388,8 +388,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Example: Simple Conditionals
 - - - - - [x] Exercise: 2 stars, standard (if_minus_plus_reloaded)
 - - - [ ] Finding Loop Invariants
-- - - - [ ] Exercise: Slow Assignment
-- - - - - [ ] Exercise: 2 stars, standard (slow_assignment)
+- - - - [x] Exercise: Slow Assignment
+- - - - - [x] Exercise: 2 stars, standard (slow_assignment)
 - - - - [ ] Exercise: Slow Addition
 - - - - - [ ] Exercise: 3 stars, standard, optional (add_slowly_decoration)
 - - - - [ ] Example: Parity
