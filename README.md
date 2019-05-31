@@ -387,7 +387,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Decorated Programs
 - - - - [x] Example: Simple Conditionals
 - - - - - [x] Exercise: 2 stars, standard (if_minus_plus_reloaded)
-- - - [ ] Finding Loop Invariants
+- - - [x] Finding Loop Invariants
 - - - - [x] Exercise: Slow Assignment
 - - - - - [x] Exercise: 2 stars, standard (slow_assignment)
 - - - - [x] Exercise: Slow Addition
@@ -399,6 +399,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: Min
 - - - - - [x] Exercise: 3 stars, standard (Min_Hoare)
 - - - - - [x] Exercise: 3 stars, standard (two_loops)
-- - - - [ ] Exercise: Power Series
-- - - - - [ ] Exercise: 4 stars, standard, optional (dpow2_down)
+- - - - [x] Exercise: Power Series
+- - - - - [x] Exercise: 4 stars, standard, optional (dpow2_down)
 - - - [ ] Weakest Preconditions (Optional)
