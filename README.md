@@ -402,3 +402,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: Power Series
 - - - - - [x] Exercise: 4 stars, standard, optional (dpow2_down)
 - - - [ ] Weakest Preconditions (Optional)
+- - - - [ ] Exercise: 1 star, standard, optional (wp)
+- - - - [ ] Exercise: 3 stars, advanced, optional (is_wp_formal)
+- - - - [ ] Exercise: 2 stars, advanced, optional (hoare_asgn_weakest)
+- - - - [ ] Exercise: 2 stars, advanced, optional (hoare_havoc_weakest)
+- - - [ ] Formal Decorated Programs (Advanced)
