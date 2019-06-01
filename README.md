@@ -407,3 +407,11 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, advanced, optional (hoare_asgn_weakest)
 - - - - [x] Exercise: 2 stars, advanced, optional (hoare_havoc_weakest)
 - - - [ ] Formal Decorated Programs (Advanced)
+- - - - [ ] Further Exercises
+- - - - - [ ] Exercise: 3 stars, advanced (slow_assignment_dec)
+- - - - - [ ] Exercise: 4 stars, advanced (factorial_dec)
+- - - - - [ ] Exercise: 4 stars, advanced, optional (fib_eqn)
+- - - - - [ ] Exercise: 4 stars, advanced, optional (fib)
+- - - - - [ ] Exercise: 5 stars, advanced, optional (improve_dcom)
+- - - - - [ ] Exercise: 4 stars, advanced, optional (implement_dcom)
+- - [ ] Hoare Logic as a Logic
