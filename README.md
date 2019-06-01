@@ -409,7 +409,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Formal Decorated Programs (Advanced)
 - - - - [ ] Further Exercises
 - - - - - [x] Exercise: 3 stars, advanced (slow_assignment_dec)
-- - - - - [ ] Exercise: 4 stars, advanced (factorial_dec)
+- - - - - [x] Exercise: 4 stars, advanced (factorial_dec)
 - - - - - [ ] Exercise: 4 stars, advanced, optional (fib_eqn)
 - - - - - [ ] Exercise: 4 stars, advanced, optional (fib)
 - - - - - [ ] Exercise: 5 stars, advanced, optional (improve_dcom)
