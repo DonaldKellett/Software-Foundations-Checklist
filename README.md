@@ -411,7 +411,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, advanced (slow_assignment_dec)
 - - - - - [x] Exercise: 4 stars, advanced (factorial_dec)
 - - - - - [x] Exercise: 4 stars, advanced, optional (fib_eqn)
-- - - - - [ ] Exercise: 4 stars, advanced, optional (fib)
+- - - - - [x] Exercise: 4 stars, advanced, optional (fib)
 - - - - - [ ] Exercise: 5 stars, advanced, optional (improve_dcom)
 - - - - - [ ] Exercise: 4 stars, advanced, optional (implement_dcom)
 - - [ ] Hoare Logic as a Logic
