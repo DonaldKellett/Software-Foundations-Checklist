@@ -415,3 +415,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [ ] Exercise: 5 stars, advanced, optional (improve_dcom)
 - - - - - [ ] Exercise: 4 stars, advanced, optional (implement_dcom)
 - - [ ] Hoare Logic as a Logic
+- - - [ ] Properties
+- - - - [ ] Exercise: 2 stars, standard (hoare_proof_sound)
+- - - - [ ] Exercise: 1 star, standard (wp_is_precondition)
+- - - - [ ] Exercise: 1 star, standard (wp_is_weakest)
+- - - - [ ] Exercise: 5 stars, standard (hoare_proof_complete)
+- - [ ] Small-step Operational Semantics
