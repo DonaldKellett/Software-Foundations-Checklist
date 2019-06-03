@@ -424,3 +424,16 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] A Toy Language
 - - - - [x] Exercise: 1 star, standard (test_step_2)
 - - - [ ] Relations
+- - - - [ ] Values
+- - - - - [ ] Exercise: 3 stars, standard, recommended (redo_determinism)
+- - - - [ ] Strong Progress and Normal Forms
+- - - - - [ ] Exercise: 3 stars, standard, optional (value_not_same_as_normal_form1)
+- - - - - [ ] Exercise: 2 stars, standard, optional (value_not_same_as_normal_form2)
+- - - - - [ ] Exercise: 3 stars, standard, optional (value_not_same_as_normal_form3)
+- - - - - [ ] Additional Exercises
+- - - - - - [ ] Exercise: 1 star, standard (smallstep_bools)
+- - - - - - [ ] Exercise: 3 stars, standard, optional (progress_bool)
+- - - - - - [ ] Exercise: 2 stars, standard, optional (step_deterministic)
+- - - - - - [ ] Exercise: 2 stars, standard (smallstep_bool_shortcut)
+- - - - - - [ ] Exercise: 3 stars, standard, optional (properties_of_altered_step)
+- - - [ ] Multi-Step Reduction
