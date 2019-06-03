@@ -423,17 +423,17 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Small-step Operational Semantics
 - - - [x] A Toy Language
 - - - - [x] Exercise: 1 star, standard (test_step_2)
-- - - [ ] Relations
+- - - [x] Relations
 - - - - [x] Values
 - - - - - [x] Exercise: 3 stars, standard, recommended (redo_determinism)
-- - - - [ ] Strong Progress and Normal Forms
+- - - - [x] Strong Progress and Normal Forms
 - - - - - [x] Exercise: 3 stars, standard, optional (value_not_same_as_normal_form1)
 - - - - - [x] Exercise: 2 stars, standard, optional (value_not_same_as_normal_form2)
 - - - - - [x] Exercise: 3 stars, standard, optional (value_not_same_as_normal_form3)
-- - - - - [ ] Additional Exercises
+- - - - - [x] Additional Exercises
 - - - - - - [x] Exercise: 1 star, standard (smallstep_bools)
 - - - - - - [x] Exercise: 3 stars, standard, optional (progress_bool)
 - - - - - - [x] Exercise: 2 stars, standard, optional (step_deterministic)
 - - - - - - [x] Exercise: 2 stars, standard (smallstep_bool_shortcut)
-- - - - - - [ ] Exercise: 3 stars, standard, optional (properties_of_altered_step)
+- - - - - - [x] Exercise: 3 stars, standard, optional (properties_of_altered_step)
 - - - [ ] Multi-Step Reduction
