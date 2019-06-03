@@ -433,7 +433,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [ ] Additional Exercises
 - - - - - - [x] Exercise: 1 star, standard (smallstep_bools)
 - - - - - - [x] Exercise: 3 stars, standard, optional (progress_bool)
-- - - - - - [ ] Exercise: 2 stars, standard, optional (step_deterministic)
+- - - - - - [x] Exercise: 2 stars, standard, optional (step_deterministic)
 - - - - - - [ ] Exercise: 2 stars, standard (smallstep_bool_shortcut)
 - - - - - - [ ] Exercise: 3 stars, standard, optional (properties_of_altered_step)
 - - - [ ] Multi-Step Reduction
