@@ -427,7 +427,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Values
 - - - - - [x] Exercise: 3 stars, standard, recommended (redo_determinism)
 - - - - [ ] Strong Progress and Normal Forms
-- - - - - [ ] Exercise: 3 stars, standard, optional (value_not_same_as_normal_form1)
+- - - - - [x] Exercise: 3 stars, standard, optional (value_not_same_as_normal_form1)
 - - - - - [ ] Exercise: 2 stars, standard, optional (value_not_same_as_normal_form2)
 - - - - - [ ] Exercise: 3 stars, standard, optional (value_not_same_as_normal_form3)
 - - - - - [ ] Additional Exercises
