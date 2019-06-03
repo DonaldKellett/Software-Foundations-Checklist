@@ -431,7 +431,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, optional (value_not_same_as_normal_form2)
 - - - - - [x] Exercise: 3 stars, standard, optional (value_not_same_as_normal_form3)
 - - - - - [ ] Additional Exercises
-- - - - - - [ ] Exercise: 1 star, standard (smallstep_bools)
+- - - - - - [x] Exercise: 1 star, standard (smallstep_bools)
 - - - - - - [ ] Exercise: 3 stars, standard, optional (progress_bool)
 - - - - - - [ ] Exercise: 2 stars, standard, optional (step_deterministic)
 - - - - - - [ ] Exercise: 2 stars, standard (smallstep_bool_shortcut)
