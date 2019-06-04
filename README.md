@@ -439,7 +439,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Multi-Step Reduction
 - - - - [ ] Examples
 - - - - - [x] Exercise: 1 star, standard, optional (test_multistep_2)
-- - - - - [ ] Exercise: 1 star, standard, optional (test_multistep_3)
+- - - - - [x] Exercise: 1 star, standard, optional (test_multistep_3)
 - - - - - [ ] Exercise: 2 stars, standard (test_multistep_4)
 - - - - [ ] Normal Forms Again
 - - - - - [ ] Exercise: 3 stars, standard, optional (normal_forms_unique)
