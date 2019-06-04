@@ -437,3 +437,19 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - - [x] Exercise: 2 stars, standard (smallstep_bool_shortcut)
 - - - - - - [x] Exercise: 3 stars, standard, optional (properties_of_altered_step)
 - - - [ ] Multi-Step Reduction
+- - - - [ ] Examples
+- - - - - [ ] Exercise: 1 star, standard, optional (test_multistep_2)
+- - - - - [ ] Exercise: 1 star, standard, optional (test_multistep_3)
+- - - - - [ ] Exercise: 2 stars, standard (test_multistep_4)
+- - - - [ ] Normal Forms Again
+- - - - - [ ] Exercise: 3 stars, standard, optional (normal_forms_unique)
+- - - - - [ ] Exercise: 2 stars, standard (multistep_congr_2)
+- - - - [ ] Equivalence of Big-Step and Small-Step
+- - - - - [ ] Exercise: 3 stars, standard (eval__multistep)
+- - - - - [ ] Exercise: 3 stars, advanced (eval__multistep_inf)
+- - - - - [ ] Exercise: 3 stars, standard (step__eval)
+- - - - - [ ] Exercise: 3 stars, standard (multistep__eval)
+- - - - [ ] Additional Exercises
+- - - - - [ ] Exercise: 3 stars, standard, optional (interp_tm)
+- - - - - [ ] Exercise: 4 stars, standard (combined_properties)
+- - - [ ] Small-Step Imp
