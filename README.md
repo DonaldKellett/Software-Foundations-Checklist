@@ -442,7 +442,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard, optional (test_multistep_3)
 - - - - - [x] Exercise: 2 stars, standard (test_multistep_4)
 - - - - [ ] Normal Forms Again
-- - - - - [ ] Exercise: 3 stars, standard, optional (normal_forms_unique)
+- - - - - [x] Exercise: 3 stars, standard, optional (normal_forms_unique)
 - - - - - [ ] Exercise: 2 stars, standard (multistep_congr_2)
 - - - - [ ] Equivalence of Big-Step and Small-Step
 - - - - - [ ] Exercise: 3 stars, standard (eval__multistep)
