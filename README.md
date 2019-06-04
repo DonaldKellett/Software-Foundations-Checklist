@@ -436,7 +436,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - - [x] Exercise: 2 stars, standard, optional (step_deterministic)
 - - - - - - [x] Exercise: 2 stars, standard (smallstep_bool_shortcut)
 - - - - - - [x] Exercise: 3 stars, standard, optional (properties_of_altered_step)
-- - - [ ] Multi-Step Reduction
+- - - [x] Multi-Step Reduction
 - - - - [x] Examples
 - - - - - [x] Exercise: 1 star, standard, optional (test_multistep_2)
 - - - - - [x] Exercise: 1 star, standard, optional (test_multistep_3)
@@ -449,7 +449,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, advanced (eval__multistep_inf)
 - - - - - [x] Exercise: 3 stars, standard (step__eval)
 - - - - - [x] Exercise: 3 stars, standard (multistep__eval)
-- - - - [ ] Additional Exercises
+- - - - [x] Additional Exercises
 - - - - - [x] Exercise: 3 stars, standard, optional (interp_tm)
-- - - - - [ ] Exercise: 4 stars, standard (combined_properties)
+- - - - - [x] Exercise: 4 stars, standard (combined_properties)
 - - - [ ] Small-Step Imp
