@@ -447,7 +447,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Equivalence of Big-Step and Small-Step
 - - - - - [x] Exercise: 3 stars, standard (eval__multistep)
 - - - - - [x] Exercise: 3 stars, advanced (eval__multistep_inf)
-- - - - - [ ] Exercise: 3 stars, standard (step__eval)
+- - - - - [x] Exercise: 3 stars, standard (step__eval)
 - - - - - [ ] Exercise: 3 stars, standard (multistep__eval)
 - - - - [ ] Additional Exercises
 - - - - - [ ] Exercise: 3 stars, standard, optional (interp_tm)
