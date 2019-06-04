@@ -450,6 +450,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard (step__eval)
 - - - - - [x] Exercise: 3 stars, standard (multistep__eval)
 - - - - [ ] Additional Exercises
-- - - - - [ ] Exercise: 3 stars, standard, optional (interp_tm)
+- - - - - [x] Exercise: 3 stars, standard, optional (interp_tm)
 - - - - - [ ] Exercise: 4 stars, standard (combined_properties)
 - - - [ ] Small-Step Imp
