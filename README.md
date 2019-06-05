@@ -452,7 +452,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Additional Exercises
 - - - - - [x] Exercise: 3 stars, standard, optional (interp_tm)
 - - - - - [x] Exercise: 4 stars, standard (combined_properties)
-- - - [ ] Concurrent Imp
+- - - [x] Concurrent Imp
 - - - - [x] Exercise: 3 stars, standard, optional (par_body_n__Sn)
-- - - - [ ] Exercise: 3 stars, standard, optional (par_body_n)
+- - - - [x] Exercise: 3 stars, standard, optional (par_body_n)
 - - - [ ] A Small-Step Stack Machine
