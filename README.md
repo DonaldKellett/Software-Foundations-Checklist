@@ -458,6 +458,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] A Small-Step Stack Machine
 - - - - [x] Exercise: 3 stars, advanced (compiler_is_correct)
 - - - [ ] Aside: A `normalize` Tactic
-- - - - [ ] Exercise: 1 star, standard (normalize_ex)
+- - - - [x] Exercise: 1 star, standard (normalize_ex)
 - - - - [ ] Exercise: 1 star, standard, optional (normalize_ex')
 - - [ ] Type Systems
