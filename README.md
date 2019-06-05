@@ -420,7 +420,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard (wp_is_precondition)
 - - - - [x] Exercise: 1 star, standard (wp_is_weakest)
 - - - - [x] Exercise: 5 stars, standard (hoare_proof_complete)
-- - [ ] Small-step Operational Semantics
+- - [x] Small-step Operational Semantics
 - - - [x] A Toy Language
 - - - - [x] Exercise: 1 star, standard (test_step_2)
 - - - [x] Relations
@@ -457,7 +457,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, standard, optional (par_body_n)
 - - - [x] A Small-Step Stack Machine
 - - - - [x] Exercise: 3 stars, advanced (compiler_is_correct)
-- - - [ ] Aside: A `normalize` Tactic
+- - - [x] Aside: A `normalize` Tactic
 - - - - [x] Exercise: 1 star, standard (normalize_ex)
-- - - - [ ] Exercise: 1 star, standard, optional (normalize_ex')
+- - - - [x] Exercise: 1 star, standard, optional (normalize_ex')
 - - [ ] Type Systems
