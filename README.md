@@ -455,6 +455,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Concurrent Imp
 - - - - [x] Exercise: 3 stars, standard, optional (par_body_n__Sn)
 - - - - [x] Exercise: 3 stars, standard, optional (par_body_n)
-- - - [ ] A Small-Step Stack Machine
-- - - - [ ] Exercise: 3 stars, advanced (compiler_is_correct)
+- - - [x] A Small-Step Stack Machine
+- - - - [x] Exercise: 3 stars, advanced (compiler_is_correct)
 - - - [ ] Aside: A `normalize` Tactic
