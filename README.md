@@ -452,4 +452,4 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Additional Exercises
 - - - - - [x] Exercise: 3 stars, standard, optional (interp_tm)
 - - - - - [x] Exercise: 4 stars, standard (combined_properties)
-- - - [ ] Small-Step Imp
+- - - [ ] Concurrent Imp
