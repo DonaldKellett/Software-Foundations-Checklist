@@ -472,7 +472,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard (finish_progress)
 - - - - - [x] Exercise: 3 stars, advanced (finish_progress_informal)
 - - - - [ ] Type Preservation
-- - - - - [ ] Exercise: 2 stars, standard (finish_preservation)
+- - - - - [x] Exercise: 2 stars, standard (finish_preservation)
 - - - - - [ ] Exercise: 3 stars, advanced (finish_preservation_informal)
 - - - - - [ ] Exercise: 3 stars, standard (preservation_alternate_proof)
 - - - - [ ] Additional Exercises
