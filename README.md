@@ -463,7 +463,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Type Systems
 - - - [ ] Typed Arithmetic Expressions
 - - - - [ ] Normal Forms and Values
-- - - - - [ ] Exercise: 2 stars, standard (some_term_is_stuck)
+- - - - - [x] Exercise: 2 stars, standard (some_term_is_stuck)
 - - - - - [ ] Exercise: 3 stars, standard (value_is_nf)
 - - - - - [ ] Exercise: 3 stars, standard, optional (step_deterministic)
 - - - - [ ] Typing
