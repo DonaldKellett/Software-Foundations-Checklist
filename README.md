@@ -478,7 +478,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Additional Exercises
 - - - - - [x] Exercise: 2 stars, standard, recommended (subject_expansion)
 - - - - - [x] Exercise: 2 stars, standard (variation1)
-- - - - - [ ] Exercise: 2 stars, standard (variation2)
+- - - - - [x] Exercise: 2 stars, standard (variation2)
 - - - - - [ ] Exercise: 2 stars, standard, optional (variation3)
 - - - - - [ ] Exercise: 2 stars, standard, optional (variation4)
 - - - - - [ ] Exercise: 2 stars, standard, optional (variation5)
