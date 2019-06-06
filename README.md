@@ -460,8 +460,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Aside: A `normalize` Tactic
 - - - - [x] Exercise: 1 star, standard (normalize_ex)
 - - - - [x] Exercise: 1 star, standard, optional (normalize_ex')
-- - [ ] Type Systems
-- - - [ ] Typed Arithmetic Expressions
+- - [x] Type Systems
+- - - [x] Typed Arithmetic Expressions
 - - - - [x] Normal Forms and Values
 - - - - - [x] Exercise: 2 stars, standard (some_term_is_stuck)
 - - - - - [x] Exercise: 3 stars, standard (value_is_nf)
@@ -475,7 +475,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard (finish_preservation)
 - - - - - [x] Exercise: 3 stars, advanced (finish_preservation_informal)
 - - - - - [x] Exercise: 3 stars, standard (preservation_alternate_proof)
-- - - - [ ] Additional Exercises
+- - - - [x] Additional Exercises
 - - - - - [x] Exercise: 2 stars, standard, recommended (subject_expansion)
 - - - - - [x] Exercise: 2 stars, standard (variation1)
 - - - - - [x] Exercise: 2 stars, standard (variation2)
@@ -485,5 +485,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, optional (variation6)
 - - - - - [x] Exercise: 3 stars, standard, optional (more_variations)
 - - - - - [x] Exercise: 1 star, standard (remove_prdzro)
-- - - - - [ ] Exercise: 4 stars, advanced (prog_pres_bigstep)
+- - - - - [x] Exercise: 4 stars, advanced (prog_pres_bigstep)
 - - [ ] The Simply Typed Lambda-Calculus
