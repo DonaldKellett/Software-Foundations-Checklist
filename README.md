@@ -462,10 +462,10 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard, optional (normalize_ex')
 - - [ ] Type Systems
 - - - [ ] Typed Arithmetic Expressions
-- - - - [ ] Normal Forms and Values
+- - - - [x] Normal Forms and Values
 - - - - - [x] Exercise: 2 stars, standard (some_term_is_stuck)
 - - - - - [x] Exercise: 3 stars, standard (value_is_nf)
-- - - - - [ ] Exercise: 3 stars, standard, optional (step_deterministic)
+- - - - - [x] Exercise: 3 stars, standard, optional (step_deterministic)
 - - - - [ ] Typing
 - - - - - [ ] Exercise: 1 star, standard, optional (scc_hastype_nat__hastype_nat)
 - - - - [ ] Progress
