@@ -468,9 +468,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard, optional (step_deterministic)
 - - - - [x] Typing
 - - - - - [x] Exercise: 1 star, standard, optional (scc_hastype_nat__hastype_nat)
-- - - - [ ] Progress
+- - - - [x] Progress
 - - - - - [x] Exercise: 3 stars, standard (finish_progress)
-- - - - - [ ] Exercise: 3 stars, advanced (finish_progress_informal)
+- - - - - [x] Exercise: 3 stars, advanced (finish_progress_informal)
 - - - - [ ] Type Preservation
 - - - - - [ ] Exercise: 2 stars, standard (finish_preservation)
 - - - - - [ ] Exercise: 3 stars, advanced (finish_preservation_informal)
