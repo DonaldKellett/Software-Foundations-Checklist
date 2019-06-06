@@ -480,7 +480,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard (variation1)
 - - - - - [x] Exercise: 2 stars, standard (variation2)
 - - - - - [x] Exercise: 2 stars, standard, optional (variation3)
-- - - - - [ ] Exercise: 2 stars, standard, optional (variation4)
+- - - - - [x] Exercise: 2 stars, standard, optional (variation4)
 - - - - - [ ] Exercise: 2 stars, standard, optional (variation5)
 - - - - - [ ] Exercise: 2 stars, standard, optional (variation6)
 - - - - - [ ] Exercise: 3 stars, standard, optional (more_variations)
