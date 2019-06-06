@@ -461,3 +461,29 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 1 star, standard (normalize_ex)
 - - - - [x] Exercise: 1 star, standard, optional (normalize_ex')
 - - [ ] Type Systems
+- - - [ ] Typed Arithmetic Expressions
+- - - - [ ] Normal Forms and Values
+- - - - - [ ] Exercise: 2 stars, standard (some_term_is_stuck)
+- - - - - [ ] Exercise: 3 stars, standard (value_is_nf)
+- - - - - [ ] Exercise: 3 stars, standard, optional (step_deterministic)
+- - - - [ ] Typing
+- - - - - [ ] Exercise: 1 star, standard, optional (scc_hastype_nat__hastype_nat)
+- - - - [ ] Progress
+- - - - - [ ] Exercise: 3 stars, standard (finish_progress)
+- - - - - [ ] Exercise: 3 stars, advanced (finish_progress_informal)
+- - - - [ ] Type Preservation
+- - - - - [ ] Exercise: 2 stars, standard (finish_preservation)
+- - - - - [ ] Exercise: 3 stars, advanced (finish_preservation_informal)
+- - - - - [ ] Exercise: 3 stars, standard (preservation_alternate_proof)
+- - - - [ ] Additional Exercises
+- - - - - [ ] Exercise: 2 stars, standard, recommended (subject_expansion)
+- - - - - [ ] Exercise: 2 stars, standard (variation1)
+- - - - - [ ] Exercise: 2 stars, standard (variation2)
+- - - - - [ ] Exercise: 2 stars, standard, optional (variation3)
+- - - - - [ ] Exercise: 2 stars, standard, optional (variation4)
+- - - - - [ ] Exercise: 2 stars, standard, optional (variation5)
+- - - - - [ ] Exercise: 2 stars, standard, optional (variation6)
+- - - - - [ ] Exercise: 3 stars, standard, optional (more_variations)
+- - - - - [ ] Exercise: 1 star, standard (remove_prdzro)
+- - - - - [ ] Exercise: 4 stars, advanced (prog_pres_bigstep)
+- - [ ] The Simply Typed Lambda-Calculus
