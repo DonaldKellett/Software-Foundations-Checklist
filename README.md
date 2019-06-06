@@ -482,7 +482,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, optional (variation3)
 - - - - - [x] Exercise: 2 stars, standard, optional (variation4)
 - - - - - [x] Exercise: 2 stars, standard, optional (variation5)
-- - - - - [ ] Exercise: 2 stars, standard, optional (variation6)
+- - - - - [x] Exercise: 2 stars, standard, optional (variation6)
 - - - - - [ ] Exercise: 3 stars, standard, optional (more_variations)
 - - - - - [ ] Exercise: 1 star, standard (remove_prdzro)
 - - - - - [ ] Exercise: 4 stars, advanced (prog_pres_bigstep)
