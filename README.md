@@ -477,7 +477,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard (preservation_alternate_proof)
 - - - - [ ] Additional Exercises
 - - - - - [x] Exercise: 2 stars, standard, recommended (subject_expansion)
-- - - - - [ ] Exercise: 2 stars, standard (variation1)
+- - - - - [x] Exercise: 2 stars, standard (variation1)
 - - - - - [ ] Exercise: 2 stars, standard (variation2)
 - - - - - [ ] Exercise: 2 stars, standard, optional (variation3)
 - - - - - [ ] Exercise: 2 stars, standard, optional (variation4)
