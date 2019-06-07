@@ -488,8 +488,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 4 stars, advanced (prog_pres_bigstep)
 - - [ ] The Simply Typed Lambda-Calculus
 - - - [ ] Operational Semantics
-- - - - [ ] Substitution
-- - - - - [ ] Exercise: 3 stars, standard (substi_correct)
+- - - - [x] Substitution
+- - - - - [x] Exercise: 3 stars, standard (substi_correct)
 - - - - [ ] Examples
 - - - - - [ ] Exercise: 2 stars, standard (step_example5)
 - - - [ ] Typing
