@@ -509,6 +509,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, recommended (subject_expansion_stlc)
 - - - [x] Type Soundness
 - - - - [x] Exercise: 2 stars, standard, optional (type_soundness)
-- - - [ ] Uniqueness of Types
-- - - - [ ] Exercise: 3 stars, standard (unique_types)
+- - - [x] Uniqueness of Types
+- - - - [x] Exercise: 3 stars, standard (unique_types)
 - - - [ ] Additional Exercises
