@@ -501,8 +501,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Progress
 - - - - [x] Exercise: 3 stars, advanced (progress_from_term_ind)
 - - - [ ] Preservation
-- - - - [ ] Free Occurrences
-- - - - - [ ] Exercise: 1 star, standard (afi)
+- - - - [x] Free Occurrences
+- - - - - [x] Exercise: 1 star, standard (afi)
 - - - - [ ] Substitution
 - - - - - [ ] Exercise: 2 stars, standard, optional (typable_empty__closed)
 - - - - [ ] Main Theorem
