@@ -516,7 +516,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard (stlc_variation1)
 - - - - [x] Exercise: 2 stars, standard (stlc_variation2)
 - - - - [x] Exercise: 2 stars, standard (stlc_variation3)
-- - - - [ ] Exercise: 2 stars, standard, optional (stlc_variation4)
+- - - - [x] Exercise: 2 stars, standard, optional (stlc_variation4)
 - - - - [ ] Exercise: 2 stars, standard, optional (stlc_variation5)
 - - - - [ ] Exercise: 2 stars, standard, optional (stlc_variation6)
 - - - - [ ] Exercise: 2 stars, standard, optional (stlc_variation7)
