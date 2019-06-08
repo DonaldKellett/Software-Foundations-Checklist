@@ -519,7 +519,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, optional (stlc_variation4)
 - - - - [x] Exercise: 2 stars, standard, optional (stlc_variation5)
 - - - - [x] Exercise: 2 stars, standard, optional (stlc_variation6)
-- - - - [ ] Exercise: 2 stars, standard, optional (stlc_variation7)
+- - - - [x] Exercise: 2 stars, standard, optional (stlc_variation7)
 - - - - [ ] Exercise: STLC with Arithmetic
 - - - - - [ ] Exercise: 5 stars, standard (stlc_arith)
 - - [ ] More on the Simply Typed Lambda-Calculus
