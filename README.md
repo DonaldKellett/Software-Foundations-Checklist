@@ -503,8 +503,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Preservation
 - - - - [x] Free Occurrences
 - - - - - [x] Exercise: 1 star, standard (afi)
-- - - - [ ] Substitution
-- - - - - [ ] Exercise: 2 stars, standard, optional (typable_empty__closed)
+- - - - [x] Substitution
+- - - - - [x] Exercise: 2 stars, standard, optional (typable_empty__closed)
 - - - - [ ] Main Theorem
 - - - - - [ ] Exercise: 2 stars, standard, recommended (subject_expansion_stlc)
 - - - [ ] Type Soundness
