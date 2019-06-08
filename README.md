@@ -513,7 +513,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, standard (unique_types)
 - - - [ ] Additional Exercises
 - - - - [x] Exercise: 1 star, standard (progress_preservation_statement)
-- - - - [ ] Exercise: 2 stars, standard (stlc_variation1)
+- - - - [x] Exercise: 2 stars, standard (stlc_variation1)
 - - - - [ ] Exercise: 2 stars, standard (stlc_variation2)
 - - - - [ ] Exercise: 2 stars, standard (stlc_variation3)
 - - - - [ ] Exercise: 2 stars, standard, optional (stlc_variation4)
