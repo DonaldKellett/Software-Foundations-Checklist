@@ -512,3 +512,14 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Uniqueness of Types
 - - - - [x] Exercise: 3 stars, standard (unique_types)
 - - - [ ] Additional Exercises
+- - - - [ ] Exercise: 1 star, standard (progress_preservation_statement)
+- - - - [ ] Exercise: 2 stars, standard (stlc_variation1)
+- - - - [ ] Exercise: 2 stars, standard (stlc_variation2)
+- - - - [ ] Exercise: 2 stars, standard (stlc_variation3)
+- - - - [ ] Exercise: 2 stars, standard, optional (stlc_variation4)
+- - - - [ ] Exercise: 2 stars, standard, optional (stlc_variation5)
+- - - - [ ] Exercise: 2 stars, standard, optional (stlc_variation6)
+- - - - [ ] Exercise: 2 stars, standard, optional (stlc_variation7)
+- - - - [ ] Exercise: STLC with Arithmetic
+- - - - - [ ] Exercise: 5 stars, standard (stlc_arith)
+- - [ ] More on the Simply Typed Lambda-Calculus
