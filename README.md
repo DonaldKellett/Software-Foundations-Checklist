@@ -495,6 +495,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Typing
 - - - - [ ] Examples
 - - - - - [x] Exercise: 2 stars, standard, optional (typing_example_2_full)
-- - - - - [ ] Exercise: 2 stars, standard (typing_example_3)
+- - - - - [x] Exercise: 2 stars, standard (typing_example_3)
 - - - - - [ ] Exercise: 3 stars, standard, optional (typing_nonexample_3)
 - - [ ] Properties of STLC
