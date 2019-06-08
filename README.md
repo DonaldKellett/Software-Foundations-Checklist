@@ -507,6 +507,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, optional (typable_empty__closed)
 - - - - [x] Main Theorem
 - - - - - [x] Exercise: 2 stars, standard, recommended (subject_expansion_stlc)
-- - - [ ] Type Soundness
-- - - - [ ] Exercise: 2 stars, standard, optional (type_soundness)
+- - - [x] Type Soundness
+- - - - [x] Exercise: 2 stars, standard, optional (type_soundness)
 - - - [ ] Uniqueness of Types
