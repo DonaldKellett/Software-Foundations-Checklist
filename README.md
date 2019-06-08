@@ -486,15 +486,15 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard, optional (more_variations)
 - - - - - [x] Exercise: 1 star, standard (remove_prdzro)
 - - - - - [x] Exercise: 4 stars, advanced (prog_pres_bigstep)
-- - [ ] The Simply Typed Lambda-Calculus
+- - [x] The Simply Typed Lambda-Calculus
 - - - [x] Operational Semantics
 - - - - [x] Substitution
 - - - - - [x] Exercise: 3 stars, standard (substi_correct)
 - - - - [x] Examples
 - - - - - [x] Exercise: 2 stars, standard (step_example5)
-- - - [ ] Typing
-- - - - [ ] Examples
+- - - [x] Typing
+- - - - [x] Examples
 - - - - - [x] Exercise: 2 stars, standard, optional (typing_example_2_full)
 - - - - - [x] Exercise: 2 stars, standard (typing_example_3)
-- - - - - [ ] Exercise: 3 stars, standard, optional (typing_nonexample_3)
+- - - - - [x] Exercise: 3 stars, standard, optional (typing_nonexample_3)
 - - [ ] Properties of STLC
