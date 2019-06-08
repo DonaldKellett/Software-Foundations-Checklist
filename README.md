@@ -500,11 +500,11 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Properties of STLC
 - - - [x] Progress
 - - - - [x] Exercise: 3 stars, advanced (progress_from_term_ind)
-- - - [ ] Preservation
+- - - [x] Preservation
 - - - - [x] Free Occurrences
 - - - - - [x] Exercise: 1 star, standard (afi)
 - - - - [x] Substitution
 - - - - - [x] Exercise: 2 stars, standard, optional (typable_empty__closed)
-- - - - [ ] Main Theorem
-- - - - - [ ] Exercise: 2 stars, standard, recommended (subject_expansion_stlc)
+- - - - [x] Main Theorem
+- - - - - [x] Exercise: 2 stars, standard, recommended (subject_expansion_stlc)
 - - - [ ] Type Soundness
