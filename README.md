@@ -497,7 +497,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, optional (typing_example_2_full)
 - - - - - [x] Exercise: 2 stars, standard (typing_example_3)
 - - - - - [x] Exercise: 3 stars, standard, optional (typing_nonexample_3)
-- - [ ] Properties of STLC
+- - [x] Properties of STLC
 - - - [x] Progress
 - - - - [x] Exercise: 3 stars, advanced (progress_from_term_ind)
 - - - [x] Preservation
@@ -511,7 +511,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, optional (type_soundness)
 - - - [x] Uniqueness of Types
 - - - - [x] Exercise: 3 stars, standard (unique_types)
-- - - [ ] Additional Exercises
+- - - [x] Additional Exercises
 - - - - [x] Exercise: 1 star, standard (progress_preservation_statement)
 - - - - [x] Exercise: 2 stars, standard (stlc_variation1)
 - - - - [x] Exercise: 2 stars, standard (stlc_variation2)
@@ -520,6 +520,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, optional (stlc_variation5)
 - - - - [x] Exercise: 2 stars, standard, optional (stlc_variation6)
 - - - - [x] Exercise: 2 stars, standard, optional (stlc_variation7)
-- - - - [ ] Exercise: STLC with Arithmetic
-- - - - - [ ] Exercise: 5 stars, standard (stlc_arith)
+- - - - [x] Exercise: STLC with Arithmetic
+- - - - - [x] Exercise: 5 stars, standard (stlc_arith)
 - - [ ] More on the Simply Typed Lambda-Calculus
