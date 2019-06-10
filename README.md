@@ -525,6 +525,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] More on the Simply Typed Lambda-Calculus
 - - - [ ] Simple Extensions to STLC
 - - - - [ ] General Recursion
-- - - - - [ ] Exercise: 1 star, standard, optional (halve_fix)
+- - - - - [x] Exercise: 1 star, standard, optional (halve_fix)
 - - - - - [ ] Exercise: 1 star, standard, optional (fact_steps)
 - - - [ ] Exercise: Formalizing the Extensions
