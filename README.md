@@ -528,3 +528,16 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard, optional (halve_fix)
 - - - - - [x] Exercise: 1 star, standard, optional (fact_steps)
 - - - [ ] Exercise: Formalizing the Extensions
+- - - - [ ] Exercise: 3 stars, standard (STLCE_definitions)
+- - - - [ ] Examples
+- - - - - [ ] Exercise: 3 stars, standard (STLCE_examples)
+- - - - [ ] Properties of Typing
+- - - - - [ ] Progress
+- - - - - - [ ] Exercise: 3 stars, standard (STLCE_progress)
+- - - - - [ ] Context Invariance
+- - - - - - [ ] Exercise: 3 stars, standard (STLCE_context_invariance)
+- - - - - [ ] Substitution
+- - - - - - [ ] Exercise: 2 stars, standard (STLCE_subst_preserves_typing)
+- - - - - [ ] Preservation
+- - - - - - [ ] Exercise: 3 stars, standard (STLCE_preservation)
+- - [ ] Subtyping
