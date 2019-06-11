@@ -532,8 +532,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Examples
 - - - - - [x] Exercise: 3 stars, standard (STLCE_examples)
 - - - - [ ] Properties of Typing
-- - - - - [ ] Progress
-- - - - - - [ ] Exercise: 3 stars, standard (STLCE_progress)
+- - - - - [x] Progress
+- - - - - - [x] Exercise: 3 stars, standard (STLCE_progress)
 - - - - - [ ] Context Invariance
 - - - - - - [ ] Exercise: 3 stars, standard (STLCE_context_invariance)
 - - - - - [ ] Substitution
