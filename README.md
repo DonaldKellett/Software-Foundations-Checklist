@@ -522,22 +522,22 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars, standard, optional (stlc_variation7)
 - - - - [x] Exercise: STLC with Arithmetic
 - - - - - [x] Exercise: 5 stars, standard (stlc_arith)
-- - [ ] More on the Simply Typed Lambda-Calculus
+- - [x] More on the Simply Typed Lambda-Calculus
 - - - [x] Simple Extensions to STLC
 - - - - [x] General Recursion
 - - - - - [x] Exercise: 1 star, standard, optional (halve_fix)
 - - - - - [x] Exercise: 1 star, standard, optional (fact_steps)
-- - - [ ] Exercise: Formalizing the Extensions
+- - - [x] Exercise: Formalizing the Extensions
 - - - - [x] Exercise: 3 stars, standard (STLCE_definitions)
 - - - - [x] Examples
 - - - - - [x] Exercise: 3 stars, standard (STLCE_examples)
-- - - - [ ] Properties of Typing
+- - - - [x] Properties of Typing
 - - - - - [x] Progress
 - - - - - - [x] Exercise: 3 stars, standard (STLCE_progress)
 - - - - - [x] Context Invariance
 - - - - - - [x] Exercise: 3 stars, standard (STLCE_context_invariance)
 - - - - - [x] Substitution
 - - - - - - [x] Exercise: 2 stars, standard (STLCE_subst_preserves_typing)
-- - - - - [ ] Preservation
-- - - - - - [ ] Exercise: 3 stars, standard (STLCE_preservation)
+- - - - - [x] Preservation
+- - - - - - [x] Exercise: 3 stars, standard (STLCE_preservation)
 - - [ ] Subtyping
