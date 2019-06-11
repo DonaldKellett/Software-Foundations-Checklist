@@ -536,8 +536,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - - [x] Exercise: 3 stars, standard (STLCE_progress)
 - - - - - [x] Context Invariance
 - - - - - - [x] Exercise: 3 stars, standard (STLCE_context_invariance)
-- - - - - [ ] Substitution
-- - - - - - [ ] Exercise: 2 stars, standard (STLCE_subst_preserves_typing)
+- - - - - [x] Substitution
+- - - - - - [x] Exercise: 2 stars, standard (STLCE_subst_preserves_typing)
 - - - - - [ ] Preservation
 - - - - - - [ ] Exercise: 3 stars, standard (STLCE_preservation)
 - - [ ] Subtyping
