@@ -528,7 +528,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard, optional (halve_fix)
 - - - - - [x] Exercise: 1 star, standard, optional (fact_steps)
 - - - [ ] Exercise: Formalizing the Extensions
-- - - - [ ] Exercise: 3 stars, standard (STLCE_definitions)
+- - - - [x] Exercise: 3 stars, standard (STLCE_definitions)
 - - - - [ ] Examples
 - - - - - [ ] Exercise: 3 stars, standard (STLCE_examples)
 - - - - [ ] Properties of Typing
