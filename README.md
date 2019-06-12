@@ -553,7 +553,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard (proper_subtypes)
 - - - - - [x] Exercise: 2 stars, standard (small_large_1)
 - - - - - [x] Exercise: 2 stars, standard (small_large_2)
-- - - - - [ ] Exercise: 2 stars, standard, optional (small_large_3)
+- - - - - [x] Exercise: 2 stars, standard, optional (small_large_3)
 - - - - - [ ] Exercise: 2 stars, standard (small_large_4)
 - - - - - [ ] Exercise: 2 stars, standard (smallest_1)
 - - - - - [ ] Exercise: 2 stars, standard (smallest_2)
