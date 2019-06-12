@@ -569,3 +569,11 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [ ] Exercise: 2 stars, standard, optional (typing_example_1)
 - - - - - [ ] Exercise: 2 stars, standard, optional (typing_example_2)
 - - - [ ] Properties
+- - - - [ ] Inversion Lemmas for Subtyping
+- - - - - [ ] Exercise: 2 stars, standard, optional (sub_inversion_Bool)
+- - - - - [ ] Exercise: 3 stars, standard (sub_inversion_arrow)
+- - - - [ ] Canonical Forms
+- - - - - [ ] Exercise: 3 stars, standard, optional (canonical_forms_of_arrow_types)
+- - - - [ ] Exercises
+- - - - - [ ] Exercise: 2 stars, standard (variations)
+- - - [ ] Exercise: Adding Products
