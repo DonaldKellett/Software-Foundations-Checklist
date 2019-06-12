@@ -549,7 +549,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard, optional (subtype_instances_tf_1)
 - - - - - [x] Exercise: 2 stars, standard (subtype_order)
 - - - - - [x] Exercise: 1 star, standard (subtype_instances_tf_2)
-- - - - - [ ] Exercise: 1 star, standard (subtype_concepts_tf)
+- - - - - [x] Exercise: 1 star, standard (subtype_concepts_tf)
 - - - - - [ ] Exercise: 2 stars, standard (proper_subtypes)
 - - - - - [ ] Exercise: 2 stars, standard (small_large_1)
 - - - - - [ ] Exercise: 2 stars, standard (small_large_2)
