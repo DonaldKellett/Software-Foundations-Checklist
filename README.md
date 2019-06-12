@@ -557,6 +557,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard (small_large_4)
 - - - - - [x] Exercise: 2 stars, standard (smallest_1)
 - - - - - [x] Exercise: 2 stars, standard (smallest_2)
-- - - - - [ ] Exercise: 3 stars, standard, optional (count_supertypes)
+- - - - - [x] Exercise: 3 stars, standard, optional (count_supertypes)
 - - - - - [ ] Exercise: 2 stars, standard (pair_permutation)
 - - - [ ] Formal Definitions
