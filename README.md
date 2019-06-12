@@ -542,9 +542,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - - [x] Exercise: 3 stars, standard (STLCE_preservation)
 - - [ ] Subtyping
 - - - [ ] Concepts
-- - - - [ ] The Subtype Relation
-- - - - - [ ] Records
-- - - - - - [ ] Exercise: 2 stars, standard, recommended (arrow_sub_wrong)
+- - - - [x] The Subtype Relation
+- - - - - [x] Records
+- - - - - - [x] Exercise: 2 stars, standard, recommended (arrow_sub_wrong)
 - - - - [ ] Exercises
 - - - - - [ ] Exercise: 1 star, standard, optional (subtype_instances_tf_1)
 - - - - - [ ] Exercise: 2 stars, standard (subtype_order)
