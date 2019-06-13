@@ -566,7 +566,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star, standard, optional (subtyping_example_2)
 - - - - [ ] Typing
 - - - - - [x] Exercise: 1 star, standard, optional (typing_example_0)
-- - - - - [ ] Exercise: 2 stars, standard, optional (typing_example_1)
+- - - - - [x] Exercise: 2 stars, standard, optional (typing_example_1)
 - - - - - [ ] Exercise: 2 stars, standard, optional (typing_example_2)
 - - - [x] Properties
 - - - - [x] Inversion Lemmas for Subtyping
