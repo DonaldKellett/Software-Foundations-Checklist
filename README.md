@@ -577,3 +577,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercises
 - - - - - [x] Exercise: 2 stars, standard (variations)
 - - - [ ] Exercise: Adding Products
+- - - - [ ] Exercise: 5 stars, standard (products)
+- - [ ] A Typechecker for STLC
