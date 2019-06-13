@@ -560,8 +560,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard, optional (count_supertypes)
 - - - - - [x] Exercise: 2 stars, standard (pair_permutation)
 - - - [ ] Formal Definitions
-- - - - [ ] Subtyping
-- - - - - [ ] Exercise: 2 stars, standard, optional (subtyping_judgements)
+- - - - [x] Subtyping
+- - - - - [x] Exercise: 2 stars, standard, optional (subtyping_judgements)
 - - - - - [x] Exercise: 1 star, standard, optional (subtyping_example_1)
 - - - - - [x] Exercise: 1 star, standard, optional (subtyping_example_2)
 - - - - [ ] Typing
