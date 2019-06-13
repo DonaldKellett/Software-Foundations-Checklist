@@ -540,7 +540,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - - [x] Exercise: 2 stars, standard (STLCE_subst_preserves_typing)
 - - - - - [x] Preservation
 - - - - - - [x] Exercise: 3 stars, standard (STLCE_preservation)
-- - [ ] Subtyping
+- - [x] Subtyping
 - - - [x] Concepts
 - - - - [x] The Subtype Relation
 - - - - - [x] Records
@@ -576,6 +576,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars, standard, optional (canonical_forms_of_arrow_types)
 - - - - [x] Exercises
 - - - - - [x] Exercise: 2 stars, standard (variations)
-- - - [ ] Exercise: Adding Products
-- - - - [ ] Exercise: 5 stars, standard (products)
+- - - [x] Exercise: Adding Products
+- - - - [x] Exercise: 5 stars, standard (products)
 - - [ ] A Typechecker for STLC
