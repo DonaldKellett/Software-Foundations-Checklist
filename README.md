@@ -581,6 +581,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] A Typechecker for STLC
 - - - [ ] Exercises
 - - - - [x] Exercise: 5 stars, standard (typechecker_extensions)
-- - - - [ ] Exercise: 5 stars, standard, optional (stlc_step_function)
+- - - - [x] Exercise: 5 stars, standard, optional (stlc_step_function)
 - - - - [ ] Exercise: 5 stars, standard, optional (stlc_impl)
 - - [ ] Adding Records to STLC
