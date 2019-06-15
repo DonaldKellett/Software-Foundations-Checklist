@@ -589,8 +589,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard (examples)
 - - [ ] Typing Mutable References
 - - - [ ] Pragmatics
-- - - - [ ] Objects
-- - - - - [ ] Exercise: 1 star, standard, optional (store_draw)
+- - - - [x] Objects
+- - - - - [x] Exercise: 1 star, standard, optional (store_draw)
 - - - - [ ] References to Compound Types
 - - - - - [ ] Exercise: 2 stars, standard, recommended (compact_update)
 - - - - [ ] Garbage Collection
