@@ -595,4 +595,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard, recommended (compact_update)
 - - - - [x] Garbage Collection
 - - - - - [x] Exercise: 2 stars, standard (type_safety_violation)
-- - - [ ] Operational Semantics
+- - - [ ] Typing
+- - - - [ ] Store typings
+- - - - - [ ] Exercise: 2 stars, standard (cyclic_store)
+- - - [ ] Properties
