@@ -584,3 +584,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 5 stars, standard, optional (stlc_step_function)
 - - - - [ ] Exercise: 5 stars, standard, optional (stlc_impl)
 - - [ ] Adding Records to STLC
+- - - [ ] Formalizing Records
+- - - - [ ] Examples
+- - - - - [ ] Exercise: 2 stars, standard (examples)
+- - [ ] Typing Mutable References
