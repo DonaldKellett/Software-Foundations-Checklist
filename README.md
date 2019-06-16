@@ -598,9 +598,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Typing
 - - - - [x] Store typings
 - - - - - [x] Exercise: 2 stars, standard (cyclic_store)
-- - - [ ] Properties
+- - - [x] Properties
 - - - - [x] Well-Typed Stores
 - - - - - [x] Exercise: 2 stars, standard (store_not_unique)
-- - - - [ ] Preservation!
-- - - - - [ ] Exercise: 3 stars, standard (preservation_informal)
+- - - - [x] Preservation!
+- - - - - [x] Exercise: 3 stars, standard (preservation_informal)
 - - - [ ] References and Nontermination
