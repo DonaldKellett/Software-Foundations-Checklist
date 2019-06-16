@@ -603,6 +603,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars, standard (store_not_unique)
 - - - - [x] Preservation!
 - - - - - [x] Exercise: 3 stars, standard (preservation_informal)
-- - - [ ] References and Nontermination
-- - - - [ ] Exercise: 4 stars, standard (factorial_ref)
+- - - [x] References and Nontermination
+- - - - [x] Exercise: 4 stars, standard (factorial_ref)
 - - - [ ] Additional Exercises
