@@ -606,3 +606,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] References and Nontermination
 - - - - [x] Exercise: 4 stars, standard (factorial_ref)
 - - - [ ] Additional Exercises
+- - - - [ ] Exercise: 5 stars, standard, optional (garabage_collector)
+- - [ ] Subtyping with Records
