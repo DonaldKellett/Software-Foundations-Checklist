@@ -608,15 +608,15 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Additional Exercises
 - - - - [ ] Exercise: 5 stars, standard, optional (garabage_collector)
 - - [ ] Subtyping with Records
-- - - [ ] Subtyping
+- - - [x] Subtyping
 - - - - [x] Examples
 - - - - - [x] Exercise: 2 stars, standard (subtyping_example_1)
 - - - - - [x] Exercise: 1 star, standard (subtyping_example_2)
 - - - - - [x] Exercise: 1 star, standard (subtyping_example_3)
 - - - - - [x] Exercise: 2 stars, standard (subtyping_example_4)
-- - - - [ ] Properties of Subtyping
+- - - - [x] Properties of Subtyping
 - - - - - [x] Field Lookup
 - - - - - - [x] Exercise: 3 stars, standard (rcd_types_match_informal)
-- - - - - [ ] Inversion Lemmas
-- - - - - - [ ] Exercise: 3 stars, standard, optional (sub_inversion_arrow)
+- - - - - [x] Inversion Lemmas
+- - - - - - [x] Exercise: 3 stars, standard, optional (sub_inversion_arrow)
 - - - [ ] Typing
