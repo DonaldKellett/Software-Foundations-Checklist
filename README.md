@@ -609,11 +609,11 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Exercise: 5 stars, standard, optional (garabage_collector)
 - - [ ] Subtyping with Records
 - - - [ ] Subtyping
-- - - - [ ] Examples
+- - - - [x] Examples
 - - - - - [x] Exercise: 2 stars, standard (subtyping_example_1)
 - - - - - [x] Exercise: 1 star, standard (subtyping_example_2)
 - - - - - [x] Exercise: 1 star, standard (subtyping_example_3)
-- - - - - [ ] Exercise: 2 stars, standard (subtyping_example_4)
+- - - - - [x] Exercise: 2 stars, standard (subtyping_example_4)
 - - - - [ ] Properties of Subtyping
 - - - - - [ ] Field Lookup
 - - - - - - [ ] Exercise: 3 stars, standard (rcd_types_match_informal)
