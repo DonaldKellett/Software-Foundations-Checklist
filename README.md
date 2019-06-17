@@ -610,7 +610,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Subtyping with Records
 - - - [ ] Subtyping
 - - - - [ ] Examples
-- - - - - [ ] Exercise: 2 stars, standard (subtyping_example_1)
+- - - - - [x] Exercise: 2 stars, standard (subtyping_example_1)
 - - - - - [ ] Exercise: 1 star, standard (subtyping_example_2)
 - - - - - [ ] Exercise: 1 star, standard (subtyping_example_3)
 - - - - - [ ] Exercise: 2 stars, standard (subtyping_example_4)
