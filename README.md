@@ -628,3 +628,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Progress
 - - - - - - [x] Exercise: 3 stars, standard (canonical_forms_of_arrow_types)
 - - [ ] Normalization of STLC
+- - - [ ] Exercise: 2 stars, standard (norm_fail)
+- - - [ ] Exercise: 5 stars, standard, recommended (norm)
+- - [ ] A Collection of Handy General-Purpose Tactics
