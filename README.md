@@ -622,7 +622,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Typing
 - - - - [ ] Typing Examples
 - - - - - [x] Exercise: 1 star, standard (typing_example_0)
-- - - - - [ ] Exercise: 2 stars, standard (typing_example_1)
+- - - - - [x] Exercise: 2 stars, standard (typing_example_1)
 - - - - - [ ] Exercise: 2 stars, standard, optional (typing_example_2)
 - - - - [ ] Properties of Typing
 - - - - - [ ] Progress
