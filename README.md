@@ -612,7 +612,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Examples
 - - - - - [x] Exercise: 2 stars, standard (subtyping_example_1)
 - - - - - [x] Exercise: 1 star, standard (subtyping_example_2)
-- - - - - [ ] Exercise: 1 star, standard (subtyping_example_3)
+- - - - - [x] Exercise: 1 star, standard (subtyping_example_3)
 - - - - - [ ] Exercise: 2 stars, standard (subtyping_example_4)
 - - - - [ ] Properties of Subtyping
 - - - - - [ ] Field Lookup
