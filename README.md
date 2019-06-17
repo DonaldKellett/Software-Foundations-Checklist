@@ -620,3 +620,11 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Inversion Lemmas
 - - - - - - [x] Exercise: 3 stars, standard, optional (sub_inversion_arrow)
 - - - [ ] Typing
+- - - - [ ] Typing Examples
+- - - - - [ ] Exercise: 1 star, standard (typing_example_0)
+- - - - - [ ] Exercise: 2 stars, standard (typing_example_1)
+- - - - - [ ] Exercise: 2 stars, standard, optional (typing_example_2)
+- - - - [ ] Properties of Typing
+- - - - - [ ] Progress
+- - - - - - [ ] Exercise: 3 stars, standard (canonical_forms_of_arrow_types)
+- - [ ] Normalization of STLC
