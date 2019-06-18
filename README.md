@@ -630,4 +630,4 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Normalization of STLC
 - - - [ ] Exercise: 2 stars, standard (norm_fail)
 - - - [ ] Exercise: 5 stars, standard, recommended (norm)
-- - [ ] A Collection of Handy General-Purpose Tactics
+- - [ ] Tactic Library for Coq: A Gentle Introduction
