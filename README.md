@@ -630,7 +630,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Normalization of STLC
 - - - [ ] Exercise: 2 stars, standard (norm_fail)
 - - - [ ] Exercise: 5 stars, standard, recommended (norm)
-- - [ ] Tactic Library for Coq: A Gentle Introduction
-- - - [ ] Tactics for Advanced Lemma Instantiation
-- - - - [ ] Example of Instantiations
+- - [x] Tactic Library for Coq: A Gentle Introduction
+- - - [x] Tactics for Advanced Lemma Instantiation
+- - - - [x] Example of Instantiations
 - - [ ] Theory and Practice of Automation in Coq Proofs
