@@ -638,6 +638,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Determinism
 - - - - [x] Preservation for STLC
 - - - - [x] Progress for STLC
-- - - - [ ] BigStep and SmallStep
+- - - - [x] BigStep and SmallStep
 - - - - [ ] Subtyping
 - - [ ] Partial Evaluation
