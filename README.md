@@ -636,7 +636,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Theory and Practice of Automation in Coq Proofs
 - - - [ ] Example Proofs using Automation
 - - - - [x] Determinism
-- - - - [ ] Preservation for STLC
+- - - - [x] Preservation for STLC
 - - - - [ ] Progress for STLC
 - - - - [ ] BigStep and SmallStep
 - - - - [ ] Subtyping
