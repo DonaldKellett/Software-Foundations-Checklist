@@ -637,7 +637,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Example Proofs using Automation
 - - - - [x] Determinism
 - - - - [x] Preservation for STLC
-- - - - [ ] Progress for STLC
+- - - - [x] Progress for STLC
 - - - - [ ] BigStep and SmallStep
 - - - - [ ] Subtyping
 - - [ ] Partial Evaluation
