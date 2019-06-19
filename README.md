@@ -631,3 +631,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Exercise: 2 stars, standard (norm_fail)
 - - - [ ] Exercise: 5 stars, standard, recommended (norm)
 - - [ ] Tactic Library for Coq: A Gentle Introduction
+- - - [ ] Tactics for Advanced Lemma Instantiation
+- - - - [ ] Example of Instantiations
+- - [ ] Theory and Practice of Automation in Coq Proofs
