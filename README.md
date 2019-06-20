@@ -640,4 +640,4 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Progress for STLC
 - - - - [x] BigStep and SmallStep
 - - - - [x] Subtyping
-- - [ ] Partial Evaluation
+- [ ] Volume 3: Verified Functional Algorithms
