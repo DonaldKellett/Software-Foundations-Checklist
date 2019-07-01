@@ -647,3 +647,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars (permut_example)
 - - - - [x] Exercise: 1 star (not_a_permutation)
 - - - [ ] Summary: Comparisons and Permutations
+- - - - [ ] Exercise: 2 stars (Forall_perm)
+- - [ ] Insertion Sort
