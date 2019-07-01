@@ -642,8 +642,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Subtyping
 - [ ] Volume 3: Verified Functional Algorithms
 - - [ ] Basic Techniques for Permutations and Ordering
-- - - [ ] Permutations
+- - - [x] Permutations
 - - - - [x] Exercise: 2 stars (Permutation_properties)
 - - - - [x] Exercise: 3 stars (permut_example)
-- - - - [ ] Exercise: 1 star (not_a_permutation)
+- - - - [x] Exercise: 1 star (not_a_permutation)
 - - - [ ] Summary: Comparisons and Permutations
