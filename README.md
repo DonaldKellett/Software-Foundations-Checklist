@@ -658,3 +658,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars, optional (sorted_sorted')
 - - - - [x] Exercise: 3 stars, optional (sorted'_sorted)
 - - - [ ] Proving Correctness from the Alternate Spec
+- - - - [ ] Exercise: 3 stars, optional (Forall_nth)
+- - - - [ ] Exercise: 4 stars, optional (insert_sorted')
+- - - - [ ] Exercise: 4 stars, optional (sort_sorted')
+- - [ ] Insertion Sort With Multisets
