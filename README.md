@@ -655,6 +655,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars (insert_sorted)
 - - - - [x] Exercise: 2 stars (sort_sorted)
 - - - [ ] Making Sure the Specification is Right
-- - - - [ ] Exercise: 4 stars, optional (sorted_sorted')
+- - - - [x] Exercise: 4 stars, optional (sorted_sorted')
 - - - - [ ] Exercise: 3 stars, optional (sorted'_sorted)
 - - - [ ] Proving Correctness from the Alternate Spec
