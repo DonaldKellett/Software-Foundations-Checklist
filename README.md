@@ -651,7 +651,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Insertion Sort
 - - - [ ] Proof of Correctness
 - - - - [x] Exercise: 3 stars (insert_perm)
-- - - - [ ] Exercise: 3 stars (sort_perm)
+- - - - [x] Exercise: 3 stars (sort_perm)
 - - - - [ ] Exercise: 4 stars (insert_sorted)
 - - - - [ ] Exercise: 2 stars (sort_sorted)
 - - - [ ] Making Sure the Specification is Right
