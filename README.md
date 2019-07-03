@@ -661,7 +661,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, optional (Forall_nth)
 - - - - [x] Exercise: 4 stars, optional (insert_sorted')
 - - - - [x] Exercise: 4 stars, optional (sort_sorted')
-- - [ ] Insertion Sort With Multisets
+- - [x] Insertion Sort With Multisets
 - - - [x] Exercise: 1 star (union_assoc)
 - - - [x] Exercise: 1 star (union_comm)
 - - - [x] Correctness
@@ -675,4 +675,4 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars (contents_in)
 - - - - [x] Exercise: 2 stars (in_perm_delete)
 - - - - [x] Exercise: 4 stars (contents_perm)
-- - - [ ] The Main Theorem: Equivalence of Multisets and Permutations
+- - [ ] Selection Sort, With Specification and Proof of Correctness
