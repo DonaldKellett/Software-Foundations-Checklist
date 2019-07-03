@@ -672,7 +672,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars (perm_contents)
 - - - - [x] Exercise: 3 stars (delete_contents)
 - - - - [x] Exercise: 2 stars (contents_perm_aux)
-- - - - [ ] Exercise: 2 stars (contents_in)
+- - - - [x] Exercise: 2 stars (contents_in)
 - - - - [ ] Exercise: 2 stars (in_perm_delete)
 - - - - [ ] Exercise: 4 stars (contents_perm)
 - - - [ ] The Main Theorem: Equivalence of Multisets and Permutations
