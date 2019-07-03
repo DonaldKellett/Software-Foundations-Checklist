@@ -665,3 +665,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Exercise: 1 star (union_assoc)
 - - - [ ] Exercise: 1 star (union_comm)
 - - - [ ] Correctness
+- - - - [ ] Exercise: 3 stars (insert_contents)
+- - - - [ ] Exercise: 3 stars (sort_contents)
+- - - - [ ] Exercise: 1 star (permutations_vs_multiset)
+- - - [ ] Permutations and Multisets
