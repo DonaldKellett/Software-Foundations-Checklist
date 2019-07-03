@@ -662,6 +662,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars, optional (insert_sorted')
 - - - - [x] Exercise: 4 stars, optional (sort_sorted')
 - - [ ] Insertion Sort With Multisets
-- - - [ ] Exercise: 1 star (union_assoc)
+- - - [x] Exercise: 1 star (union_assoc)
 - - - [ ] Exercise: 1 star (union_comm)
 - - - [ ] Correctness
