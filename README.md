@@ -664,8 +664,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Insertion Sort With Multisets
 - - - [x] Exercise: 1 star (union_assoc)
 - - - [x] Exercise: 1 star (union_comm)
-- - - [ ] Correctness
+- - - [x] Correctness
 - - - - [x] Exercise: 3 stars (insert_contents)
 - - - - [x] Exercise: 3 stars (sort_contents)
-- - - - [ ] Exercise: 1 star (permutations_vs_multiset)
+- - - - [x] Exercise: 1 star (permutations_vs_multiset)
 - - - [ ] Permutations and Multisets
