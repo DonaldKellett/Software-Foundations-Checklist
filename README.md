@@ -669,7 +669,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars (sort_contents)
 - - - - [x] Exercise: 1 star (permutations_vs_multiset)
 - - - [ ] Permutations and Multisets
-- - - - [ ] Exercise: 3 stars (perm_contents)
+- - - - [x] Exercise: 3 stars (perm_contents)
 - - - - [ ] Exercise: 3 stars (delete_contents)
 - - - - [ ] Exercise: 2 stars (contents_perm_aux)
 - - - - [ ] Exercise: 2 stars (contents_in)
