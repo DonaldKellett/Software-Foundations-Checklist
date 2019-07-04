@@ -675,12 +675,12 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars (contents_in)
 - - - - [x] Exercise: 2 stars (in_perm_delete)
 - - - - [x] Exercise: 4 stars (contents_perm)
-- - [ ] Selection Sort, With Specification and Proof of Correctness
+- - [x] Selection Sort, With Specification and Proof of Correctness
 - - - [x] Proof of Correctness of Selection sort
 - - - - [x] Exercise: 3 stars (select_perm)
 - - - - [x] Exercise: 3 stars (selection_sort_perm)
 - - - - [x] Exercise: 3 stars (select_smallest)
 - - - - [x] Exercise: 3 stars (selection_sort_sorted)
-- - - [ ] Recursive Functions That are Not Structurally Recursive
-- - - - [ ] Exercise: 3 stars (selsort'_perm)
+- - - [x] Recursive Functions That are Not Structurally Recursive
+- - - - [x] Exercise: 3 stars (selsort'_perm)
 - - [ ] Binary Search Trees
