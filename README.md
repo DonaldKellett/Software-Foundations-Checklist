@@ -677,7 +677,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars (contents_perm)
 - - [ ] Selection Sort, With Specification and Proof of Correctness
 - - - [ ] Proof of Correctness of Selection sort
-- - - - [ ] Exercise: 3 stars (select_perm)
+- - - - [x] Exercise: 3 stars (select_perm)
 - - - - [ ] Exercise: 3 stars (selection_sort_perm)
 - - - - [ ] Exercise: 3 stars (select_smallest)
 - - - - [ ] Exercise: 3 stars (selection_sort_sorted)
