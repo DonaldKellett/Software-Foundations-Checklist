@@ -678,7 +678,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Selection Sort, With Specification and Proof of Correctness
 - - - [ ] Proof of Correctness of Selection sort
 - - - - [x] Exercise: 3 stars (select_perm)
-- - - - [ ] Exercise: 3 stars (selection_sort_perm)
+- - - - [x] Exercise: 3 stars (selection_sort_perm)
 - - - - [ ] Exercise: 3 stars (select_smallest)
 - - - - [ ] Exercise: 3 stars (selection_sort_sorted)
 - - - [ ] Recursive Functions That are Not Structurally Recursive
