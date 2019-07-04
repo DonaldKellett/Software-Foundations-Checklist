@@ -682,3 +682,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars (select_smallest)
 - - - - [x] Exercise: 3 stars (selection_sort_sorted)
 - - - [ ] Recursive Functions That are Not Structurally Recursive
+- - - - [ ] Exercise: 3 stars (selsort'_perm)
+- - [ ] Binary Search Trees
