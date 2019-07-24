@@ -686,7 +686,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Binary Search Trees
 - - - [ ] Proof of Correctness
 - - - - [x] Exercise: 2 stars (example_map)
-- - - - [ ] Exercise: 3 stars (check_example_map)
+- - - - [x] Exercise: 3 stars (check_example_map)
 - - - - [ ] Exercise: 3 stars (lookup_relate)
 - - - - [ ] Exercise: 4 stars (insert_relate)
 - - - [ ] Correctness Proof of the `elements` Function
