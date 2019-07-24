@@ -692,9 +692,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Correctness Proof of the `elements` Function
 - - - - [x] Exercise: 3 stars (elements_relate_informal)
 - - - - [x] Exercise: 4 stars (not_elements_relate)
-- - - [ ] Representation Invariants
+- - - [x] Representation Invariants
 - - - - [x] Exercise: 3 stars, optional (elements_slow_elements)
 - - - - [x] Exercise: 3 stars, optional (slow_elements_range)
-- - - - [ ] Auxiliary Lemmas About `In` and `list2map`
-- - - - - [ ] Exercise: 3 stars, optional (elements_relate)
+- - - - [x] Auxiliary Lemmas About `In` and `list2map`
+- - - - - [x] Exercise: 3 stars, optional (elements_relate)
 - - - [ ] Preservation of Representation Invariant
