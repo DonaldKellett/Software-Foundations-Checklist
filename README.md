@@ -684,9 +684,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Recursive Functions That are Not Structurally Recursive
 - - - - [x] Exercise: 3 stars (selsort'_perm)
 - - [ ] Binary Search Trees
-- - - [ ] Proof of Correctness
+- - - [x] Proof of Correctness
 - - - - [x] Exercise: 2 stars (example_map)
 - - - - [x] Exercise: 3 stars (check_example_map)
 - - - - [x] Exercise: 3 stars (lookup_relate)
-- - - - [ ] Exercise: 4 stars (insert_relate)
+- - - - [x] Exercise: 4 stars (insert_relate)
 - - - [ ] Correctness Proof of the `elements` Function
