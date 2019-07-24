@@ -685,7 +685,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars (selsort'_perm)
 - - [ ] Binary Search Trees
 - - - [ ] Proof of Correctness
-- - - - [ ] Exercise: 2 stars (example_map)
+- - - - [x] Exercise: 2 stars (example_map)
 - - - - [ ] Exercise: 3 stars (check_example_map)
 - - - - [ ] Exercise: 3 stars (lookup_relate)
 - - - - [ ] Exercise: 4 stars (insert_relate)
