@@ -683,7 +683,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars (selection_sort_sorted)
 - - - [x] Recursive Functions That are Not Structurally Recursive
 - - - - [x] Exercise: 3 stars (selsort'_perm)
-- - [ ] Binary Search Trees
+- - [x] Binary Search Trees
 - - - [x] Proof of Correctness
 - - - - [x] Exercise: 2 stars (example_map)
 - - - - [x] Exercise: 3 stars (check_example_map)
@@ -703,6 +703,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Every Well-Formed Tree Does Actually Relate to an Abstraction
 - - - - [x] Exercise: 2 stars (can_relate)
 - - - - [x] Exercise: 2 stars (unrealistically_strong_can_relate)
-- - - [ ] It Wasn't Really Luck, Actually
-- - - - [ ] Exercise: 4 stars, optional (lookup_relateX)
+- - - [x] It Wasn't Really Luck, Actually
+- - - - [x] Exercise: 4 stars, optional (lookup_relateX)
 - - [ ] Abstract Data Types
