@@ -708,3 +708,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Abstract Data Types
 - - - [x] Exercise: 3 stars (TreeTable_gso)
 - - - [ ] A Brief Excursion into Dependent Types
+- - - - [ ] Exercise: 3 stars (TreeTable_gso)
+- - - [ ] Summary of Abstract Data Type Proofs
