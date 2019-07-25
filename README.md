@@ -704,3 +704,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars (can_relate)
 - - - - [x] Exercise: 2 stars (unrealistically_strong_can_relate)
 - - - [ ] It Wasn't Really Luck, Actually
+- - - - [ ] Exercise: 4 stars, optional (lookup_relateX)
+- - [ ] Abstract Data Types
