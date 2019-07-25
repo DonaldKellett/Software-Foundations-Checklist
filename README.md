@@ -700,7 +700,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Preservation of Representation Invariant
 - - - - [x] Exercise: 1 star (empty_tree_SearchTree)
 - - - - [x] Exercise: 3 stars (insert_SearchTree)
-- - - [ ] Every Well-Formed Tree Does Actually Relate to an Abstraction
-- - - - [ ] Exercise: 2 stars (can_relate)
-- - - - [ ] Exercise: 2 stars (unrealistically_strong_can_relate)
+- - - [x] Every Well-Formed Tree Does Actually Relate to an Abstraction
+- - - - [x] Exercise: 2 stars (can_relate)
+- - - - [x] Exercise: 2 stars (unrealistically_strong_can_relate)
 - - - [ ] It Wasn't Really Luck, Actually
