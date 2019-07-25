@@ -697,7 +697,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars, optional (slow_elements_range)
 - - - - [x] Auxiliary Lemmas About `In` and `list2map`
 - - - - - [x] Exercise: 3 stars, optional (elements_relate)
-- - - [ ] Preservation of Representation Invariant
+- - - [x] Preservation of Representation Invariant
 - - - - [x] Exercise: 1 star (empty_tree_SearchTree)
-- - - - [ ] Exercise: 3 stars (insert_SearchTree)
+- - - - [x] Exercise: 3 stars (insert_SearchTree)
 - - - [ ] We Got Lucky
