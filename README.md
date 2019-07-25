@@ -706,3 +706,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] It Wasn't Really Luck, Actually
 - - - - [x] Exercise: 4 stars, optional (lookup_relateX)
 - - [ ] Abstract Data Types
+- - - [ ] Exercise: 3 stars (TreeTable_gso)
+- - - [ ] A Brief Excursion into Dependent Types
