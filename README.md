@@ -710,6 +710,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] A Brief Excursion into Dependent Types
 - - - - [x] Exercise: 3 stars (TreeTable2_gso)
 - - - [ ] Exercise in Data Abstraction
-- - - - [ ] Exercise: 4 stars, optional (listish_abstraction)
+- - - - [x] Exercise: 4 stars, optional (listish_abstraction)
 - - - - [ ] Exercise: 2 stars, optional (fib_time_complexity)
 - - [ ] Running Coq programs in ML
