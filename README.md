@@ -712,10 +712,10 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Exercise in Data Abstraction
 - - - - [x] Exercise: 4 stars, optional (listish_abstraction)
 - - - - [x] Exercise: 2 stars, optional (fib_time_complexity)
-- - [ ] Running Coq programs in ML
+- - [x] Running Coq programs in ML
 - - - [x] SearchTrees, Extracted
 - - - - [x] Trees, on `int` Instead of `nat`
 - - - - - [x] Exercise: 3 stars (lookup_relate)
 - - - - - [x] Exercise: 3 stars (insert_relate)
 - - - - - [x] Exercise: 1 star (unrealistically_strong_can_relate)
-- - - [ ] Performance Tests
+- - [ ] Implementation and Proof of Red-Black Trees
