@@ -713,3 +713,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars, optional (listish_abstraction)
 - - - - [x] Exercise: 2 stars, optional (fib_time_complexity)
 - - [ ] Running Coq programs in ML
+- - - [ ] SearchTrees, Extracted
+- - - - [ ] Trees, on `int` Instead of `nat`
+- - - - - [ ] Exercise: 3 stars (lookup_relate)
+- - - - - [ ] Exercise: 3 stars (insert_relate)
+- - - - - [ ] Exercise: 1 star (unrealistically_strong_can_relate)
+- - - [ ] Performance Tests
