@@ -606,7 +606,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] References and Nontermination
 - - - - [x] Exercise: 4 stars, standard (factorial_ref)
 - - - [ ] Additional Exercises
-- - - - [ ] Exercise: 5 stars, standard, optional (garabage_collector)
+- - - - [ ] Exercise: 5 stars, standard, optional (garbage_collector)
 - - [x] Subtyping with Records
 - - - [x] Subtyping
 - - - - [x] Examples
@@ -708,7 +708,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Abstract Data Types
 - - - [x] Exercise: 3 stars (TreeTable_gso)
 - - - [x] A Brief Excursion into Dependent Types
-- - - - [x] Exercise: 3 stars (TreeTable_gso)
+- - - - [x] Exercise: 3 stars (TreeTable2_gso)
 - - - [ ] Exercise in Data Abstraction
 - - - - [ ] Exercise: 4 stars, optional (listish_abstraction)
 - - - - [ ] Exercise: 2 stars, optional (fib_time_complexity)
