@@ -716,6 +716,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] SearchTrees, Extracted
 - - - - [ ] Trees, on `int` Instead of `nat`
 - - - - - [x] Exercise: 3 stars (lookup_relate)
-- - - - - [ ] Exercise: 3 stars (insert_relate)
+- - - - - [x] Exercise: 3 stars (insert_relate)
 - - - - - [ ] Exercise: 1 star (unrealistically_strong_can_relate)
 - - - [ ] Performance Tests
