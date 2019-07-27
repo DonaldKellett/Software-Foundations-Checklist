@@ -722,7 +722,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] The SearchTree Property
 - - - - [x] Exercise: 2 stars (ins_SearchTree)
 - - - - [x] Exercise: 2 stars (valid)
-- - - - [ ] Exercise: 3 stars (lookup_relate)
+- - - - [x] Exercise: 3 stars (lookup_relate)
 - - - - [ ] Exercise: 4 stars (balance_relate)
 - - - - [ ] Exercise: 3 stars (ins_relate)
 - - - - [ ] Exercise: 4 stars, optional (elements)
