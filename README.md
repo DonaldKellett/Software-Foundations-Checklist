@@ -721,7 +721,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Implementation and Proof of Red-Black Trees
 - - - [ ] The SearchTree Property
 - - - - [x] Exercise: 2 stars (ins_SearchTree)
-- - - - [ ] Exercise: 2 stars (valid)
+- - - - [x] Exercise: 2 stars (valid)
 - - - - [ ] Exercise: 3 stars (lookup_relate)
 - - - - [ ] Exercise: 4 stars (balance_relate)
 - - - - [ ] Exercise: 3 stars (ins_relate)
