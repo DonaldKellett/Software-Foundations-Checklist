@@ -727,3 +727,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 3 stars (ins_relate)
 - - - - [x] Exercise: 4 stars, optional (elements)
 - - - [ ] Proving Efficiency
+- - - - [ ] Exercise: 4 stars (is_redblack_properties)
+- - - [ ] Extracting and Measuring Red-Black Trees
