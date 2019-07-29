@@ -730,7 +730,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars (is_redblack_properties)
 - - [ ] Number Representations and Efficient Lookup Tables
 - - - [ ] Efficient Positive Numbers
-- - - - [ ] Exercise: 2 stars (succ_correct)
+- - - - [x] Exercise: 2 stars (succ_correct)
 - - - - [ ] Exercise: 3 stars (addc_correct)
 - - - - [ ] Exercise: 5 stars (compare_correct)
 - - - [ ] Tries: Efficient Lookup Tables on Positive Binary Numbers
