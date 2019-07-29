@@ -737,3 +737,16 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] From `N`\*`logN`\*`logN` to `N`\*`logN`
 - - - - - [x] Exercise: 2 stars (successor_of_Z_constant_time)
 - - - [ ] Proving the Correctness of Trie Tables
+- - - - [ ] Lemmas About the Relation Between `lookup` and `insert`
+- - - - - [ ] Exercise: 1 star (look_leaf)
+- - - - - [ ] Exercise: 2 stars (look_ins_same)
+- - - - - [ ] Exercise: 3 stars (look_ins_other)
+- - - - [ ] Bijection Between `positive` and `nat`.
+- - - - - [ ] Exercise: 2 stars (pos2nat_bijective)
+- - - - [ ] Proving That Tries are a "Table" ADT.
+- - - - - [ ] Exercise: 2 stars (is_trie)
+- - - - - [ ] Exercise: 2 stars (empty_relate)
+- - - - - [ ] Exercise: 2 stars (lookup_relate)
+- - - - - [ ] Exercise: 3 stars (insert_relate)
+- - - - [ ] Sanity Check
+- - - [ ] Conclusion
