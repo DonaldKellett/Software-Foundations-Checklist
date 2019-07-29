@@ -733,7 +733,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 2 stars (succ_correct)
 - - - - [x] Exercise: 3 stars (addc_correct)
 - - - - [x] Exercise: 5 stars (compare_correct)
-- - - [ ] Tries: Efficient Lookup Tables on Positive Binary Numbers
-- - - - [ ] From `N`\*`logN`\*`logN` to `N`\*`logN`
-- - - - - [ ] Exercise: 2 stars (successor_of_Z_constant_time)
+- - - [x] Tries: Efficient Lookup Tables on Positive Binary Numbers
+- - - - [x] From `N`\*`logN`\*`logN` to `N`\*`logN`
+- - - - - [x] Exercise: 2 stars (successor_of_Z_constant_time)
 - - - [ ] Proving the Correctness of Trie Tables
