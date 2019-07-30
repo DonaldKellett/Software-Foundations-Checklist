@@ -744,7 +744,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Bijection Between `positive` and `nat`.
 - - - - - [x] Exercise: 2 stars (pos2nat_bijective)
 - - - - [ ] Proving That Tries are a "Table" ADT.
-- - - - - [ ] Exercise: 2 stars (is_trie)
+- - - - - [x] Exercise: 2 stars (is_trie)
 - - - - - [ ] Exercise: 2 stars (empty_relate)
 - - - - - [ ] Exercise: 2 stars (lookup_relate)
 - - - - - [ ] Exercise: 3 stars (insert_relate)
