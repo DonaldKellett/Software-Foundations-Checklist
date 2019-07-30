@@ -728,7 +728,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Exercise: 4 stars, optional (elements)
 - - - [x] Proving Efficiency
 - - - - [x] Exercise: 4 stars (is_redblack_properties)
-- - [ ] Number Representations and Efficient Lookup Tables
+- - [x] Number Representations and Efficient Lookup Tables
 - - - [x] Efficient Positive Numbers
 - - - - [x] Exercise: 2 stars (succ_correct)
 - - - - [x] Exercise: 3 stars (addc_correct)
@@ -736,7 +736,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [x] Tries: Efficient Lookup Tables on Positive Binary Numbers
 - - - - [x] From `N`\*`logN`\*`logN` to `N`\*`logN`
 - - - - - [x] Exercise: 2 stars (successor_of_Z_constant_time)
-- - - [ ] Proving the Correctness of Trie Tables
+- - - [x] Proving the Correctness of Trie Tables
 - - - - [x] Lemmas About the Relation Between `lookup` and `insert`
 - - - - - [x] Exercise: 1 star (look_leaf)
 - - - - - [x] Exercise: 2 stars (look_ins_same)
@@ -748,5 +748,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars (empty_relate)
 - - - - - [x] Exercise: 2 stars (lookup_relate)
 - - - - - [x] Exercise: 3 stars (insert_relate)
-- - - - [ ] Sanity Check
-- - - [ ] Conclusion
+- - - - [x] Sanity Check
+- - [ ] Priority Queues
