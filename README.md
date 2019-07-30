@@ -749,11 +749,11 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars (lookup_relate)
 - - - - - [x] Exercise: 3 stars (insert_relate)
 - - - - [x] Sanity Check
-- - [ ] Priority Queues
+- - [x] Priority Queues
 - - - [x] Implementation
 - - - - [x] Some Preliminaries
 - - - - - [x] Exercise: 3 stars (select_perm_and_friends)
-- - - [ ] Predicates on Priority Queues
-- - - - [ ] Characterizations of the Operations on Queues
-- - - - - [ ] Exercise: 2 stars (simple_priq_proofs)
+- - - [x] Predicates on Priority Queues
+- - - - [x] Characterizations of the Operations on Queues
+- - - - - [x] Exercise: 2 stars (simple_priq_proofs)
 - - [ ] Binomial Queues
