@@ -750,3 +750,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 3 stars (insert_relate)
 - - - - [x] Sanity Check
 - - [ ] Priority Queues
+- - - [ ] Implementation
+- - - - [ ] Some Preliminaries
+- - - - - [ ] Exercise: 3 stars (select_perm_and_friends)
+- - - [ ] Predicates on Priority Queues
