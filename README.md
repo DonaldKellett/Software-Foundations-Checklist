@@ -746,7 +746,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Proving That Tries are a "Table" ADT.
 - - - - - [x] Exercise: 2 stars (is_trie)
 - - - - - [x] Exercise: 2 stars (empty_relate)
-- - - - - [ ] Exercise: 2 stars (lookup_relate)
+- - - - - [x] Exercise: 2 stars (lookup_relate)
 - - - - - [ ] Exercise: 3 stars (insert_relate)
 - - - - [ ] Sanity Check
 - - - [ ] Conclusion
