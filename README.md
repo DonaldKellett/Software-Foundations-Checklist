@@ -739,7 +739,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - [ ] Proving the Correctness of Trie Tables
 - - - - [ ] Lemmas About the Relation Between `lookup` and `insert`
 - - - - - [x] Exercise: 1 star (look_leaf)
-- - - - - [ ] Exercise: 2 stars (look_ins_same)
+- - - - - [x] Exercise: 2 stars (look_ins_same)
 - - - - - [ ] Exercise: 3 stars (look_ins_other)
 - - - - [ ] Bijection Between `positive` and `nat`.
 - - - - - [ ] Exercise: 2 stars (pos2nat_bijective)
