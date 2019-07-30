@@ -741,8 +741,8 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star (look_leaf)
 - - - - - [x] Exercise: 2 stars (look_ins_same)
 - - - - - [x] Exercise: 3 stars (look_ins_other)
-- - - - [ ] Bijection Between `positive` and `nat`.
-- - - - - [ ] Exercise: 2 stars (pos2nat_bijective)
+- - - - [x] Bijection Between `positive` and `nat`.
+- - - - - [x] Exercise: 2 stars (pos2nat_bijective)
 - - - - [ ] Proving That Tries are a "Table" ADT.
 - - - - - [ ] Exercise: 2 stars (is_trie)
 - - - - - [ ] Exercise: 2 stars (empty_relate)
