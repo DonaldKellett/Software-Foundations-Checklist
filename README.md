@@ -754,3 +754,6 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Some Preliminaries
 - - - - - [x] Exercise: 3 stars (select_perm_and_friends)
 - - - [ ] Predicates on Priority Queues
+- - - - [ ] Characterizations of the Operations on Queues
+- - - - - [ ] Exercise: 2 stars (simple_priq_proofs)
+- - [ ] Binomial Queues
