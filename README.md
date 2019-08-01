@@ -757,3 +757,30 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Characterizations of the Operations on Queues
 - - - - - [x] Exercise: 2 stars (simple_priq_proofs)
 - - [ ] Binomial Queues
+- - - [ ] Proof of Algorithm Correctness
+- - - - [ ] Various Functions Preserve the Representation Invariant
+- - - - - [ ] Exercise: 1 star (empty_priq)
+- - - - - [ ] Exercise: 2 stars (smash_valid)
+- - - - - [ ] Exercise: 3 stars (carry_valid)
+- - - - - [ ] Exercise: 2 stars, optional (insert_valid)
+- - - - - [ ] Exercise: 3 stars, optional (join_valid)
+- - - - - [ ] Exercise: 5 stars, optional (delete_max_Some_priq)
+- - - - [ ] The Abstraction Relation
+- - - - - [ ] Exercise: 3 stars (priqueue_elems)
+- - - - [ ] Sanity Checks on the Abstraction Relation
+- - - - - [ ] Exercise: 2 stars (tree_elems_ext)
+- - - - - [ ] Exercise: 2 stars (tree_perm)
+- - - - - [ ] Exercise: 2 stars (priqueue_elems_ext)
+- - - - - [ ] Exercise: 2 stars (abs_perm)
+- - - - - [ ] Exercise: 2 stars (can_relate)
+- - - - [ ] Various Functions Preserve the Abstraction Relation
+- - - - - [ ] Exercise: 1 star (empty_relate)
+- - - - - [ ] Exercise: 3 stars (smash_elems)
+- - - - [ ] Optional Exercises
+- - - - - [ ] Exercise: 4 stars, optional (carry_elems)
+- - - - - [ ] Exercise: 2 stars, optional (insert_elems)
+- - - - - [ ] Exercise: 4 stars, optional (join_elems)
+- - - - - [ ] Exercise: 2 stars, optional (merge_relate)
+- - - - - [ ] Exercise: 5 stars, optional (delete_max_None_relate)
+- - - - - [ ] Exercise: 5 stars, optional (delete_max_Some_relate)
+- - - [ ] Measurement.
