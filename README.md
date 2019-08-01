@@ -759,7 +759,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - [ ] Binomial Queues
 - - - [ ] Proof of Algorithm Correctness
 - - - - [ ] Various Functions Preserve the Representation Invariant
-- - - - - [ ] Exercise: 1 star (empty_priq)
+- - - - - [x] Exercise: 1 star (empty_priq)
 - - - - - [ ] Exercise: 2 stars (smash_valid)
 - - - - - [ ] Exercise: 3 stars (carry_valid)
 - - - - - [ ] Exercise: 2 stars, optional (insert_valid)
