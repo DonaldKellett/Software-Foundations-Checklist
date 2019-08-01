@@ -761,7 +761,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [ ] Various Functions Preserve the Representation Invariant
 - - - - - [x] Exercise: 1 star (empty_priq)
 - - - - - [x] Exercise: 2 stars (smash_valid)
-- - - - - [ ] Exercise: 3 stars (carry_valid)
+- - - - - [x] Exercise: 3 stars (carry_valid)
 - - - - - [ ] Exercise: 2 stars, optional (insert_valid)
 - - - - - [ ] Exercise: 3 stars, optional (join_valid)
 - - - - - [ ] Exercise: 5 stars, optional (delete_max_Some_priq)
