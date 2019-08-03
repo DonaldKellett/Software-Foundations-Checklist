@@ -773,9 +773,9 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 2 stars (priqueue_elems_ext)
 - - - - - [x] Exercise: 2 stars (abs_perm)
 - - - - - [x] Exercise: 2 stars (can_relate)
-- - - - [ ] Various Functions Preserve the Abstraction Relation
+- - - - [x] Various Functions Preserve the Abstraction Relation
 - - - - - [x] Exercise: 1 star (empty_relate)
-- - - - - [ ] Exercise: 3 stars (smash_elems)
+- - - - - [x] Exercise: 3 stars (smash_elems)
 - - - - [ ] Optional Exercises
 - - - - - [ ] Exercise: 4 stars, optional (carry_elems)
 - - - - - [ ] Exercise: 2 stars, optional (insert_elems)
