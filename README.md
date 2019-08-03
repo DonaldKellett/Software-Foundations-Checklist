@@ -767,12 +767,12 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 5 stars, optional (delete_max_Some_priq)
 - - - - [x] The Abstraction Relation
 - - - - - [x] Exercise: 3 stars (priqueue_elems)
-- - - - [ ] Sanity Checks on the Abstraction Relation
+- - - - [x] Sanity Checks on the Abstraction Relation
 - - - - - [x] Exercise: 2 stars (tree_elems_ext)
 - - - - - [x] Exercise: 2 stars (tree_perm)
 - - - - - [x] Exercise: 2 stars (priqueue_elems_ext)
 - - - - - [x] Exercise: 2 stars (abs_perm)
-- - - - - [ ] Exercise: 2 stars (can_relate)
+- - - - - [x] Exercise: 2 stars (can_relate)
 - - - - [ ] Various Functions Preserve the Abstraction Relation
 - - - - - [ ] Exercise: 1 star (empty_relate)
 - - - - - [ ] Exercise: 3 stars (smash_elems)
