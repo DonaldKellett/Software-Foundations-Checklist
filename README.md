@@ -777,7 +777,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 1 star (empty_relate)
 - - - - - [x] Exercise: 3 stars (smash_elems)
 - - - - [ ] Optional Exercises
-- - - - - [ ] Exercise: 4 stars, optional (carry_elems)
+- - - - - [x] Exercise: 4 stars, optional (carry_elems)
 - - - - - [ ] Exercise: 2 stars, optional (insert_elems)
 - - - - - [ ] Exercise: 4 stars, optional (join_elems)
 - - - - - [ ] Exercise: 2 stars, optional (merge_relate)
