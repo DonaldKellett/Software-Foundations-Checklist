@@ -780,7 +780,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 4 stars, optional (carry_elems)
 - - - - - [x] Exercise: 2 stars, optional (insert_elems)
 - - - - - [x] Exercise: 4 stars, optional (join_elems)
-- - - - - [ ] Exercise: 2 stars, optional (merge_relate)
+- - - - - [x] Exercise: 2 stars, optional (merge_relate)
 - - - - - [ ] Exercise: 5 stars, optional (delete_max_None_relate)
 - - - - - [ ] Exercise: 5 stars, optional (delete_max_Some_relate)
 - - - [ ] Measurement.
