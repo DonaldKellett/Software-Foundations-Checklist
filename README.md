@@ -784,3 +784,5 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - - [x] Exercise: 5 stars, optional (delete_max_None_relate)
 - - - - - [x] Exercise: 5 stars, optional (delete_max_Some_relate)
 - - - [ ] Measurement.
+- - - - [ ] Exercise: 5 stars, optional (binom_measurement)
+- - [ ] Programming with Decision Procedures
