@@ -757,7 +757,7 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Characterizations of the Operations on Queues
 - - - - - [x] Exercise: 2 stars (simple_priq_proofs)
 - - [ ] Binomial Queues
-- - - [ ] Proof of Algorithm Correctness
+- - - [x] Proof of Algorithm Correctness
 - - - - [x] Various Functions Preserve the Representation Invariant
 - - - - - [x] Exercise: 1 star (empty_priq)
 - - - - - [x] Exercise: 2 stars (smash_valid)
@@ -776,11 +776,11 @@ As such, this checklist is more meant as a way for me to track my progress throu
 - - - - [x] Various Functions Preserve the Abstraction Relation
 - - - - - [x] Exercise: 1 star (empty_relate)
 - - - - - [x] Exercise: 3 stars (smash_elems)
-- - - - [ ] Optional Exercises
+- - - - [x] Optional Exercises
 - - - - - [x] Exercise: 4 stars, optional (carry_elems)
 - - - - - [x] Exercise: 2 stars, optional (insert_elems)
 - - - - - [x] Exercise: 4 stars, optional (join_elems)
 - - - - - [x] Exercise: 2 stars, optional (merge_relate)
 - - - - - [x] Exercise: 5 stars, optional (delete_max_None_relate)
-- - - - - [ ] Exercise: 5 stars, optional (delete_max_Some_relate)
+- - - - - [x] Exercise: 5 stars, optional (delete_max_Some_relate)
 - - - [ ] Measurement.
