@@ -787,7 +787,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Using `sumbool` to Characterize Decision Procedures
 - - - - [x] `sumbool` in the Coq Standard Library
 - - - - - [x] Exercise: 2 stars (insert_sorted_le_dec)
-- - - [ ] Decidability and Computability
-- - - - [ ] Opacity of `Qed`
-- - - - - [ ] Exercise: 2 stars (list_nat_in)
+- - - [x] Decidability and Computability
+- - - - [x] Opacity of `Qed`
+- - - - - [x] Exercise: 2 stars (list_nat_in)
 - - - [ ] Advantages and Disadvantages of `reflect` Versus `sumbool`
