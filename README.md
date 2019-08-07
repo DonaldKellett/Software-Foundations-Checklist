@@ -788,3 +788,6 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] `sumbool` in the Coq Standard Library
 - - - - - [x] Exercise: 2 stars (insert_sorted_le_dec)
 - - - [ ] Decidability and Computability
+- - - - [ ] Opacity of `Qed`
+- - - - - [ ] Exercise: 2 stars (list_nat_in)
+- - - [ ] Advantages and Disadvantages of `reflect` Versus `sumbool`
