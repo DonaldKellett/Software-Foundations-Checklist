@@ -754,7 +754,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Predicates on Priority Queues
 - - - - [x] Characterizations of the Operations on Queues
 - - - - - [x] Exercise: 2 stars (simple_priq_proofs)
-- - [ ] Binomial Queues
+- - [x] Binomial Queues
 - - - [x] Proof of Algorithm Correctness
 - - - - [x] Various Functions Preserve the Representation Invariant
 - - - - - [x] Exercise: 1 star (empty_priq)
@@ -781,6 +781,6 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 2 stars, optional (merge_relate)
 - - - - - [x] Exercise: 5 stars, optional (delete_max_None_relate)
 - - - - - [x] Exercise: 5 stars, optional (delete_max_Some_relate)
-- - - [ ] Measurement.
-- - - - [ ] Exercise: 5 stars, optional (binom_measurement)
+- - - [x] Measurement.
+- - - - [x] Exercise: 5 stars, optional (binom_measurement)
 - - [ ] Programming with Decision Procedures
