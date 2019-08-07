@@ -784,7 +784,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Measurement.
 - - - - [x] Exercise: 5 stars, optional (binom_measurement)
 - - [ ] Programming with Decision Procedures
-- - - [ ] Using `sumbool` to Characterize Decision Procedures
-- - - - [ ] `sumbool` in the Coq Standard Library
-- - - - - [ ] Exercise: 2 stars (insert_sorted_le_dec)
+- - - [x] Using `sumbool` to Characterize Decision Procedures
+- - - - [x] `sumbool` in the Coq Standard Library
+- - - - - [x] Exercise: 2 stars (insert_sorted_le_dec)
 - - - [ ] Decidability and Computability
