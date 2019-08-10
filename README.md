@@ -798,7 +798,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 2 stars (InA_map_fst_key)
 - - - - - [x] Exercise: 3 stars (Sorted_lt_key)
 - - - - [ ] Cardinality
-- - - - - [ ] Exercise: 4 stars (cardinal_map)
+- - - - - [x] Exercise: 4 stars (cardinal_map)
 - - - - - [ ] Exercise: 4 stars (Sremove_cardinal_less)
 - - - - - [ ] Exercise: 4 stars (Mremove_elements)
 - - - - - [ ] Exercise: 3 stars (Mremove_cardinal_less)
