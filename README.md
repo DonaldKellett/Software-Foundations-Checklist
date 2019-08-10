@@ -802,6 +802,6 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 4 stars (Sremove_cardinal_less)
 - - - - - [x] Exercise: 4 stars (Mremove_elements)
 - - - - - [x] Exercise: 3 stars (Mremove_cardinal_less)
-- - - - - [ ] Exercise: 2 stars (two_little_lemmas)
+- - - - - [x] Exercise: 2 stars (two_little_lemmas)
 - - - - - [ ] Exercise: 3 stars (Sin_domain)
 - - - [ ] Now Begins the Graph Coloring Program
