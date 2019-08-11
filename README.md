@@ -805,3 +805,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 2 stars (two_little_lemmas)
 - - - - - [x] Exercise: 3 stars (Sin_domain)
 - - - [ ] Now Begins the Graph Coloring Program
+- - - - [ ] Some Proofs in Support of Termination
+- - - - - [ ] Exercise: 3 stars (subset_nodes_sub)
+- - - - - [ ] Exercise: 3 stars (select_terminates)
+- - - [ ] Proof of Correctness of the Algorithm.
