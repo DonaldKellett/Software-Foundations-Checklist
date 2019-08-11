@@ -791,17 +791,17 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Opacity of `Qed`
 - - - - - [x] Exercise: 2 stars (list_nat_in)
 - - [ ] Graph Coloring
-- - - [ ] Lemmas About Sets and Maps
+- - - [x] Lemmas About Sets and Maps
 - - - - [x] S.remove and S.elements
 - - - - - [x] Exercise: 3 stars (Sremove_elements)
 - - - - [x] Lists of (key,value) Pairs
 - - - - - [x] Exercise: 2 stars (InA_map_fst_key)
 - - - - - [x] Exercise: 3 stars (Sorted_lt_key)
-- - - - [ ] Cardinality
+- - - - [x] Cardinality
 - - - - - [x] Exercise: 4 stars (cardinal_map)
 - - - - - [x] Exercise: 4 stars (Sremove_cardinal_less)
 - - - - - [x] Exercise: 4 stars (Mremove_elements)
 - - - - - [x] Exercise: 3 stars (Mremove_cardinal_less)
 - - - - - [x] Exercise: 2 stars (two_little_lemmas)
-- - - - - [ ] Exercise: 3 stars (Sin_domain)
+- - - - - [x] Exercise: 3 stars (Sin_domain)
 - - - [ ] Now Begins the Graph Coloring Program
