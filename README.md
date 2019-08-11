@@ -804,8 +804,8 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 3 stars (Mremove_cardinal_less)
 - - - - - [x] Exercise: 2 stars (two_little_lemmas)
 - - - - - [x] Exercise: 3 stars (Sin_domain)
-- - - [ ] Now Begins the Graph Coloring Program
-- - - - [ ] Some Proofs in Support of Termination
+- - - [x] Now Begins the Graph Coloring Program
+- - - - [x] Some Proofs in Support of Termination
 - - - - - [x] Exercise: 3 stars (subset_nodes_sub)
-- - - - - [ ] Exercise: 3 stars (select_terminates)
+- - - - - [x] Exercise: 3 stars (select_terminates)
 - - - [ ] Proof of Correctness of the Algorithm.
