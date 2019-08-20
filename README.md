@@ -812,4 +812,4 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Exercise: 2 stars (adj_ext)
 - - - - [x] Exercise: 3 stars (in_colors_of_1)
 - - - - [ ] Exercise: 4 stars (color_correct)
-- - - [ ] Trying Out the Algorithm on an Actual Test Case
+- [ ] Volume 4: QuickChick: Property-Based Testing in Coq
