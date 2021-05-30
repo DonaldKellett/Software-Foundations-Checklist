@@ -813,3 +813,105 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Exercise: 3 stars (in\_colors\_of\_1)
 - - - - [ ] Exercise: 4 stars (color\_correct)
 - [ ] Volume 4: QuickChick: Property-Based Testing in Coq
+- [ ] Volume 5: Verifiable C
+- - [ ] Introduction to Verifiable C
+- - [ ] Linked lists in Verifiable C
+- - [ ] Stack ADT implemented by linked lists
+- - - [ ] Specification of linked lists
+- - - - [ ] Exercise: 1 star, standard (stack\_listrep\_properties)
+- - - [ ] Specification of stack data structure
+- - - - [ ] Exercise: 1 star, standard (stack\_properties)
+- - - [ ] Proofs of the function bodies
+- - - - [ ] Exercise: 2 stars, standard (body\_pop)
+- - - - [ ] Exercise: 2 stars, standard (body\_push)
+- - - - [ ] Exercise: 2 stars, standard (body\_newstack)
+- - [ ] A client of the stack functions
+- - - [ ] Proofs with integers
+- - - - [ ] Exercise: 2 stars, standard (Zinduction)
+- - - - [ ] A theorem about the nth triangular number
+- - - - - [ ] Exercise: 2 stars, standard (add\_list\_decreasing)
+- - - [ ] Proofs of the stack-client function-bodies
+- - - - [ ] Exercise: 3 stars, standard (body\_push\_increasing)
+- - - - [ ] Exercise: 2 stars, standard (add\_list\_lemmas)
+- - - - [ ] Exercise: 2 stars, standard (add\_list\_sublist\_bounds)
+- - - - [ ] Exercise: 3 stars, standard (add\_another)
+- - - - [ ] Exercise: 3 stars, standard (body\_pop\_and\_add)
+- - - - [ ] Exercise: 3 stars, standard (body\_main)
+- - [ ] List segments
+- - - [ ] List segments.
+- - - - [ ] Exercise: 1 star, standard (singleton\_lseg)
+- - - - [ ] Exercise: 1 star, standard (lseg\_lseg)
+- - - - [ ] Exercise: 1 star, standard (lseg\_list)
+- - - [ ] Proof of the `append` function
+- - - - [ ] Exercise: 1 star, standard (listrep\_null)
+- - - - [ ] Exercise: 1 star, standard (listrep\_nonnull)
+- - - - [ ] Exercise: 3 stars, standard (body\_append)
+- - - [ ] Additional exercises: more proofs about list segments
+- - - - [ ] Exercise: 1 star, standard: (lseg2listrep)
+- - - - [ ] Exercise: 1 star, standard: (listrep2lseg)
+- - - - [ ] Exercise: 2 stars, standard: (lseg\_lseg\_inv)
+- - - - [ ] Exercise: 2 stars, standard: (loopy\_lseg\_no\_connection)
+- - - [ ] Additional exercises: loop-free list segments
+- - - - [ ] Exercise: 2 stars, standard, optional (nt\_lseg)
+- - - - [ ] Exercise: 2 stars, standard, optional (singleton\_nt\_lseg')
+- - - - [ ] Exercise: 2 stars, standard, optional (nt\_lseg\_nt\_lseg)
+- - - - [ ] Exercise: 2 stars, standard, optional (nt\_lseg\_list)
+- - - - [ ] Exercise: 3 stars, standard, optional (body\_append\_alter1)
+- - [ ] Magic wand, partial data structure
+- - - [ ] Separating Implication
+- - - - [ ] Exercise: 2 stars, standard: (wand\_derives)
+- - - - [ ] Exercise: 2 stars, standard: (wand\_frame\_ver)
+- - - - [ ] Exercise: 3 stars, standard: (emp\_wand\_emp)
+- - - [ ] List segments by magic wand
+- - - - [ ] Exercise: 2 stars, standard: (singleton\_wlseg)
+- - - - [ ] Exercise: 2 stars, standard: (wlseg\_list)
+- - - [ ] Proof of the `append` function by `wlseg`
+- - - - [ ] Exercise: 3 stars, standard: (body\_append\_alter2)
+- - - [ ] Case study: list segments for linked list box
+- - - - [ ] Exercise: 1 star, standard: (emp\_lbseg)
+- - - - [ ] Exercise: 2 stars, standard: (lbseg\_lbseg)
+- - - - [ ] Exercise: 2 stars, standard: (listbox\_lbseg)
+- - [ ] String functions
+- - - [ ] Proof of the `strlen` function
+- - - - [ ] Exercise: 2 stars, standard (body\_strlen)
+- - - [ ] Proof of the `strcpy` function
+- - - - [ ] Exercise: 2 stars, standard (strcpy\_then\_clause)
+- - - - [ ] Exercise: 2 stars, standard (strcpy\_else\_clause)
+- - - - [ ] data\_at is not injective!
+- - - - - [ ] Exercise: 3 stars, standard (body\_strcpy)
+- - - - - [ ] Exercise: 3 stars, standard (example\_call\_strcpy)
+- - - - - [ ] Exercise: 4 stars, standard, optional (body\_strcmp)
+- - [ ] Functional model of hash tables
+- - - [ ] A functional model
+- - - - [ ] Exercise: 2 stars, standard (hashfun\_inrange)
+- - - - [ ] Exercise: 1 star, standard (hashfun\_get\_unfold)
+- - - - [ ] Exercise: 2 stars, standard (Zlength\_hashtable\_incr)
+- - - - [ ] Exercise: 3 stars, standard (hashfun\_snoc)
+- - - [ ] Functional model satisfies the high-level specification
+- - - - [ ] A "reference" implementation of COUNT\_TABLE
+- - - - - [ ] Exercise: 2 stars, standard (FunTable)
+- - - - [ ] Demonstration that hash tables implement COUNT\_TABLE
+- - - - - [ ] Exercise: 3 stars, standard (IntHashTable)
+- - [ ] Correctness proof of hash.c
+- - - [ ] Function specifications
+- - - - [ ] Data structures for hash table
+- - - - - [ ] Exercise: 1 star, standard (listcell\_fold)
+- - - - - [ ] Exercise: 2 stars, standard (listrep\_hints)
+- - - - - [ ] Exercise: 2 stars, standard (hashtable\_rep\_hints)
+- - - [ ] Proofs of the functions `hash`, `copy_string`, `new_cell`
+- - - - [ ] Exercise: 3 stars, standard (body\_hash)
+- - - - [ ] Exercise: 3 stars, standard (body\_copy\_string)
+- - - - [ ] Exercise: 3 stars, standard (body\_new\_cell)
+- - - [ ] Proof of the `new_table` function
+- - - - [ ] Auxiliary lemmas about data-structure predicates
+- - - - - [ ] Exercise: 2 stars, standard (iter\_sepcon\_hints)
+- - - - - [ ] Exercise: 2 stars, standard (iter\_sepcon\_split3)
+- - - - - [ ] Exercise: 3 stars, standard (body\_new\_table)
+- - - [ ] Proof of the `get` function
+- - - - [ ] Exercise: 2 stars, standard (listrep\_traverse)
+- - - - [ ] Exercise: 3 stars, standard (body\_get)
+- - - [ ] Proof of the `incr_list` function
+- - - - [ ] Exercise: 3 stars, standard (listboxrep\_traverse)
+- - - - [ ] Exercise: 4 stars, standard (body\_incr\_list)
+- - - [ ] Proof of the `incr` function
+- - - - [ ] Exercise: 4 stars, standard (body\_incr)
