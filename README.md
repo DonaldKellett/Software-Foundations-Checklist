@@ -815,7 +815,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - [ ] Volume 4: QuickChick: Property-Based Testing in Coq
 - [ ] Volume 5: Verifiable C
 - - [x] Introduction to Verifiable C
-- - [ ] Linked lists in Verifiable C
+- - [x] Linked lists in Verifiable C
 - - [ ] Stack ADT implemented by linked lists
 - - - [ ] Specification of linked lists
 - - - - [ ] Exercise: 1 star, standard (stack\_listrep\_properties)
