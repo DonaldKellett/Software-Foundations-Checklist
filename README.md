@@ -816,15 +816,15 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - [ ] Volume 5: Verifiable C
 - - [x] Introduction to Verifiable C
 - - [x] Linked lists in Verifiable C
-- - [ ] Stack ADT implemented by linked lists
+- - [x] Stack ADT implemented by linked lists
 - - - [x] Specification of linked lists
 - - - - [x] Exercise: 1 star, standard (stack\_listrep\_properties)
 - - - [x] Specification of stack data structure
 - - - - [x] Exercise: 1 star, standard (stack\_properties)
-- - - [ ] Proofs of the function bodies
+- - - [x] Proofs of the function bodies
 - - - - [x] Exercise: 2 stars, standard (body\_pop)
 - - - - [x] Exercise: 2 stars, standard (body\_push)
-- - - - [ ] Exercise: 2 stars, standard (body\_newstack)
+- - - - [x] Exercise: 2 stars, standard (body\_newstack)
 - - [ ] A client of the stack functions
 - - - [ ] Proofs with integers
 - - - - [ ] Exercise: 2 stars, standard (Zinduction)
