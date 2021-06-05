@@ -823,7 +823,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Exercise: 1 star, standard (stack\_properties)
 - - - [ ] Proofs of the function bodies
 - - - - [x] Exercise: 2 stars, standard (body\_pop)
-- - - - [ ] Exercise: 2 stars, standard (body\_push)
+- - - - [x] Exercise: 2 stars, standard (body\_push)
 - - - - [ ] Exercise: 2 stars, standard (body\_newstack)
 - - [ ] A client of the stack functions
 - - - [ ] Proofs with integers
