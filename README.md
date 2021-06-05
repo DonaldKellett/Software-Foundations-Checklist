@@ -817,8 +817,8 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - [x] Introduction to Verifiable C
 - - [x] Linked lists in Verifiable C
 - - [ ] Stack ADT implemented by linked lists
-- - - [ ] Specification of linked lists
-- - - - [ ] Exercise: 1 star, standard (stack\_listrep\_properties)
+- - - [x] Specification of linked lists
+- - - - [x] Exercise: 1 star, standard (stack\_listrep\_properties)
 - - - [ ] Specification of stack data structure
 - - - - [ ] Exercise: 1 star, standard (stack\_properties)
 - - - [ ] Proofs of the function bodies
